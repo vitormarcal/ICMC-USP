@@ -34,8 +34,9 @@
    - [University of San Francisco - CS](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 - Work Hard, Have Fun & Make Things :smile: :heart: :baby:
    - [RaspberryPi](https://www.raspberrypi.org/homepage-9df4b/)
+   - [Embarcados](https://www.embarcados.com.br/)
    - [Arduino](https://www.arduino.cc/)
-      - [Brasilino - Uma biblioteca que permite programar em linguagem Arduino utilizando comandos facilitados em PT-BR.](https://otacilion.github.io/Brasilino/)
+      - [Brasilino](https://otacilion.github.io/Brasilino/)
    - [MIT Scratch](https://scratch.mit.edu/projects/editor/)
    - [Pico8](https://www.lexaloffle.com/pico-8.php)
       - [NerdyTeachers](https://nerdyteachers.com/)
