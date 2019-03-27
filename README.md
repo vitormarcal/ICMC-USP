@@ -296,6 +296,7 @@
        - [NerdTech](https://www.alura.com.br/podcast-nerdtech)
        - [LoopMatinal](http://www.loopmatinal.com/)
        - [Syntax](https://syntax.fm/)
+       - [Sinapse](https://anchor.fm/sinapse)
        - [DataBase Cast](http://databasecast.com.br/wp/)
        - [Podprogramar](https://mundopodcast.com.br/podprogramar/)
        - [SudoCast](https://github.com/sudocast)

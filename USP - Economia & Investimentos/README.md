@@ -9,6 +9,8 @@
     - [CVM](http://www.cvm.gov.br/)
     - [Portal do Empreendedor](http://www.portaldoempreendedor.gov.br/)
     - [Population Explorer](https://www.populationexplorer.com/)
+ - Ferramentas
+    - [ClubeFII - Calcular Juros Compostos de Fundos Imobiliários](https://www.clubefii.com.br/)
  - Blogs
     - [Blog Magnetis](blog.magnetis.com.br)
     - [Blog Toro Investimentos](https://blog.toroinvestimentos.com.br)
