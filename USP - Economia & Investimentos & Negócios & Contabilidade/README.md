@@ -11,6 +11,9 @@
     - [Population Explorer](https://www.populationexplorer.com/)
  - Ferramentas
     - [ClubeFII - Calcular Juros Compostos de Fundos Imobiliários](https://www.clubefii.com.br/)
+    - [Cálculo Independência Financeira](https://clubedovalor.com.br/calculadora-independencia-financeira-i/?sck=aIQSBEeLy1M&utm_source=youtube&utm_medium=video&utm_content=aIQSBEeLy1M&utm_campaign=cdv-conversion)
+    - [Yubb](https://yubb.com.br/)
+    - [SimulaBolsa](http://www.simulabolsa.com.br/login.php)
  - Blogs
     - [Blog Magnetis](blog.magnetis.com.br)
     - [Blog Toro Investimentos](https://blog.toroinvestimentos.com.br)
@@ -87,6 +90,10 @@
     M = 5,000 . (1,05)^12
     ```
  - Siglas
+    - BOVESPA = Bolsa de Valores Do Estado de São Paulo
+    - IBOVESPA = Indice da Bolsa de Valores Do Estado de São Paulo
+       - É um índice de comparação, onde se pega geralmente 80% das ações mais compradas e vendidas dos últimos meses, assim como sua liquidez, para compor esse indice. A quantidade de pontos que ela sobe, é uma proporção da quantidade de valor agregado (que aumentou) das ações dos índices.
+       - O Ibovespa (…) é formado a partir de certa aplicação imaginária, em Reais, em quantidade teórica de ações (carteira). Sua finalidade básica é servir como indicador médio do comportamento do mercado. Para tanto, as ações que fazem parte do índice representam mais de 80% do número de negócios  e do volume financeiro negociados no mercado à vista. Como as ações que fazem parte dessa carteira têm grande representatividade, podemos dizer que se a maioria delas estiver subindo, o mercado, medido pelo Índice Bovespa, está em alta, e se estiver caindo, está em baixa.
     - Empréstimo
        - ato de emprestar, aquilo que se empresta.
     - Financiamento

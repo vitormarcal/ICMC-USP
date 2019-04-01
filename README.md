@@ -114,6 +114,7 @@
        - [Toca do Tux](https://www.youtube.com/channel/UCkATW9o8m4pnXAAmac2o63Q)
        - [Curso de Linux Básico / Certificação LPIC1](https://www.youtube.com/watch?v=u16ZDPcf8Rc&list=PLucm8g_ezqNp92MmkF9p_cj4yhT-fCTl7)
     - Tools
+       - [AnyDesk](https://anydesk.com)
        - [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
        - [Etcher - Flash OS images to SD cards & USB drives](https://etcher.io/)
        - [Rufus.ie for Windows](https://rufus.ie)
@@ -257,6 +258,7 @@
 
 ## Nice Articles
 
+ - [Sad Reality About Today's Modern World](https://www.youtube.com/watch?v=D2vV4SS3pWk)
  - [O que é propósito de vida](https://mopora.com/artigos/o-que-e-proposito-de-vida/)
  - [The Invented History of 'The Factory Model of Education'](http://hackeducation.com/2015/04/25/factory-model)
  - [The Humble Programmer by Edsger W. Dijkstra](https://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD340.html)
