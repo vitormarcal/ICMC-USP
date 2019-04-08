@@ -438,11 +438,13 @@
  - Philosophy
     - [Canal do Cortella](https://www.youtube.com/channel/UCyTS929PXJSUiBEFSzdypgg)
     - [Luiz Felipe Pondé](https://www.youtube.com/channel/UCW9jLtlONRp7W-AK9F8M66Q)
+    - [NOVA ACRÓPOLE - Escola Internacional de Filosofia](https://www.youtube.com/channel/UCAMO_xP86YB4FSHD1Mi_GpA)
     - [Prazer, Karnal](https://www.youtube.com/channel/UC4O2eKb8vI4VlMeNp90asfg)
     - [Casa do Saber](https://www.youtube.com/channel/UCtvvTFp0XANyllOdmzZr9VQ)
     - [Saber Filosófico](https://www.youtube.com/channel/UCWdXgfpEIZIGzah9_yCL-Xw)
  - Others
     - [PhilosTV](https://philos.tv/)
+    - [The History Channel Brasil](https://www.youtube.com/watch?v=6bvc8TgeGUA)
     - [Canal do Moscoso](https://www.youtube.com/channel/UChVeSyoB200ALDpnTr1TOrg/videos)
     - [Canal Nostalgia](https://www.youtube.com/user/fecastanhari)
     - [MuriloGun](https://www.youtube.com/user/murilogun/videos)
