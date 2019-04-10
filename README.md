@@ -258,15 +258,40 @@
 
 ## Nice Articles
 
- - [Sad Reality About Today's Modern World](https://www.youtube.com/watch?v=D2vV4SS3pWk)
- - [O que é propósito de vida](https://mopora.com/artigos/o-que-e-proposito-de-vida/)
- - [The Invented History of 'The Factory Model of Education'](http://hackeducation.com/2015/04/25/factory-model)
- - [The Humble Programmer by Edsger W. Dijkstra](https://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD340.html)
  - [Teach Yourself Programming in Ten Years - Peter Norvig](http://norvig.com/21-days.html)
  - [Getting Real - the smarter, faster, easy way to build a sucesfull web application - BaseCamp](https://basecamp.com/books/getting-real)
+ - [Sad Reality About Today's Modern World](https://www.youtube.com/watch?v=D2vV4SS3pWk)
+ - [O que é propósito de vida - Mopora](https://mopora.com/artigos/o-que-e-proposito-de-vida/)
+ - [The Invented History of 'The Factory Model of Education'](http://hackeducation.com/2015/04/25/factory-model)
+ - [The Humble Programmer by Edsger W. Dijkstra](https://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD340.html)
  - [Educação Clássica e Homeschooling](https://www.youtube.com/watch?v=LjJlus8oC9M)
  - [Principles for Success - Ray Dalio](https://www.principles.com/principles-for-success/)
- - [The Twelve Factor App](https://12factor.net/)
+ - [The Twelve Factor App - Heroku](https://12factor.net/)
+    - A aplicação doze-fatores é uma metodologia para construir softwares-como-serviço.
+    - I. Base de Código
+       - Uma base de código com rastreamento utilizando controle de revisão, muitos deploys
+    - II. Dependências
+       - Declare e isole as dependências
+    - III. Configurações
+       - Armazene as configurações no ambiente
+    - IV. Serviços de Apoio
+       - Trate os serviços de apoio, como recursos ligados
+    - V. Build, release, run
+       - Separe estritamente os builds e execute em estágios
+    - VI. Processos
+       - Execute a aplicação como um ou mais processos que não armazenam estado
+    - VII. Vínculo de porta
+       - Exporte serviços por ligação de porta
+    - VIII. Concorrência
+       - Dimensione por um modelo de processo
+    - IX. Descartabilidade
+       - Maximizar a robustez com inicialização e desligamento rápido
+    - X. Dev/prod semelhantes
+       - Mantenha o desenvolvimento, teste, produção o mais semelhante possível
+    - XI. Logs
+       - Trate logs como fluxo de eventos
+    - XII. Processos de Admin
+       - Executar tarefas de administração/gerenciamento como processos pontuais
  - [Write Code Every Day - John Resig](https://johnresig.com/blog/write-code-every-day/)
  - [Why Good Programmers Are Lazy and Dumb](http://blogoscoped.com/archive/2005-08-24-n14.html)
  - [The Feynman Technique: The Best Way to Learn Anything - Easy to Understand | Hard To Master](https://fs.blog/2012/04/learn-anything-faster-with-the-feynman-technique/)
@@ -462,7 +487,22 @@
        - REGRA 10 – Seja preciso no que diz
        - REGRA 11 – Não incomode as crianças quando estão andando de skate
        - REGRA 12 – Acaricie um gato ao encontrar um na rua
-    
+    - O Jeito Harvard de Ser Feliz: 7 Princípios
+       - I – O benefício da felicidade
+          - “Quando eu for bem sucedido, eu vou ser feliz.” - ERRADO
+          - "Se eu sou feliz fazendo o que eu faço, terei sucesso." - CERTO
+       - II. O ponto de apoio e alavanca
+          -  Quanto mais você acredita na própria capacidade de sucesso, maiores são as suas chances de atingir esse sucesso.
+       - III. O efeito Tetris
+          - Algumas pessoas estão configuradas para identificar apenas padrões negativos, enquanto outros, positivos
+       - IV. Encontre oportunidades na adversidade
+       - V. O círculo do zorro
+          - comece muito pequeno e vá aumentando.
+       - VI. A regra dos 20 segundos
+          - A Regra dos 20 segundos fala pra você eliminar os “cerca de 20 min” antes do novo hábito que você quer incorporar. Tire todas as barreiras antes de começar aquela atividade para deixá-la o mais fácil possível!
+       - VII. Investimento social
+          - rede social de apoio é o seu maior ativo.
+
 
 <br><br>
 
