@@ -429,7 +429,6 @@
  - Self Development & Philosophy & History & Others
     - [NeuroVox](https://www.youtube.com/user/NeuroVoxConsultoria)
     - [Moporã](https://www.youtube.com/channel/UCZYCNT6OT4_cgt-ldtwGQJw)
-    - [Jordan Peterson](https://www.youtube.com/user/JordanPetersonVideos)
     - [Arata Academy](https://www.youtube.com/channel/UCEdgNBcBybRtwv836C8El4g)
     - [Jacob Petry](https://www.youtube.com/channel/UCv79O7v-AHomNC7MB7cx6BA)
     - [Augusto Ollivieri](https://www.youtube.com/channel/UCfkmlovZdEmMzTsGwatkoIw)
@@ -450,6 +449,7 @@
     - [Casa do Saber](https://www.youtube.com/channel/UCtvvTFp0XANyllOdmzZr9VQ)
     - [Saber Filosófico](https://www.youtube.com/channel/UCWdXgfpEIZIGzah9_yCL-Xw)
     - [Seja Uma Pessoa Melhor](https://www.youtube.com/channel/UCbG7_Agdb99rhG9-rhY8iTg/videos)
+    - [Jordan Peterson](https://www.youtube.com/user/JordanPetersonVideos)
        - REGRA 1 – Costas eretas e ombros para trás
        - REGRA 2 – Cuide de si mesmo como cuidaria de alguém sob sua responsabilidade
        - REGRA 3 – Seja amigo de pessoas que queiram o melhor para você
