@@ -1,3 +1,10 @@
+<p align="center">
+  "<strong>Everyone should learn how to program a computer, because it teaches you how to think."</strong><br><br> - Steve Jobs
+    <br>
+  </p>
+
+<br><br>
+
 ## English
 
 - [Mairo Vergara](http://www.mairovergara.com/)
@@ -8,7 +15,11 @@
 
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 - [Teach Yourself CS](https://teachyourselfcs.com/)
+- [CS50 Harvard](https://www.youtube.com/user/cs50tv/videos)
 - [wiki.icmc.usp.br](http://wiki.icmc.usp.br/index.php/P%C3%A1gina_principal_CoteiaWIKI)
+- [edx.org/computer-science](https://www.edx.org/course/subject/computer-science)
+- [coursera.org/algorithms](https://pt.coursera.org/courses?query=algorithms)
+- [Electrical Engineering and Computer Science - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
 
 ## Algorithms and Data Structs
 
@@ -112,7 +123,7 @@
     - YoTube
        - [Diolinux](https://www.youtube.com/user/Diolinux)
        - [Toca do Tux](https://www.youtube.com/channel/UCkATW9o8m4pnXAAmac2o63Q)
-       - [Curso de Linux Básico / Certificação LPIC1](https://www.youtube.com/watch?v=u16ZDPcf8Rc&list=PLucm8g_ezqNp92MmkF9p_cj4yhT-fCTl7)
+       - [Curso de Linux Básico / Certificação LPIC1 - Bóson Treinamentos](https://www.youtube.com/watch?v=u16ZDPcf8Rc&list=PLucm8g_ezqNp92MmkF9p_cj4yhT-fCTl7)
     - Tools
        - [AnyDesk](https://anydesk.com)
        - [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
@@ -120,11 +131,12 @@
        - [Rufus.ie for Windows](https://rufus.ie)
        - [WineHQ](https://www.winehq.org/)
        - [Vim Para Noobs](https://woliveiras.com.br/vimparanoobs/)
+    - Games
        - [Lutris.net :video_game:](https://lutris.net/)
        - [$ sudo apt install zsnes :video_game:](http://www.zsnes.com/)
        - [$ sudo apt install playonlinux :video_game:](https://www.playonlinux.com/en/)
     - Operation System
-       - [Lubuntu - OS I Use and Recommend. Simple, Light and Usefull](https://lubuntu.net/)
+       - [<strong>Lubuntu 18.04 LTS- OS I Use and Recommend</strong>](https://lubuntu.net/)
  - FreeBSD
     - Sites
        - [Documentation PT-BR](https://www.freebsd.org/doc/pt_BR.ISO8859-1/)
@@ -413,7 +425,6 @@
     - [Laboratório da Júlia](https://www.youtube.com/channel/UChfu9xWITOvsXYLKm7hieSQ)
     - [Rodrigo Souza](https://www.youtube.com/channel/UCdHcO3zYXVco91CIAk1u4PA)
     - [SoftBlue](https://www.youtube.com/user/softbluecursos)
-    - [CS50](https://www.youtube.com/user/cs50tv/videos)
     - [Computherpile](https://www.youtube.com/user/Computerphile)
     - [A história da Tecnologia - TecMundo](https://www.youtube.com/playlist?list=PL7cCKVGMzqmbyaouQulXxUJLdwW4qBMpp)
     - [Mayuko](https://www.youtube.com/user/hellomayuko/videos)
@@ -459,6 +470,7 @@
     - [Augusto Ollivieri](https://www.youtube.com/channel/UCfkmlovZdEmMzTsGwatkoIw)
     - [IlustradaMente](https://www.youtube.com/channel/UCNmO5NWNLQkOr76WmHEq-DQ)
     - [PhilosTV](https://philos.tv/)
+    - [16 Personalities](https://www.16personalities.com/)
     - [The History Channel Brasil](https://www.youtube.com/watch?v=6bvc8TgeGUA)
     - [Canal do Moscoso](https://www.youtube.com/channel/UChVeSyoB200ALDpnTr1TOrg/videos)
     - [Canal Nostalgia](https://www.youtube.com/user/fecastanhari)

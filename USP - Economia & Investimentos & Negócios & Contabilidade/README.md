@@ -30,8 +30,10 @@
     - [Bastter.com](https://bastter.com/)
  - Teorias Econômicas
     - [Contabilidade de Dupla Entrada](http://web.mit.edu/jhawk/mnt/spo/gnucash/src/gnucash-1.6.4/doc/sgml/pt_PT/gnucash/xacc-doubleentry.html)
+    - [Efeito Dunning Kruger](https://pt.wikipedia.org/wiki/Efeito_Dunning-Kruger)
     - [Teoria dos Jogos](https://www.wikiwand.com/pt/Teoria_dos_jogos)
        - [Dilema do Prisioneiro](https://www.wikiwand.com/pt/Dilema_do_prisioneiro)
+    - [Adaptação Hedônica](https://pt.wikipedia.org/wiki/Adapta%C3%A7%C3%A3o_hed%C3%B3nica)
     - [Oferta e Demanda](https://www.wikiwand.com/pt/Lei_da_oferta_e_da_procura)
     - [Curva de Laffer](https://www.wikiwand.com/pt/Curva_de_Laffer)
     - [Viés de Confirmação](https://www.wikiwand.com/pt/Vi%C3%A9s_de_confirma%C3%A7%C3%A3o)
