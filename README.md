@@ -21,6 +21,22 @@
 - [coursera.org/algorithms](https://pt.coursera.org/courses?query=algorithms)
 - [Electrical Engineering and Computer Science - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
 
+## Useful Tools
+
+ - [StackOverFlow](https://stackoverflow.com/)
+    - [Insights StackOverFlow](https://insights.stackoverflow.com/)
+    - [Trends StackOverFlow](https://insights.stackoverflow.com/trends?tags=r%2Cstatistics)
+ - [LastPass](https://www.lastpass.com/pt)
+ - Ruby on Rails
+    - $ sudo apt update
+    - $ sudo apt install ruby-full
+    - $ ruby --version
+    - $ gem install rails
+    - $ rails --version
+    - [$ rails new blog](https://guides.rubyonrails.org/getting_started.html)
+    - $ cd blog
+    - $ bin/rails server
+
 ## Algorithms and Data Structs
 
  - Most Recommended Book
@@ -110,7 +126,7 @@
           return Fibonacci(number - 2) + Fibonacci(number - 1);
       }
       ```
-  
+
 ## [Unix](https://pt.wikipedia.org/wiki/Unix)
 
  - [Linux](https://www.linuxfoundation.org/)
@@ -118,6 +134,10 @@
        - [Guia Foca](http://www.guiafoca.org/?page_id=51)
        - [SS64 - Commands CLI References](https://ss64.com/)
        - [Kernel.org](https://www.kernel.org/)
+    - Funny Commands
+       - $ cmatrix
+       - $ cowsay "I'm Awesome!""
+       - $ xcowsay "I'm More Awesome!"
     - Apps
        - [Linux Command Library](https://play.google.com/store/apps/details?id=com.inspiredandroid.linuxcommandbibliotheca&hl=en&rdid=com.inspiredandroid.linuxcommandbibliotheca)
     - YoTube
@@ -136,7 +156,7 @@
        - [$ sudo apt install zsnes :video_game:](http://www.zsnes.com/)
        - [$ sudo apt install playonlinux :video_game:](https://www.playonlinux.com/en/)
     - Operation System
-       - [<strong>Lubuntu 18.04 LTS- OS I Use and Recommend</strong>](https://lubuntu.net/)
+       - [<strong>Lubuntu 18.04 LTS(Bionic Beaver) -> OS I currently Use and Recommend</strong>](https://lubuntu.net/)
  - FreeBSD
     - Sites
        - [Documentation PT-BR](https://www.freebsd.org/doc/pt_BR.ISO8859-1/)
@@ -181,7 +201,7 @@
        - [BCrypt](https://en.wikipedia.org/wiki/Bcrypt)
     - NOT RECOMMENDED
        - [MD5](https://pt.wikipedia.org/wiki/MD5)
-       - [SHA1-2-256](https://www.thesslstore.com/blog/difference-sha-1-sha-2-sha-256-hash-algorithms/)
+       - [SHA1 | SHA2 | SHA256](https://www.thesslstore.com/blog/difference-sha-1-sha-2-sha-256-hash-algorithms/)
  - Tools
     - Operation Systems
        - [Kali Linux](https://www.kali.org/)
@@ -198,7 +218,7 @@
 	   - DataBases
 	      - [Exploit-DB](https://www.exploit-db.com/)
 	      - [SQLMap](http://sqlmap.org/)
-	   - CLI
+	   - Useful CLI Commands
 	      - [$ nmap site_url](https://nmap.org/)
 	      - [$ traceroute site_url](https://www.lifewire.com/traceroute-linux-command-4092586)
 	      - [$ curl site_url](https://curl.haxx.se/)
@@ -206,7 +226,7 @@
 	      - [$ ping site_url](https://www.wikiwand.com/en/Ping)
 	      - [$ host site_url](https://www.computerhope.com/unix/host.htm)
 	      - [$ whois site_url](https://who.is/)
-	   - Browser
+	   - Browsers
 	      - [DuckDuckGo](https://duckduckgo.com)
 	      - [Bernes Lee Solid](https://solid.mit.edu/)
 	      - [Beaker Browser](https://beakerbrowser.com)
