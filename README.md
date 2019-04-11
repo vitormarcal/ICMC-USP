@@ -516,12 +516,6 @@
           - rede social de apoio é o seu maior ativo.
 
 
-## 3 Personal tips I would give to myself before and for my children:
-
- - <strong>1: Be extremely curious, preferably about everything.</strong>
- - <strong>2: Never stop questioning, especially the authorities.</strong>
- - <strong>3: Never believe 100% in what other people say. Learn to think for yourself. In the end, the hole is the same for everyone.</strong>
-
 
 <br><br>
 
