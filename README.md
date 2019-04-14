@@ -13,6 +13,7 @@
 
 ## Roadmap Software Engineering
 
+- [Teach Yourself Programming in Ten Years - Peter Norvig](http://norvig.com/21-days.html)
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 - [Teach Yourself CS](https://teachyourselfcs.com/)
 - [CS50 Harvard](https://www.youtube.com/user/cs50tv/videos)
@@ -308,7 +309,6 @@
 
 ## Nice Articles
 
- - [Teach Yourself Programming in Ten Years - Peter Norvig](http://norvig.com/21-days.html)
  - [Getting Real - the smarter, faster, easy way to build a sucesfull web application - BaseCamp](https://basecamp.com/books/getting-real)
  - [Sad Reality About Today's Modern World](https://www.youtube.com/watch?v=D2vV4SS3pWk)
  - [O que é propósito de vida - Mopora](https://mopora.com/artigos/o-que-e-proposito-de-vida/)
