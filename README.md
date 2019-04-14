@@ -27,6 +27,8 @@
     - [Insights StackOverFlow](https://insights.stackoverflow.com/)
     - [Trends StackOverFlow](https://insights.stackoverflow.com/trends?tags=r%2Cstatistics)
  - [LastPass](https://www.lastpass.com/pt)
+    - Software to save, create and remember all your passwords 
+ - [cheatsheet do git-flow](https://danielkummer.github.io/git-flow-cheatsheet/index.pt_BR.html)
  - Ruby on Rails
     - $ sudo apt update
     - $ sudo apt install ruby-full
@@ -59,11 +61,17 @@
 - Data Structs Visualization
    - [VisualGo](https://visualgo.net/en)
    - [University of San Francisco - CS](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
-- Work Hard, Have Fun & Make Things :smile: :heart: :baby:
+- Work Hard, Make Things, Have Fun & Make History :smile: :baby: :heart: 
    - [RaspberryPi](https://www.raspberrypi.org/homepage-9df4b/)
+      - [Noobs - Beginners should start with NOOBS – New Out Of the Box Software](https://www.raspberrypi.org/downloads/noobs/)
+      - [Lakka](https://www.lakka.tv/)
+      - [RetroPie](https://retropie.org.uk/)
    - [Embarcados](https://www.embarcados.com.br/)
    - [Arduino](https://www.arduino.cc/)
+      - [Manual Maker | Manual do Mundo - YouTube PlayList](https://www.youtube.com/watch?v=gcBN4NLqz_U&list=PLYjrJH3e_wDNLUTN32WittrpBxeleEqNp)
+      - [ArduinoCreate Online](https://create.arduino.cc/)
       - [Brasilino](https://otacilion.github.io/Brasilino/)
+         - Uma biblioteca que permite programar em linguagem Arduino utilizando comandos facilitados em PT-BR.
    - [MIT Scratch](https://scratch.mit.edu/projects/editor/)
    - [Pico8](https://www.lexaloffle.com/pico-8.php)
       - [NerdyTeachers](https://nerdyteachers.com/)
@@ -71,9 +79,10 @@
    - [CodeCombat](https://codecombat.com/) 
    - [Code.org](https://code.org/)
    - [CodeMonkey](https://www.playcodemonkey.com/)
-   - [MonkeyUser](https://www.monkeyuser.com/)
-   - [VidaDeProgramador](https://vidadeprogramador.com.br/)
-   - [VidaDeHipster](https://www.vidadehipster.com.br/)
+   - Cartoons
+      - [MonkeyUser](https://www.monkeyuser.com/)
+      - [VidaDeProgramador](https://vidadeprogramador.com.br/)
+      - [VidaDeHipster](https://www.vidadehipster.com.br/)
    - <strong>Onde Comprar?</strong>
       - [FilipeFlop](https://www.filipeflop.com) 
 - Big O
@@ -135,10 +144,19 @@
        - [SS64 - Commands CLI References](https://ss64.com/)
        - [Kernel.org](https://www.kernel.org/)
     - Funny Commands
+       - $ fortune 
+          - If you are demotivated, maybe this command can be useful :smile:
+       - $ sl  
+          - Sheldon Cooper sure likes this command :smile:
        - $ cmatrix
-       - $ cowsay "I'm Awesome!""
+          - man, I'm a hacker, wait, Neo it's you? :smile:
+       - $ cowsay "I'm Awesome!"
+          - Wait, what is a cow doing here? :smile:
        - $ xcowsay "I'm More Awesome!"
-    - Apps
+          - Holy shit, this cow is more awesome. :smile:
+       - $ espeak "phrase here"
+          - I'm making contact with aliens man! :smile:
+    - Apps for Learn Linux CLI Commands
        - [Linux Command Library](https://play.google.com/store/apps/details?id=com.inspiredandroid.linuxcommandbibliotheca&hl=en&rdid=com.inspiredandroid.linuxcommandbibliotheca)
     - YoTube
        - [Diolinux](https://www.youtube.com/user/Diolinux)
@@ -156,7 +174,7 @@
        - [$ sudo apt install zsnes :video_game:](http://www.zsnes.com/)
        - [$ sudo apt install playonlinux :video_game:](https://www.playonlinux.com/en/)
     - Operation System
-       - [<strong>Lubuntu 18.04 LTS(Bionic Beaver) -> OS I currently Use and Recommend</strong>](https://lubuntu.net/)
+       - [<strong>Lubuntu 18.04 LTS (Bionic Beaver) -> OS I currently Use and Recommend (It's better than windows at least)</strong>](https://lubuntu.net/)
  - FreeBSD
     - Sites
        - [Documentation PT-BR](https://www.freebsd.org/doc/pt_BR.ISO8859-1/)
@@ -482,7 +500,7 @@
     - [Thoughty2](https://www.youtube.com/user/Thoughty2/featured)
     - [MathGurl](https://www.youtube.com/channel/UC5RV_s1Jh-jQI4HfexEIb2Q)
     - [A Matemaníaca por Julia Jaccoud](https://www.youtube.com/channel/UCz4Zuqtj9fokXH68gZJmCdA)
- - Self Development & Philosophy & History & Others
+ - Self Development & Philosophy & Psychology & History & Others
     - [NeuroVox](https://www.youtube.com/user/NeuroVoxConsultoria)
     - [Moporã](https://www.youtube.com/channel/UCZYCNT6OT4_cgt-ldtwGQJw)
     - [Arata Academy](https://www.youtube.com/channel/UCEdgNBcBybRtwv836C8El4g)

@@ -14,6 +14,7 @@
     - [Cálculo Independência Financeira](https://clubedovalor.com.br/calculadora-independencia-financeira-i/?sck=aIQSBEeLy1M&utm_source=youtube&utm_medium=video&utm_content=aIQSBEeLy1M&utm_campaign=cdv-conversion)
     - [Yubb](https://yubb.com.br/)
     - [SimulaBolsa](http://www.simulabolsa.com.br/login.php)
+    - [Carro, Taxi ou Uber?](https://especiais.g1.globo.com/economia/seu-dinheiro/calculadoras/2017/carro-taxi-uber/)
  - Blogs
     - [Blog Magnetis](blog.magnetis.com.br)
     - [Blog Toro Investimentos](https://blog.toroinvestimentos.com.br)
