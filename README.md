@@ -561,3 +561,10 @@
   "<strong>I am always ready to learn although I do not always like being taught."</strong><br><br> - Winston Churchill
     <br>
   </p>
+
+<br><br>
+
+<p align="center">
+  "<strong>Don't confuse education with schooling. I didn't go to Harvard, but people who work for me did."</strong><br><br> - Elon Musk
+    <br>
+  </p>
