@@ -453,9 +453,10 @@
     - [Baboo](https://www.youtube.com/user/baboo/videos)
     - [CodellabCode](https://www.youtube.com/channel/UCVheRLgrk7bOAByaQ0IVolg)
     - [CanalTech](https://www.youtube.com/user/canaltechbr)
-    - [William Oliveira](https://www.youtube.com/channel/UCWrqsnPLl6aRX0ECUmPaZEw)
+    - [O Universo da Programação](https://www.youtube.com/channel/UCWrqsnPLl6aRX0ECUmPaZEw)
     - [UNIVESPTV](https://www.youtube.com/user/univesptv/playlists)
     - [Engenharia Reversa](https://www.youtube.com/channel/UCagV1LuB6C52fFtZwVywZYg)
+    - [TheHardwareShow](https://www.youtube.com/channel/UCiXDLhXSFZdnu1OWxwGvPTw)
     - [DevNaEstrada](https://www.youtube.com/channel/UCtIygB7LtILSFWR0kxtZC-A/videos)
     - [RocketSeat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg/videos)
     - [Bóson Treinamentos](https://www.youtube.com/user/bosontreinamentos)
@@ -487,6 +488,7 @@
     - [Canal do Pirula](https://www.youtube.com/user/Pirulla25)
     - [Kurzgesagt – In a Nutshell](https://www.youtube.com/user/Kurzgesagt)
     - [Vsauce](https://www.youtube.com/user/Vsauce)
+    - [PBS Space Time ](https://www.youtube.com/channel/UC7_gcs09iThXybpVgjHZ_7g/about)
     - [Ponto em Comum](https://www.youtube.com/channel/UCGo3vjM2Ll3XujL-zYT5SMg)
     - [Alimente o Cérebro](https://www.youtube.com/channel/UC3fBS89aQ7mt5G1TodU4HNg)
     - [Singularidade](https://www.youtube.com/channel/UCA6-1g_4e3iuT1qeXe6xNuA/videos)
@@ -552,7 +554,35 @@
           - A Regra dos 20 segundos fala pra você eliminar os “cerca de 20 min” antes do novo hábito que você quer incorporar. Tire todas as barreiras antes de começar aquela atividade para deixá-la o mais fácil possível!
        - VII. Investimento social
           - rede social de apoio é o seu maior ativo.
-
+    - Diferença entre Objetivo e Meta
+       - O objetivo é apenas uma vaga ideia daquilo que queremos. É o seu ponto de partida rumo a algo que você gostaria de ter, ser ou viver. Ou seja, a sua motivação.
+          - "você se contenta em definir o objetivo, que é o que geralmente fazemos. Mas esquece de especificar a meta."
+          - <strong>Portando OBJETIVO =  A descrição do seu desejo.</strong>
+       - Meta nada mais é quem um objetivo com ações bem definidas.
+          - Saiba que pessoas que escrevem suas metas tem 50% mais chances de realizá-las do que aqueles que não escrevem metas.
+       - Daniel Pink, autor do livro Drive, sobre motivação, identificou três fatores-chave:
+          - Autonomia: Nosso desejo de viver a vida que desejamos. Nossa vontade de ter a liberdade para fazer o que preferimos.
+          - Maestria: Nosso senso de urgência para ser melhor em diversos sentidos, tanto profissional como pessoal.
+          - Propósito: Nossa missão de vida. A intenção de fazer uma diferença no mundo, mesmo que relativamente pequena.
+       - Meta SMART
+          - S = Especific
+             - O que exatamente (mais detalhes possíveis) você quer conquistar?
+             - Onde?
+             - Você precisará da ajuda de outras pessoas? Quais pessoas?
+             - Existe uma alternativa para essa meta SMART que desejo alcançar que traria o mesmo grau de satisfação?
+             - Do que você não abre mão para conquistar essa meta?
+             - Quais são as suas limitações para conquistar essa meta?
+             - Quais são as condições obrigatórias para conquistar essa meta?
+          - M = Mensurable
+             - Quais são os resultados mensais esperados?
+             - Quanto tempo de dedicação será necessário para alcançar a meta?
+          - A = Attainable
+             - Quem já esteve na Lua já não tem mais metas na Terra. - Edwin Aldrin
+          - R = Relevant
+             - Refletir se isso é relevante na sua vida.
+          - T = Time-Related
+             - Colocar datas realistas
+        - Exemplo de meta SMART: Eu vou ler 24 livros de desenvolvimento pessoal nos próximos 12 meses.
 
 
 <br><br>
