@@ -583,6 +583,7 @@
           - T = Time-Related
              - Colocar datas realistas
         - Exemplo de meta SMART: Eu vou ler 24 livros de desenvolvimento pessoal nos próximos 12 meses.
+        - Um dos maiores segredos para o sucesso é a disciplina e a constância.
 
 
 <br><br>
