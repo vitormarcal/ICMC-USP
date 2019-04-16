@@ -539,7 +539,7 @@
        - REGRA 10 – Seja preciso no que diz
        - REGRA 11 – Não incomode as crianças quando estão andando de skate
        - REGRA 12 – Acaricie um gato ao encontrar um na rua
-    - O Jeito Harvard de Ser Feliz: 7 Princípios
+    - <strong>O Jeito Harvard de Ser Feliz: 7 Princípios</strong>
        - I – O benefício da felicidade
           - “Quando eu for bem sucedido, eu vou ser feliz.” - ERRADO
           - "Se eu sou feliz fazendo o que eu faço, terei sucesso." - CERTO
@@ -554,7 +554,9 @@
           - A Regra dos 20 segundos fala pra você eliminar os “cerca de 20 min” antes do novo hábito que você quer incorporar. Tire todas as barreiras antes de começar aquela atividade para deixá-la o mais fácil possível!
        - VII. Investimento social
           - rede social de apoio é o seu maior ativo.
-    - Diferença entre Objetivo e Meta
+    - <strong>O que é FOCO?</strong>
+       - "Eu não tenho medo do homem que praticou 10.000 chutes diferentes, mas sim do homem que praticou o mesmo chute 10.000 vezes." - Bruce Lee
+    - <strong>Diferença entre Objetivo e Meta</strong>
        - O objetivo é apenas uma vaga ideia daquilo que queremos. É o seu ponto de partida rumo a algo que você gostaria de ter, ser ou viver. Ou seja, a sua motivação.
           - "você se contenta em definir o objetivo, que é o que geralmente fazemos. Mas esquece de especificar a meta."
           - <strong>Portando OBJETIVO =  A descrição do seu desejo.</strong>
