@@ -554,8 +554,41 @@
           - A Regra dos 20 segundos fala pra você eliminar os “cerca de 20 min” antes do novo hábito que você quer incorporar. Tire todas as barreiras antes de começar aquela atividade para deixá-la o mais fácil possível!
        - VII. Investimento social
           - rede social de apoio é o seu maior ativo.
-    - <strong>O que é FOCO?</strong>
+    - <strong>Foco e Adaptação</strong>
        - "Eu não tenho medo do homem que praticou 10.000 chutes diferentes, mas sim do homem que praticou o mesmo chute 10.000 vezes." - Bruce Lee
+       - "Esvazie sua mente de modelos, formas, seja amorfo como a água. Você coloca a água em um copo, ela se torna o copo. Você coloca a água em uma garrafa, ela se torna a garrafa. Você coloca ela em uma chaleira, ela se torna a chaleira. A água pode fluir ou colidir. Seja água, meu amigo." - Bruce Lee
+    - <strong>9 Mandamentos do Livro dos 5 Anéis - Miyamoto Musashi</strong>
+       - 1- Não faça nada desonestamente, evitar todo e qualquer pensamento perverso.
+       - 2- O Caminho está no treino.
+       - 3- Familiarize-se com todas as artes.
+       - 4- Compreender os mandamentos de todas as profissões.
+       - 5- Saiba distinguir entre vantagens e desvantagens em assuntos mundanos.
+       - 6- Desenvolva julgamento intuitivo e entendimento para tudo.
+       - 7- Perceba todas as coisas que não podem ser vistas.
+       - 8 – Preste atenção aos menores detalhes.
+       - 9 – Não faça nada que não tenha qualquer utilidade.
+       - Outros Principios
+       - 1. Aceite tudo do jeito que é.
+       - 2. Não procure prazer pelo seu próprio bem.
+       - 3. Não, em hipótese alguma, dependa de um sentimento parcial.
+       - 4. Pense levemente em si mesmo e profundamente do mundo.
+       - 5. Seja desapegado do desejo por toda a sua vida.
+       - 6. Não se arrependa do que você fez.
+       - 7. Nunca seja ciumento.
+       - 8. Nunca deixe-se entristecer por uma separação.
+       - 9. O ressentimento e a queixa não são apropriados nem para si nem para os outros.
+       - 10. Não se deixe guiar pelo sentimento de luxúria ou amor.
+       - 11. Em todas as coisas não tem preferências.
+       - 12. Seja indiferente aonde você mora.
+       - 13. Não persiga o sabor da boa comida.
+       - 14. Não segure as posses que você não precisa mais.
+       - 15. Não aja seguindo as crenças costumeiras.
+       - 16. Não colete armas ou pratique com armas além do que é útil.
+       - 17. Não tenha medo da morte.
+       - 18. Não procure possuir bens ou feudos para a sua velhice.
+       - 19. Respeite o Buda e os deuses sem contar com a ajuda deles.
+       - 20. Você pode abandonar seu próprio corpo, mas deve preservar sua honra.
+       - 21. Nunca se desvie do caminho.
     - <strong>Diferença entre Objetivo e Meta</strong>
        - O objetivo é apenas uma vaga ideia daquilo que queremos. É o seu ponto de partida rumo a algo que você gostaria de ter, ser ou viver. Ou seja, a sua motivação.
           - "você se contenta em definir o objetivo, que é o que geralmente fazemos. Mas esquece de especificar a meta."
