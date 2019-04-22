@@ -557,17 +557,44 @@
     - <strong>Foco e Adaptação</strong>
        - "Eu não tenho medo do homem que praticou 10.000 chutes diferentes, mas sim do homem que praticou o mesmo chute 10.000 vezes." - Bruce Lee
        - "Esvazie sua mente de modelos, formas, seja amorfo como a água. Você coloca a água em um copo, ela se torna o copo. Você coloca a água em uma garrafa, ela se torna a garrafa. Você coloca ela em uma chaleira, ela se torna a chaleira. A água pode fluir ou colidir. Seja água, meu amigo." - Bruce Lee
+    - <strong>Sun Tzu - A Arte da Guerra</strong>
+       - 1. Alguns exércitos não devem ser enfrentados
+       - 2. 5 fatores são determinantes para o sucesso
+          - Clima
+          - Território
+          - Comando
+          - Doutrina militar
+          - Influência moral
+       - 3. Gerenciamento:  Você não vai querer ser pego desprevenido bem no meio de uma missão, por isso faça as contas e gerencie os gastos.
+       - 4. Estratégia: prega que o vencedor da guerra era o estado que conseguia a rendição do inimigo sem que houvesse um combate. Para tanto seu conselho é que o ataque seja feito primeiro sobre a estratégia dos concorrentes, em segundo sobre suas alianças e, em terceiro sobre seus soldados, oferecendo melhores oportunidades e condições de trabalho.
+       - 5. Tática: Se for mais forte que seu concorrente, ataque, se for mais fraco, se defenda, mas jamais seja previsível.
+       - 6. Conheça a si mesmo e aos seus oponentes: "If you know the enemy and know yourself, you need not fear the result of a hundred battles. If you know yourself but not the enemy, for every victory gained you will also suffer a defeat. If you know neither the enemy nor yourself, you will succumb in every battle."
+       - 7. Deixe espaço para realizar manobras: sempre haverá imprevistos, por isso não se prenda a uma única medida ou estratégia
+       - 8. Tenha uma estrutura sólida: mantenha uma estrutura que lhe favoreça retornar ainda mais forte e consistente
+       - 9. Use um ataque indireto
+       - 10. Considere algumas razões de ataques estratégicos
+          - Nunca ataque quando estiver por baixo: Certifique-se de que está a uma altura segura de modo que não seja alcançado depois de conceber o ataque.
+          - Nunca ataque em terreno desconhecido: Avalie e estude o território de ataque para que a luta não seja desperdiçada. Alguns territórios não valem à pena ser conquistados.
+          - Proteja-se em terrenos perigosos: Observe a maneira mais segura de atacar em território perigoso, protegendo-se, esquivando-se e garantindo um plano de fuga. Se tudo der errado, que atitude deverá tomar?
+       - 11. Quando não houver alternativa, arrisque: quando já não há alternativas a melhor estratégia é arriscar. Quando estamos diante de um grande perigo, fazemos o impossível para superar os desafios e prosperar.
+       - 12. Considere estes nove fatores previsíveis:  dispersivo, marginal, contencioso, aberto, convergente, difícil, crítico, cercado e desesperado.
+       - 13. Conte com esta categoria de espiões para triunfar sobre o oponente no mercado
+          - Espiões nativos: São os próprios criadores da empresa, sócios e investidores.
+          - Espiões internos: Funcionários da empresa concorrente.
+          - Espiões convertidos: São os espiões do inimigo que fornecem informações.
+          - Espiões descartáveis: São espiões convertidos pelo inimigo.
+          - Espiões indispensáveis: São aqueles que possuem respeito com o inimigo e fornecem informações confiáveis.
     - <strong>9 Mandamentos do Livro dos 5 Anéis - Miyamoto Musashi</strong>
-       - 1- Não faça nada desonestamente, evitar todo e qualquer pensamento perverso.
-       - 2- O Caminho está no treino.
-       - 3- Familiarize-se com todas as artes.
-       - 4- Compreender os mandamentos de todas as profissões.
-       - 5- Saiba distinguir entre vantagens e desvantagens em assuntos mundanos.
-       - 6- Desenvolva julgamento intuitivo e entendimento para tudo.
-       - 7- Perceba todas as coisas que não podem ser vistas.
+       - 1 – Não faça nada desonestamente, evitar todo e qualquer pensamento perverso.
+       - 2 – O Caminho está no treino.
+       - 3 – Familiarize-se com todas as artes.
+       - 4 – Compreender os mandamentos de todas as profissões.
+       - 5 – Saiba distinguir entre vantagens e desvantagens em assuntos mundanos.
+       - 6 – Desenvolva julgamento intuitivo e entendimento para tudo.
+       - 7 – Perceba todas as coisas que não podem ser vistas.
        - 8 – Preste atenção aos menores detalhes.
        - 9 – Não faça nada que não tenha qualquer utilidade.
-       - Outros Principios
+       - <strong>Outros </strong>
        - 1. Aceite tudo do jeito que é.
        - 2. Não procure prazer pelo seu próprio bem.
        - 3. Não, em hipótese alguma, dependa de um sentimento parcial.
