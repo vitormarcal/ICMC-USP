@@ -577,7 +577,7 @@
           - Nunca ataque em terreno desconhecido: Avalie e estude o território de ataque para que a luta não seja desperdiçada. Alguns territórios não valem à pena ser conquistados.
           - Proteja-se em terrenos perigosos: Observe a maneira mais segura de atacar em território perigoso, protegendo-se, esquivando-se e garantindo um plano de fuga. Se tudo der errado, que atitude deverá tomar?
        - <strong>11 - Quando não houver alternativa, arrisque</strong>: quando já não há alternativas a melhor estratégia é arriscar. Quando estamos diante de um grande perigo, fazemos o impossível para superar os desafios e prosperar.
-       - <strong>12 - Considere estes nove fatores previsíveis:  dispersivo, marginal, contencioso, aberto, convergente, difícil, crítico, cercado e desesperado.
+       - <strong>12 - Considere estes nove fatores previsíveis</strong>:  dispersivo, marginal, contencioso, aberto, convergente, difícil, crítico, cercado e desesperado.
        - <strong>13 - Conte com esta categoria de espiões para triunfar sobre o oponente no mercado</strong>
           - Espiões nativos: São os próprios criadores da empresa, sócios e investidores.
           - Espiões internos: Funcionários da empresa concorrente.
