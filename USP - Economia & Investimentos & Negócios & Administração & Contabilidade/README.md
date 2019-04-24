@@ -10,6 +10,7 @@
     - [Portal do Empreendedor](http://www.portaldoempreendedor.gov.br/)
     - [Population Explorer](https://www.populationexplorer.com/)
  - Ferramentas
+    - [Fundamentus](http://www.fundamentus.com.br/)
     - [ClubeFII - Calcular Juros Compostos de Fundos Imobiliários](https://www.clubefii.com.br/)
     - [Cálculo Independência Financeira](https://clubedovalor.com.br/calculadora-independencia-financeira-i/?sck=aIQSBEeLy1M&utm_source=youtube&utm_medium=video&utm_content=aIQSBEeLy1M&utm_campaign=cdv-conversion)
     - [Yubb](https://yubb.com.br/)

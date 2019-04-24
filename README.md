@@ -184,6 +184,7 @@
 
 ## Windows
 
+ - Serious? Start using Linux please, much better
  - Sites
     - [Baboo](https://www.baboo.com.br/)
     - [Baboo Cursos](https://www.baboocursos.com.br/)
@@ -274,10 +275,10 @@
 
 ## Blogs
 
-- [Medium - A LOT](https://medium.com/)
-- [Quora - A LOT](https://quora.com/)
-- [Akita on Rails - A LOT](http://www.akitaonrails.com/)
-- [Reddit - A LOT](https://www.reddit.com)
+- [Medium :muscle:](https://medium.com/)
+- [Quora :muscle:](https://quora.com/)
+- [Akita on Rails :muscle:](http://www.akitaonrails.com/)
+- [Reddit :muscle:](https://www.reddit.com)
 - [Rafael Falcon](https://rafaelfalcon.com.br/)
 - [Hacker News](https://news.ycombinator.com/)
 - [Stalt](https://staltz.com/)
@@ -443,11 +444,12 @@
 
  - Technology
     - [Curso em Video](https://www.youtube.com/user/cursosemvideo)
+    - [Fabio Akita](https://www.youtube.com/channel/UCib793mnUOhWymCh2VJKplQ)
+    - [EstudoNauta](https://www.youtube.com/channel/UCJcWQ9MgPlHIFMx8uDWEYNg)
     - [Fábrica de Noobs](https://www.youtube.com/channel/UCGObNjkNjo1OUPLlm8BTb3A)
     - [COD3R CURSOS](https://www.youtube.com/channel/UCcMcmtNSSQECjKsJA1XH5MQ/featured)
     - [CodigoFonte TV](https://www.youtube.com/user/codigofontetv)
     - [BrasilJS](https://www.youtube.com/user/BrazilJS)
-    - [EstudoNauta](https://www.youtube.com/channel/UCJcWQ9MgPlHIFMx8uDWEYNg)
     - [FreeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
     - [Papo Binário](https://www.youtube.com/channel/UCuQ8zW9VmVyml7KytSqJDzg)
     - [Baboo](https://www.youtube.com/user/baboo/videos)
@@ -477,7 +479,6 @@
     - [Campus Party](https://www.youtube.com/channel/UCUendDl_o6qhA7GtHxH3PTA)
     - [Futuro Descentralizado](https://www.youtube.com/channel/UCwgs6fw_BSDG5MbEivaw05g/videos)
     - [Locaweb](https://www.youtube.com/channel/UCqHIy-SOkAgNU3b-PRUL8qA)
-    - [Fabio Akita](https://www.youtube.com/channel/UCib793mnUOhWymCh2VJKplQ)
     - [Pagar.me Talks](https://www.youtube.com/channel/UCNhSCufrcOMeFvzEM7tt9Lw)
     - [Endeavor Brasil](https://www.youtube.com/user/endeavorbrasil/videos)
  - Science
@@ -594,7 +595,7 @@
        - 7 – Perceba todas as coisas que não podem ser vistas.
        - 8 – Preste atenção aos menores detalhes.
        - 9 – Não faça nada que não tenha qualquer utilidade.
-       - <strong>Outros </strong>
+       - <strong>Outros Princípios</strong>
        - 1. Aceite tudo do jeito que é.
        - 2. Não procure prazer pelo seu próprio bem.
        - 3. Não, em hipótese alguma, dependa de um sentimento parcial.
