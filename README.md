@@ -317,6 +317,15 @@
  - [The Humble Programmer by Edsger W. Dijkstra](https://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD340.html)
  - [Educação Clássica e Homeschooling](https://www.youtube.com/watch?v=LjJlus8oC9M)
  - [Principles for Success - Ray Dalio](https://www.principles.com/principles-for-success/)
+ - [Write Code Every Day - John Resig](https://johnresig.com/blog/write-code-every-day/)
+ - [Why Good Programmers Are Lazy and Dumb](http://blogoscoped.com/archive/2005-08-24-n14.html)
+ - [The Feynman Technique: The Best Way to Learn Anything - Easy to Understand | Hard To Master](https://fs.blog/2012/04/learn-anything-faster-with-the-feynman-technique/)
+ - [WaitButWhy - The Cook and the Chef: Musk’s Secret Sauce - Easy to Understand | Hard to Master](https://waitbutwhy.com/2015/11/the-cook-and-the-chef-musks-secret-sauce.html)
+ - [Rob Pike's 5 Rules of Programming](http://users.ece.utexas.edu/~adnan/pike.html)
+ - [The Ten Commandments of Egoless Programming](https://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/)
+ - [What makes a good programmer?](http://www.techfounder.net/2009/07/22/what-makes-a-good-programmer/?subscribe=error#509)
+ - [Self-Education: Teach Yourself Anything with the Sandbox Method](https://www.nateliason.com/blog/self-education)
+ - [As 36 Estratégias Secretas Chinesas](https://ideiasesquecidas.com/2018/03/23/as-36-estrategias-secretas-chinesas/)
  - [The Twelve Factor App - Heroku](https://12factor.net/)
     - A aplicação doze-fatores é uma metodologia para construir softwares-como-serviço.
     - I. Base de Código
@@ -343,14 +352,6 @@
        - Trate logs como fluxo de eventos
     - XII. Processos de Admin
        - Executar tarefas de administração/gerenciamento como processos pontuais
- - [Write Code Every Day - John Resig](https://johnresig.com/blog/write-code-every-day/)
- - [Why Good Programmers Are Lazy and Dumb](http://blogoscoped.com/archive/2005-08-24-n14.html)
- - [The Feynman Technique: The Best Way to Learn Anything - Easy to Understand | Hard To Master](https://fs.blog/2012/04/learn-anything-faster-with-the-feynman-technique/)
- - [WaitButWhy - The Cook and the Chef: Musk’s Secret Sauce - Easy to Understand | Hard to Master](https://waitbutwhy.com/2015/11/the-cook-and-the-chef-musks-secret-sauce.html)
- - [Rob Pike's 5 Rules of Programming](http://users.ece.utexas.edu/~adnan/pike.html)
- - [The Ten Commandments of Egoless Programming](https://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/)
- - [What makes a good programmer?](http://www.techfounder.net/2009/07/22/what-makes-a-good-programmer/?subscribe=error#509)
- - [Self-Education: Teach Yourself Anything with the Sandbox Method](https://www.nateliason.com/blog/self-education)
 
 ## Communities
 
@@ -511,6 +512,7 @@
     - [Augusto Ollivieri](https://www.youtube.com/channel/UCfkmlovZdEmMzTsGwatkoIw)
     - [IlustradaMente](https://www.youtube.com/channel/UCNmO5NWNLQkOr76WmHEq-DQ)
     - [PhilosTV](https://philos.tv/)
+    - [Gilberto de Souza](https://www.youtube.com/channel/UCMMbl7Tt6Zy5Ho3W2bw0BfQ)
     - [16 Personalities](https://www.16personalities.com/)
     - [The History Channel Brasil](https://www.youtube.com/watch?v=6bvc8TgeGUA)
     - [Canal do Moscoso](https://www.youtube.com/channel/UChVeSyoB200ALDpnTr1TOrg/videos)
@@ -555,9 +557,27 @@
           - A Regra dos 20 segundos fala pra você eliminar os “cerca de 20 min” antes do novo hábito que você quer incorporar. Tire todas as barreiras antes de começar aquela atividade para deixá-la o mais fácil possível!
        - VII. Investimento social
           - rede social de apoio é o seu maior ativo.
-    - <strong>Foco e Adaptação</strong>
-       - "Eu não tenho medo do homem que praticou 10.000 chutes diferentes, mas sim do homem que praticou o mesmo chute 10.000 vezes." - Bruce Lee
-       - "Esvazie sua mente de modelos, formas, seja amorfo como a água. Você coloca a água em um copo, ela se torna o copo. Você coloca a água em uma garrafa, ela se torna a garrafa. Você coloca ela em uma chaleira, ela se torna a chaleira. A água pode fluir ou colidir. Seja água, meu amigo." - Bruce Lee
+    - <strong>O Tao do Jeet Kune Do - Bruce Lee</strong>
+       - 1 - OBJETIVO
+          - Um objetivo nem sempre é para ser atingido, frequentemente serve apenas como algo a ser mirado."
+       - 2 - FLEXIBILIDADE
+          - "Limpe a sua mente e seja como a água, sem forma. Você coloca a água num copo e se torna o copo, coloca água em uma garrafa, se torna a garrafa. A água pode fluir ou colidir. Seja água, meu amigo."
+       - 3 - TEMPO
+          - "Se você ama a vida, não desperdice tempo, é de tempo que a vida é feita.""
+       - 4 - PROPÓSITO
+          - "Viver de verdade é viver para os outros."
+       - 5 - ACEITAÇÃO
+          - "Não pense sobre quem está certo ou errado ou quem é melhor que o outro. Não seja nem a favor nem contra."
+       - 6 - FOCO
+          - "Eu não temo o homem que praticou 10.000 chutes diferentes, mas aquele que praticou o mesmo chute 10.000 vezes.”
+       - 7 - SIMPLICIDADE
+          - "Simplicidade é a chave para algo brilhante."
+       - 8 - ENCONTRE O SEU CAMINHO
+          - "Absorva o que lhe é útil, descarte o que não é, e adicione algo único."
+       - 9 - EGO
+          - "Artes-marciais são principalmente fonte de auto-conhecimento. Um soco ou um chute não é para arrancar os males do cara a sua frente, mas para arrancá-los seu próprio ego, medo e obstáculos."
+       - 10 - COMECE AGIR
+          - "Saber não é o suficiente, você tem que aplicar; querer não é o bastante, você tem que fazer."
     - <strong>Sun Tzu - A Arte da Guerra</strong>
        - <strong>1 - Alguns exércitos não devem ser enfrentados</strong>
        - <strong>2 - 5 fatores são determinantes para o sucesso</strong>
@@ -646,7 +666,7 @@
           - T = Time-Related
              - Colocar datas realistas
         - Exemplo de meta SMART: Eu vou ler 24 livros de desenvolvimento pessoal nos próximos 12 meses.
-        - Um dos maiores segredos para o sucesso é a disciplina e a constância.
+        - Um dos maiores segredos para o sucesso é a disciplina, a constância e a paciência.
 
 
 <br><br>
