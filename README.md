@@ -134,6 +134,9 @@
           return Fibonacci(number - 2) + Fibonacci(number - 1);
       }
       ```
+   - <strong>Resume</strong>
+      - <img src="big-o-names.jpeg" alt="Big(O) Names">
+      - <img src="big-o-graphic.jpeg" alt="Big(O) Graphic">
 
 ## [Unix](https://pt.wikipedia.org/wiki/Unix)
 
