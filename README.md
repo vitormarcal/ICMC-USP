@@ -42,8 +42,6 @@
 
 ## Algorithms and Data Structs
 
- - Most Recommended Book
-    - [Algoritmos Teoria e Prática - Thomas H. Cormen](https://www.amazon.com.br/Algoritmos-Teoria-Pr%C3%A1tica-Thomas-Cormen/dp/8535236996)
  - YouTube
     - [Linguagem C Programação Descomplicada](https://www.youtube.com/user/progdescomplicada/videos) :skull:
  - Sites
@@ -111,14 +109,14 @@
         while ( y > 0 ) {
            y = y / 2
         }
-        x = x - 1
+        x -= 1
       }
       ```
-      - Example: classic merge sort -> divide-to-conquer
+      - Examples: classic Quicksort, Mergesort and Heapsort  -> divide-to-conquer
    - Quadratic time O(n²) :skull:
       - Nice To Avoid
       - The running time of an algorithm is directly proportional to the square of the size of the input.
-      - Example: sum of matrizes
+      - Example: Sum of matrizes
       ```
       for (var outer = 0; outer < elements.Count; outer++){
         for (var inner = 0; inner < elements.Count; inner++){
@@ -264,9 +262,6 @@
     - [OpenSource.Guide](https://opensource.guide/)
     - [Creative Commons](https://creativecommons.org/)
     - [Scrum Poker Online](https://scrumpoker.online/)
- - Software
-    - [ERP - SigeLite](https://www.sigelite.com.br/)
-    - [Audio - Audacity](https://www.audacityteam.org/)
 
 ## Online Courses
 
@@ -465,6 +460,7 @@
     - [Bóson Treinamentos](https://www.youtube.com/user/bosontreinamentos)
     - [ProgramadorBR](https://www.youtube.com/channel/UCrdgeUeCll2QKmqmihIgKBQ)
     - [Laboratório da Júlia](https://www.youtube.com/channel/UChfu9xWITOvsXYLKm7hieSQ)
+    - [Bonieky Lacerda](https://www.youtube.com/channel/UCw9mYSlqKRXI6l4vH-tAYpQ)
     - [Rodrigo Souza](https://www.youtube.com/channel/UCdHcO3zYXVco91CIAk1u4PA)
     - [SoftBlue](https://www.youtube.com/user/softbluecursos)
     - [Computherpile](https://www.youtube.com/user/Computerphile)
