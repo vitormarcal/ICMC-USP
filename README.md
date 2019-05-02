@@ -599,6 +599,14 @@
           - A Regra dos 20 segundos fala pra você eliminar os “cerca de 20 min” antes do novo hábito que você quer incorporar. Tire todas as barreiras antes de começar aquela atividade para deixá-la o mais fácil possível!
        - VII. Investimento social
           - rede social de apoio é o seu maior ativo.
+    - <strong>7 Princípios de Leonardo da Vinci </strong>
+       - <strong>1 - Curiosità</strong>: Instigue sua curiosidade
+       - <strong>2 - Dimostrazione</strong>: Aprenda com a experiência
+       - <strong>3 - Sensazione</strong>: Estimule sua percepção
+       - <strong>4 - Sfumato</strong>: Enfrente a sombra
+       - <strong>5 - Arte/Scienza</strong>: Busque o equilíbrio
+       - <strong>6 - Corporalità</strong>: Integre corpo, mente e espírito
+       - <strong>7 - Conessione</strong>: Realize a comunhão
     - <strong>O Tao do Jeet Kune Do - Bruce Lee</strong>
        - 1 - OBJETIVO
           - Um objetivo nem sempre é para ser atingido, frequentemente serve apenas como algo a ser mirado."
