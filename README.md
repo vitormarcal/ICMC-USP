@@ -446,6 +446,41 @@
        - [MadeYouThinkPodcast](https://madeyouthinkpodcast.com/)
 
 
+## School Of Life
+
+ - A vida não é fácil, se acostume com isso. - Bill Gates
+ - A vida nunca foi, não é, e nunca será justa.
+ - Existem gênios sem educação formal e idiotas com doutorado.
+ - Aprenda a gostar de estudar a história da humanidade, para não cometer os mesmos erros do passado.
+ - Não existe almoço grátis, tudo tem um preço.
+ - Toda ação, possui uma reação.
+ - Tentar agradar ou ser amigo de todo mundo é um dos segredos para o fracasso e a infelicidade.
+ - Justiça, ética e moral não existem, são apenas termos criados por seres humanos. Os animais e a natureza não se importam com isso.
+ - Antes de ter, você tem que ser
+ - Nunca, jamais, venere ou idolatre outro ser humano.
+ - O mundo e a sociedade não dão a mínima para o quão inteligente ou esforçado você seja. Eles só se importam com o valor que você agrega a eles.
+ - Nunca pare de questionar, principalmente as autoridades.
+ - Nunca acredite 100% no que os outros dizem, principalmente as autoridades.
+ - Nunca acredite em dogmas ou verdades absolutas.
+ - Aprenda a pensar por si mesmo.
+ - Quanto mais inteligente um ser humano for, mais ele sofrerá. - Schopenhauer
+ - Um dos maiores problemas dos seres humanos, é que eles não gostam de pensar.
+ - A natureza não nos deu 2 ouvidos e apenas 1 boca atoa.
+ - Saúde, Conhecimento, e experiência prática são uma das coisas mais importantes que um ser humano pode ter em sua vida.
+ - Nenhum ser humano é 100% bom ou 100% ruim.
+ - Se comparar com os outros é uma das piores coisas que um ser humano pode fazer em sua vida.
+ - Todo ser humano, em sua essência, é egoista.
+ - Você não é melhor do que ninguém e ninguém é melhor do que você. No final, o buraco é o mesmo para todo mundo.
+ - 99.99% do que acontece na vida não somos nós que controlamos. "Livre-arbítrio" na maior parte da vida é uma ilusão. (Estoicismo)
+ - Muitas pessoas gastam dinheiro que não tem, para comprar coisas que não precisam, para impressionar pessoas que não gostam.
+ - Todo mundo é um gênio. Mas se você julgar um peixe por sua capacidade de subir em uma árvore, ele vai gastar toda a vida acreditando que é estúpido.
+ - Não existe receita de bolo de como viver a vida. Cada ser humano vive sua própria filosofia de vida.
+ - O cérebro humano é a coisa mais complexa que existe no universo. Nunca acredite que você conheçe realmente outro ser humano.
+ - A força de vontade é a maior força que existe no universo.
+ - Os homens perdem a saúde para juntar dinheiro, depois perdem o dinheiro para recuperar a saúde. A maioria das pessoas vivem como se nunca fossem morrer, e morrem como se nunca tivessem vivido.
+ - O que sabemos é uma gota, o que ignoramos é um oceano. - Newton
+ - Nenhum ser humano é "especial". É só estudar um pouco de Astronomia para entender isso.
+
 ## Software Engineering Principles
 
  - [Adams Óbvio](https://www.amazon.com/dp/8562409189?tag=bizzi0d-20)
