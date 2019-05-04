@@ -485,6 +485,7 @@
 
  - A vida não é fácil, se acostume com isso. - Bill Gates
  - Se você colocar Einstein para jogar basquete com Michael Jordan, o Jordan vai achar que o Einstein é incompetente. Se você colocar o Jordan para fazer física teórica com Einstein, o Einstein vai achar que o Jordan é incompetente. Quase tudo na vida é relativo. Nenhum ser humano consegue analisar todas as variáveis de uma situação subjetiva.
+ - Meritocracia é um termo extremamente relativo, e na maioria das vezes, é uma idiotice que não existe.
  - A vida nunca foi, não é, e nunca será justa.
  - Se você é a pessoa mais inteligente da sala, você está na sala errada.
  - Existem gênios sem educação formal e idiotas com doutorado.
@@ -494,6 +495,7 @@
  - Não existe almoço grátis, tudo tem um preço.
  - Você é livre para fazer o que quiser, mais sempre será escravo das consequências.
  - Toda ação, possui uma reação.
+ - Todos os seres humanos tem o direito de serem felizes. Mas cada ser humano é responsável pela própria felicidade.
  - A melhor universidade do mundo se chama "Internet" e o melhor professor se chama "Google"
  - Se você criar uma águia no meio de galinhas, ela vai agir e pensar que é igual a elas. Autoconhecimento provavelmente é a coisa mais importante que um ser humano pode ter em sua vida.  
  - Tentar agradar ou ser amigo de todo mundo é um dos segredos para o fracasso e a infelicidade.
