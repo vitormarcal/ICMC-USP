@@ -535,7 +535,7 @@
  - Nenhum ser humano consegue mudar outro ser humano. Cada um é responsável pela própria mudança.
  - O mundo da voltas. Quem está por cima hoje, pode estar por baixo amanhã.
  - Quanto menos pessoas souberem da sua vida pessoal, melhor.
- - Conhecimento e ideias por si são inutéis se não aplicados na prática.
+ - Conhecimento e ideias por si só são inutéis se não aplicados na prática.
  - Um dos maiores problemas dos seres humanos, é que eles não gostam de pensar.
  - A natureza não nos deu 2 ouvidos e apenas 1 boca atoa.
  - Investir em conhecimento sempre rende os melhores juros. - Benjamin Franklin
@@ -545,7 +545,7 @@
  - Todo ser humano já mentiu, mente, ou vai mentir.
  - Se comparar com os outros é uma das piores coisas que um ser humano pode fazer em sua vida. Não queira ser igual os outros, seja você mesmo.
  - Um dia sem aprender algo novo, é um dia perdido.
- - Seja uma criança, mais não seja infantil.
+ - Seja uma criança, mas não seja infantil.
  - O essencial é invisível aos olhos. - O Pequeno Príncipe.
  - Todo ser humano, em sua essência, é egoista.
  - Ninguém é melhor do que ninguém. No final, o buraco é o mesmo para todo mundo.
