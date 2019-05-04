@@ -481,6 +481,52 @@
  - "Always will have something to improve, done is better than perfect"
 
 
+## School Of Life
+
+ - A vida não é fácil, se acostume com isso. - Bill Gates
+ - Se você colocar Einstein para jogar basquete com Michael Jordan, o Jordan vai achar que o Einstein é incompetente. Se você colocar o Jordan para fazer física teórica com Einstein, o Einstein vai achar que o Jordan é incompetente. Quase tudo na vida é relativo. Nenhum ser humano consegue analisar todas as variáveis de uma situação subjetiva.
+ - A vida nunca foi, não é, e nunca será justa.
+ - Se você é a pessoa mais inteligente da sala, você está na sala errada.
+ - Existem gênios sem educação formal e idiotas com doutorado.
+ - Se você quiser julgar o caráter de um ser humano, dê poder a ele. - Abraham Lincoln
+ - Aprenda a gostar de estudar a história da humanidade, para não cometer os mesmos erros do passado.
+ - Inteligente é quem aprende com os próprios erros, sábio é quem aprende com o erro dos outros.
+ - Não existe almoço grátis, tudo tem um preço.
+ - Você é livre para fazer o que quiser, mais sempre será escravo das consequências.
+ - Toda ação, possui uma reação.
+ - A melhor universidade do mundo se chama "Internet" e o melhor professor se chama "Google"
+ - Se você criar uma águia no meio de galinhas, ela vai agir e pensar que é igual a elas. Autoconhecimento provavelmente é a coisa mais importante que um ser humano pode ter em sua vida.  
+ - Tentar agradar ou ser amigo de todo mundo é um dos segredos para o fracasso e a infelicidade.
+ - Justiça, ética e moral não existem, são apenas termos criados por seres humanos. Os animais e a natureza não se importam com isso. Mas não faça com os outros o que não gostariam que fizessem com você. 
+ - Antes de ter, você tem que ser.
+ - Nunca, jamais, venere ou idolatre outro ser humano.
+ - O mundo e a sociedade não dão a mínima para o quão inteligente, bondoso, humilde ou esforçado você seja. Eles só se importam com o valor que você agrega a eles.
+ - Não da para ter ou fazer tudo que quer durante a vida.
+ - Nunca pare de questionar, principalmente as autoridades.
+ - Nunca acredite 100% no que os outros dizem, principalmente as autoridades.
+ - Nunca acredite em dogmas ou verdades absolutas.
+ - Aprenda a pensar por si mesmo.
+ - Ninguem inveja o feio e nem odeia o fraco.
+ - Um dos maiores problemas dos seres humanos, é que eles não gostam de pensar.
+ - A natureza não nos deu 2 ouvidos e apenas 1 boca atoa.
+ - Investir em conhecimento sempre rende os melhores juros. - Benjamin Franklin
+ - Se você acha que investir em conhecimento é caro, não queira conhecer o preço da ignorância.
+ - Nenhum ser humano é 100% bom ou 100% ruim.
+ - Todo ser humano já mentiu, mente, ou vai mentir.
+ - Se comparar com os outros é uma das piores coisas que um ser humano pode fazer em sua vida.
+ - Todo ser humano, em sua essência, é egoista.
+ - Ninguém é melhor do que ninguém. No final, o buraco é o mesmo para todo mundo.
+ - 99.99% do que acontece na vida não somos nós que controlamos. "Livre-Arbítrio" na maior parte da vida é uma ilusão. (Estoicismo, Rápido e Devagar, Teoria do Caos, etc)
+ - Muitas pessoas gastam dinheiro que não tem, para comprar coisas que não precisam, para impressionar pessoas que não gostam.
+ - Todo mundo é um gênio. Mas se você julgar um peixe por sua capacidade de subir em uma árvore, ele vai gastar toda a vida acreditando que é estúpido.
+ - Não existe receita de bolo de como viver a vida. Cada ser humano vive sua própria filosofia de vida.
+ - O cérebro humano é a coisa mais complexa que existe no universo. Nunca acredite que você conheçe realmente outro ser humano.
+ - A força de vontade é a maior força que existe no universo.
+ - Os homens perdem a saúde para juntar dinheiro, depois perdem o dinheiro para recuperar a saúde. A maioria das pessoas vivem como se nunca fossem morrer, e morrem como se nunca tivessem vivido.
+ - O que sabemos é uma gota, o que ignoramos é um oceano. - Newton
+ - Nenhum ser humano é "especial". É só estudar um pouco de Astronomia para entender isso.
+
+
 ## YouTube #StopWatchingTV
 
  - Technology
@@ -608,11 +654,11 @@
        - <strong>7 - Conessione</strong>: Realize a comunhão
     - <strong>O Tao do Jeet Kune Do - Bruce Lee</strong>
        - 1 - OBJETIVO
-          - Um objetivo nem sempre é para ser atingido, frequentemente serve apenas como algo a ser mirado."
+          - "Um objetivo nem sempre é para ser atingido, frequentemente serve apenas como algo a ser mirado."
        - 2 - FLEXIBILIDADE
           - "Limpe a sua mente e seja como a água, sem forma. Você coloca a água num copo e se torna o copo, coloca água em uma garrafa, se torna a garrafa. A água pode fluir ou colidir. Seja água, meu amigo."
        - 3 - TEMPO
-          - "Se você ama a vida, não desperdice tempo, é de tempo que a vida é feita.""
+          - "Se você ama a vida, não desperdice tempo, é de tempo que a vida é feita."
        - 4 - PROPÓSITO
           - "Viver de verdade é viver para os outros."
        - 5 - ACEITAÇÃO
