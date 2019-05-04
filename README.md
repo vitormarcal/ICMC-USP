@@ -495,11 +495,18 @@
  - Não existe almoço grátis, tudo tem um preço.
  - Você é livre para fazer o que quiser, mais sempre será escravo das consequências.
  - Toda ação, possui uma reação.
+ - Você é a média das 5 pessoas que mais convive.
+ - Se todos os seres humanos se cooperassem entre si, todos sairiam ganhando. (Teoria dos Jogos)
+ - O mundo não deve nada a ninguém.
+ - Existem adultos com 15 anos e crianças com 25. Idade e experiência não necessariamente significa sabedoria e amadurecimento.
+ - O homem não vive sem a mulher, e a mulher não vive sem o homem, não existe sexo melhor que o outro.
+ - No leito de morte, dinheiro e bens materiais são irrelevantes. O que é viver se não um passatempo antes da morte?
+ - A maioria das pessoas não vivem, apenas existem. Algumas por falta de oportunidades, outras por opção e alienação.
  - Todos os seres humanos tem o direito de serem felizes. Mas cada ser humano é responsável pela própria felicidade.
  - A melhor universidade do mundo se chama "Internet" e o melhor professor se chama "Google"
  - Se você criar uma águia no meio de galinhas, ela vai agir e pensar que é igual a elas. Autoconhecimento provavelmente é a coisa mais importante que um ser humano pode ter em sua vida.  
  - Tentar agradar ou ser amigo de todo mundo é um dos segredos para o fracasso e a infelicidade.
- - Justiça, ética e moral não existem, são apenas termos criados por seres humanos. Os animais e a natureza não se importam com isso. Mas não faça com os outros o que não gostariam que fizessem com você. 
+ - Justiça, ética e moral não existem, são apenas termos criados por seres humanos. Os animais e a natureza não se importam com isso. Mas não faça com os outros o que não gostaria que fizessem com você. 
  - Antes de ter, você tem que ser.
  - Nunca, jamais, venere ou idolatre outro ser humano.
  - O mundo e a sociedade não dão a mínima para o quão inteligente, bondoso, humilde ou esforçado você seja. Eles só se importam com o valor que você agrega a eles.
