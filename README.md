@@ -511,6 +511,7 @@
  - Antes de ter, você tem que ser.
  - Nunca, jamais, venere ou idolatre outro ser humano.
  - O mundo e a sociedade não dão a mínima para o quão inteligente, bondoso, humilde ou esforçado você seja. Eles só se importam com o valor que você agrega a eles.
+ - Nunca perca tempo discutindo com alguém que se acha dona da verdade absoluta.
  - O conhecimento sempre existiu. Basta buscá-lo.
  - Não da para ter ou fazer tudo que quer durante a vida.
  - Nunca pare de questionar, principalmente as autoridades.
@@ -521,7 +522,7 @@
  - Ninguem inveja o feio e nem odeia o fraco.
  - Tem coisas na vida que simplesmente levam tempo para acontecer. Não adianta apressar as coisas.
  - Ser grato pela vida, pelo que tem e pelo que já conquistou.
- - Você precisa ver o macro, para enter muito bem o micro. 
+ - Você precisa ver o macro, para entender muito bem o micro. 
  - Nenhum ser humano consegue mudar outro ser humano. Cada um é responsável pela própria mudança.
  - O mundo da voltas. Quem está por cima hoje, pode estar por baixo amanhã.
  - Quanto menos pessoas souberem da sua vida pessoal, melhor.
@@ -531,6 +532,7 @@
  - Investir em conhecimento sempre rende os melhores juros. - Benjamin Franklin
  - Se você acha que investir em conhecimento é caro, não queira conhecer o preço da ignorância.
  - Nenhum ser humano é 100% bom ou 100% ruim.
+ - Desconfie de seres humanos que dizem que nunca se arrependeram de nada.
  - Todo ser humano já mentiu, mente, ou vai mentir.
  - Se comparar com os outros é uma das piores coisas que um ser humano pode fazer em sua vida.
  - Todo ser humano, em sua essência, é egoista.
