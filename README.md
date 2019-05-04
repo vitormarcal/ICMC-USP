@@ -484,7 +484,7 @@
 ## School Of Life
 
  - A vida não é fácil, se acostume com isso. - Bill Gates
- - Se você colocar Einstein para jogar basquete com Michael Jordan, o Jordan vai achar que o Einstein é incompetente. Se você colocar o Jordan para fazer física teórica com Einstein, o Einstein vai achar que o Jordan é incompetente. Quase tudo na vida é relativo. Nenhum ser humano consegue analisar todas as variáveis de uma situação subjetiva.
+ - Se você colocar o Einstein para jogar basquete com Michael Jordan, o Jordan vai achar que o Einstein é incompetente. Se você colocar o Jordan para fazer física teórica com Einstein, o Einstein vai achar que o Jordan é incompetente. Quase tudo na vida é relativo. Nenhum ser humano consegue analisar todas as variáveis de uma situação subjetiva.
  - Meritocracia é um termo extremamente relativo, e na maioria das vezes, é uma idiotice que não existe.
  - A vida nunca foi, não é, e nunca será justa.
  - Se você é a pessoa mais inteligente da sala, você está na sala errada.
@@ -499,6 +499,7 @@
  - Você é a média das 5 pessoas que mais convive.
  - Se todos os seres humanos se cooperassem entre si, todos sairiam ganhando. (Teoria dos Jogos)
  - O mundo não deve nada a ninguém.
+ - Se você acha que filosofia é inútil, você ainda não entendeu o que é filosofia.
  - Existem adultos com 15 anos e crianças com 25. Idade e experiência não necessariamente significa sabedoria e amadurecimento.
  - O homem não vive sem a mulher, e a mulher não vive sem o homem, não existe sexo melhor que o outro.
  - No leito de morte, dinheiro e bens materiais são irrelevantes. O que é viver se não um passatempo antes da morte?
@@ -511,8 +512,9 @@
  - Antes de ter, você tem que ser.
  - Nunca, jamais, venere ou idolatre outro ser humano.
  - O mundo e a sociedade não dão a mínima para o quão inteligente, bondoso, humilde ou esforçado você seja. Eles só se importam com o valor que você agrega a eles.
+ - Lamentável o aprendiz que não ultrapasse seu mestre. - (Leonardo da Vinci). O mestre deve se esforçar para ensinar seu aprendiz a ser melhor do que ele, e o aprendiz deve se esforçar para ser melhor do que seu mestre. É assim que a humanidade evolui.
  - Nunca perca tempo discutindo com alguém que se acha dona da verdade absoluta.
- - O conhecimento sempre existiu. Basta buscá-lo.
+ - O conhecimento sempre existiu, basta buscá-lo.
  - Não da para ter ou fazer tudo que quer durante a vida.
  - Nunca pare de questionar, principalmente as autoridades.
  - Nunca acredite 100% no que os outros dizem, principalmente as autoridades.
@@ -521,6 +523,8 @@
  - Aprenda a pensar por si mesmo. Busque por informações e tire suas próprias conclusões.
  - Ninguem inveja o feio e nem odeia o fraco.
  - Mar calmo nunca fez bom marinheiro.
+ - Pessoas que não sentem medo, já morreram.
+ - 80% dos resultados, vem de 20% dos esforços.
  - Tem coisas na vida que simplesmente levam tempo para acontecer. Não adianta apressar as coisas.
  - Ser grato pela vida, pelo que tem e pelo que já conquistou.
  - Você precisa ver o macro, para entender muito bem o micro. 
@@ -535,7 +539,9 @@
  - Nenhum ser humano é 100% bom ou 100% ruim.
  - Desconfie de seres humanos que dizem que nunca se arrependeram de nada.
  - Todo ser humano já mentiu, mente, ou vai mentir.
- - Se comparar com os outros é uma das piores coisas que um ser humano pode fazer em sua vida.
+ - Se comparar com os outros é uma das piores coisas que um ser humano pode fazer em sua vida. Não queira ser igual os outros, seja você mesmo.
+ - Um dia sem aprender algo novo, é um dia perdido.
+ - Seja uma criança, mais não seja infantil.
  - Todo ser humano, em sua essência, é egoista.
  - Ninguém é melhor do que ninguém. No final, o buraco é o mesmo para todo mundo.
  - 99.99% do que acontece na vida não somos nós que controlamos. "Livre-Arbítrio" na maior parte da vida é uma ilusão. (Estoicismo, Rápido e Devagar, Teoria do Caos, etc)
