@@ -526,6 +526,10 @@
  - Pessoas que não sentem medo, já morreram.
  - 80% dos resultados, vem de 20% dos esforços.
  - Tem coisas na vida que simplesmente levam tempo para acontecer. Não adianta apressar as coisas.
+ - Monopólio nunca foi, é, ou será algo bom.
+ - Um rei só é um rei porque todo seu povo concente com isso.
+ - De centavo em centavo se chega a um milhão.
+ - O povo não deve temer seu governo, o governo que deve temer seu povo. - V de Vingança 
  - Ser grato pela vida, pelo que tem e pelo que já conquistou.
  - Você precisa ver o macro, para entender muito bem o micro. 
  - Nenhum ser humano consegue mudar outro ser humano. Cada um é responsável pela própria mudança.
@@ -542,6 +546,7 @@
  - Se comparar com os outros é uma das piores coisas que um ser humano pode fazer em sua vida. Não queira ser igual os outros, seja você mesmo.
  - Um dia sem aprender algo novo, é um dia perdido.
  - Seja uma criança, mais não seja infantil.
+ - O essencial é invisível aos olhos. - O Pequeno Príncipe.
  - Todo ser humano, em sua essência, é egoista.
  - Ninguém é melhor do que ninguém. No final, o buraco é o mesmo para todo mundo.
  - 99.99% do que acontece na vida não somos nós que controlamos. "Livre-Arbítrio" na maior parte da vida é uma ilusão. (Estoicismo, Rápido e Devagar, Teoria do Caos, etc)
