@@ -518,7 +518,7 @@
  - Nunca acredite 100% no que os outros dizem, principalmente as autoridades.
  - Nunca acredite em dogmas ou verdades absolutas.
  - A questão não é quem você é hoje, mais a pessoa que você poderá ser amanhã.
- - Aprenda a pensar por si mesmo. Busque for informações e tire suas próprias conclusões.
+ - Aprenda a pensar por si mesmo. Busque por informações e tire suas próprias conclusões.
  - Ninguem inveja o feio e nem odeia o fraco.
  - Tem coisas na vida que simplesmente levam tempo para acontecer. Não adianta apressar as coisas.
  - Ser grato pela vida, pelo que tem e pelo que já conquistou.
@@ -541,7 +541,7 @@
  - Muitas pessoas gastam dinheiro que não tem, para comprar coisas que não precisam, para impressionar pessoas que não gostam.
  - Todo mundo é um gênio. Mas se você julgar um peixe por sua capacidade de subir em uma árvore, ele vai gastar toda a vida acreditando que é estúpido.
  - Não existe receita de bolo de como viver a vida. Cada ser humano vive sua própria filosofia de vida.
- - O cérebro humano é a coisa mais complexa que existe no universo. Nunca acredite que você conheçe realmente outro ser humano.
+ - O cérebro humano é a coisa mais complexa que existe no universo. Nunca acredite que você conhece realmente outro ser humano.
  - A força de vontade é a maior força que existe no universo.
  - Os homens perdem a saúde para juntar dinheiro, depois perdem o dinheiro para recuperar a saúde. A maioria das pessoas vivem como se nunca fossem morrer, e morrem como se nunca tivessem vivido.
  - O que sabemos é uma gota, o que ignoramos é um oceano. - Newton
