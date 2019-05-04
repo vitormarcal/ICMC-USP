@@ -491,6 +491,7 @@
  - Existem gênios sem educação formal e idiotas com doutorado.
  - Se você quiser julgar o caráter de um ser humano, dê poder a ele. - Abraham Lincoln
  - Aprenda a gostar de estudar a história da humanidade, para não cometer os mesmos erros do passado.
+ - Não sonhe o sonho dos outros.
  - Inteligente é quem aprende com os próprios erros, sábio é quem aprende com o erro dos outros.
  - Não existe almoço grátis, tudo tem um preço.
  - Você é livre para fazer o que quiser, mais sempre será escravo das consequências.
@@ -540,10 +541,12 @@
  - A natureza não nos deu 2 ouvidos e apenas 1 boca atoa.
  - Investir em conhecimento sempre rende os melhores juros. - Benjamin Franklin
  - Se você acha que investir em conhecimento é caro, não queira conhecer o preço da ignorância.
+ - Nem todo leitor é um líder, mas todo líder é um leitor. Porém ler muito por si só não significa nada, o que importa é o aprendizado prático que você tira da leitura. Nem todo livro deve ser lido por completo.
  - Nenhum ser humano é 100% bom ou 100% ruim.
  - Desconfie de seres humanos que dizem que nunca se arrependeram de nada.
  - Todo ser humano já mentiu, mente, ou vai mentir.
- - Se comparar com os outros é uma das piores coisas que um ser humano pode fazer em sua vida. Não queira ser igual os outros, seja você mesmo.
+ - Se comparar com os outros é uma das piores coisas que um ser humano pode fazer em sua vida. Não queira ser igual os outros, seja você mesmo. O mundo seria muito chato se todos fossem iguais.
+ - Ninguém é tão grande que não possa aprender, nem tão pequeno que não possa ensinar.
  - Um dia sem aprender algo novo, é um dia perdido.
  - Seja uma criança, mas não seja infantil.
  - O essencial é invisível aos olhos. - O Pequeno Príncipe.
@@ -553,6 +556,7 @@
  - Muitas pessoas gastam dinheiro que não tem, para comprar coisas que não precisam, para impressionar pessoas que não gostam.
  - Todo mundo é um gênio. Mas se você julgar um peixe por sua capacidade de subir em uma árvore, ele vai gastar toda a vida acreditando que é estúpido.
  - Não existe receita de bolo de como viver a vida. Cada ser humano vive sua própria filosofia de vida.
+ - Não julgue a fé alheia. Ninguém realmente sabe o que existe além deste mundo.
  - O cérebro humano é a coisa mais complexa que existe no universo. Nunca acredite que você conhece realmente outro ser humano.
  - A força de vontade é a maior força que existe no universo.
  - Os homens perdem a saúde para juntar dinheiro, depois perdem o dinheiro para recuperar a saúde. A maioria das pessoas vivem como se nunca fossem morrer, e morrem como se nunca tivessem vivido.
