@@ -495,6 +495,7 @@
  - Não existe almoço grátis, tudo tem um preço.
  - Você é livre para fazer o que quiser, mais sempre será escravo das consequências.
  - Toda ação, possui uma reação.
+ - A melhor forma de vingança é a ignorância.
  - Você é a média das 5 pessoas que mais convive.
  - Se todos os seres humanos se cooperassem entre si, todos sairiam ganhando. (Teoria dos Jogos)
  - O mundo não deve nada a ninguém.
@@ -510,12 +511,21 @@
  - Antes de ter, você tem que ser.
  - Nunca, jamais, venere ou idolatre outro ser humano.
  - O mundo e a sociedade não dão a mínima para o quão inteligente, bondoso, humilde ou esforçado você seja. Eles só se importam com o valor que você agrega a eles.
+ - O conhecimento sempre existiu. Basta buscá-lo.
  - Não da para ter ou fazer tudo que quer durante a vida.
  - Nunca pare de questionar, principalmente as autoridades.
  - Nunca acredite 100% no que os outros dizem, principalmente as autoridades.
  - Nunca acredite em dogmas ou verdades absolutas.
- - Aprenda a pensar por si mesmo.
+ - A questão não é quem você é hoje, mais a pessoa que você poderá ser amanhã.
+ - Aprenda a pensar por si mesmo. Busque for informações e tire suas próprias conclusões.
  - Ninguem inveja o feio e nem odeia o fraco.
+ - Tem coisas na vida que simplesmente levam tempo para acontecer. Não adianta apressar as coisas.
+ - Ser grato pela vida, pelo que tem e pelo que já conquistou.
+ - Você precisa ver o macro, para enter muito bem o micro. 
+ - Nenhum ser humano consegue mudar outro ser humano. Cada um é responsável pela própria mudança.
+ - O mundo da voltas. Quem está por cima hoje, pode estar por baixo amanhã.
+ - Quanto menos pessoas souberem da sua vida pessoal, melhor.
+ - Conhecimento e ideias por si são inutéis se não aplicados na prática.
  - Um dos maiores problemas dos seres humanos, é que eles não gostam de pensar.
  - A natureza não nos deu 2 ouvidos e apenas 1 boca atoa.
  - Investir em conhecimento sempre rende os melhores juros. - Benjamin Franklin
