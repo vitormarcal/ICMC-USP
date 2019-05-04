@@ -520,6 +520,7 @@
  - A questão não é quem você é hoje, mais a pessoa que você poderá ser amanhã.
  - Aprenda a pensar por si mesmo. Busque por informações e tire suas próprias conclusões.
  - Ninguem inveja o feio e nem odeia o fraco.
+ - Mar calmo nunca fez bom marinheiro.
  - Tem coisas na vida que simplesmente levam tempo para acontecer. Não adianta apressar as coisas.
  - Ser grato pela vida, pelo que tem e pelo que já conquistou.
  - Você precisa ver o macro, para entender muito bem o micro. 
