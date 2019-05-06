@@ -30,7 +30,8 @@
  - [LastPass](https://www.lastpass.com/pt)
     - Software to save, create and remember all your passwords 
  - [cheatsheet do git-flow](https://danielkummer.github.io/git-flow-cheatsheet/index.pt_BR.html)
- - Ruby on Rails
+ - [SubmarineCableMap](https://www.submarinecablemap.com/)
+ - Fast Ruby on Rails MVP
     - $ sudo apt update
     - $ sudo apt install ruby-full
     - $ ruby --version
@@ -165,10 +166,10 @@
        - [Toca do Tux](https://www.youtube.com/channel/UCkATW9o8m4pnXAAmac2o63Q)
        - [Curso de Linux Básico / Certificação LPIC1 - Bóson Treinamentos](https://www.youtube.com/watch?v=u16ZDPcf8Rc&list=PLucm8g_ezqNp92MmkF9p_cj4yhT-fCTl7)
     - Tools
+       - [LinSSID Wifi Inspector](https://www.edivaldobrito.com.br/instale-linssid-um-escaner-de-redes-wireles-para-linux-com-interface-grafica/)
        - [AnyDesk](https://anydesk.com)
        - [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
        - [Etcher - Flash OS images to SD cards & USB drives](https://etcher.io/)
-       - [Rufus.ie for Windows](https://rufus.ie)
        - [WineHQ](https://www.winehq.org/)
        - [Vim Para Noobs](https://woliveiras.com.br/vimparanoobs/)
     - Games
@@ -176,7 +177,7 @@
        - [$ sudo apt install zsnes :video_game:](http://www.zsnes.com/)
        - [$ sudo apt install playonlinux :video_game:](https://www.playonlinux.com/en/)
     - Operation System
-       - [<strong>Lubuntu 18.04 LTS (Bionic Beaver) -> OS I currently Use and Recommend (It's better than windows at least)</strong>](https://lubuntu.net/)
+       - [<strong>Lubuntu 18.04 LTS (Bionic Beaver) :heart: </strong>](https://lubuntu.net/)
  - FreeBSD
     - Sites
        - [Documentation PT-BR](https://www.freebsd.org/doc/pt_BR.ISO8859-1/)
@@ -191,13 +192,15 @@
     - [Baboo Cursos](https://www.baboocursos.com.br/)
  - Tools
     - [Cmder](http://cmder.net/)
+    - [Rufus.ie for Windows](https://rufus.ie)
+    - [Xorris Wifi Inspector](https://www.riverbed.com/products/xirrus/inspector.html)
 
 ## Hardware
 
  - Sites
-    - [ClubeDoHardware]()
+    - [ClubeDoHardware](https://www.clubedohardware.com.br/)
  - Books
-    - [Hardware Curso Completo - Gabriel Torres](https://www.clubedohardware.com.br/livros/esgotados/hardware-curso-completo-4%C2%AA-edi%C3%A7%C3%A3o-2001-r10/)
+    - [Hardware Curso Completo 4 Edição - Gabriel Torres](https://www.clubedohardware.com.br/livros/esgotados/hardware-curso-completo-4%C2%AA-edi%C3%A7%C3%A3o-2001-r10/)
 
 ## Security 
 
@@ -294,6 +297,7 @@
 - [Hacks Mozilla](https://hacks.mozilla.org/)
 - [Willian Justen](https://willianjusten.com.br/)
 - [Felipe Fialho](https://www.felipefialho.com/)
+- [VoceNaoETaoEsperto](http://www.vocenaoetaoesperto.com.br/)
 - [Luiz Tools](http://www.luiztools.com.br/)
 - [Henrique Bastos](https://henriquebastos.net)
 - [RockSeat](https://rocketseat.com.br/) 
@@ -316,6 +320,7 @@
 ## Nice Articles
 
  - [Getting Real - the smarter, faster, easy way to build a sucesfull web application - BaseCamp](https://basecamp.com/books/getting-real)
+ - [Happiness - Steve Cutts](https://www.youtube.com/watch?v=e9dZQelULDk)
  - [O que é propósito de vida - Mopora](https://mopora.com/artigos/o-que-e-proposito-de-vida/)
  - [The Invented History of 'The Factory Model of Education'](http://hackeducation.com/2015/04/25/factory-model)
  - [The Humble Programmer by Edsger W. Dijkstra](https://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD340.html)
@@ -481,89 +486,6 @@
  - "Always will have something to improve, done is better than perfect"
 
 
-## School Of Life
-
- - A vida não é fácil, se acostume com isso. - Bill Gates
- - Se você colocar o Einstein para jogar basquete com Michael Jordan, o Jordan vai achar que o Einstein é incompetente. Se você colocar o Jordan para fazer física teórica com Einstein, o Einstein vai achar que o Jordan é incompetente. Quase tudo na vida é relativo. Nenhum ser humano consegue analisar todas as variáveis de uma situação subjetiva.
- - Meritocracia é um termo extremamente relativo, e na maioria das vezes, é uma idiotice que não existe.
- - A vida nunca foi, não é, e nunca será justa.
- - Se você é a pessoa mais inteligente da sala, você está na sala errada.
- - Existem gênios sem educação formal e idiotas com doutorado.
- - Se você quiser julgar o caráter de um ser humano, dê poder a ele. - Abraham Lincoln
- - Aprenda a gostar de estudar a história da humanidade, para não cometer os mesmos erros do passado.
- - Não sonhe o sonho dos outros.
- - Inteligente é quem aprende com os próprios erros, sábio é quem aprende com o erro dos outros.
- - Não existe almoço grátis, tudo tem um preço.
- - Você é livre para fazer o que quiser, mais sempre será escravo das consequências.
- - Toda ação, possui uma reação.
- - A melhor forma de vingança é a ignorância.
- - Você é a média das 5 pessoas que mais convive.
- - Se todos os seres humanos se cooperassem entre si, todos sairiam ganhando. (Teoria dos Jogos)
- - O mundo não deve nada a ninguém.
- - Se você acha que filosofia é inútil, você ainda não entendeu o que é filosofia.
- - Existem adultos com 15 anos e crianças com 25. Idade e experiência não necessariamente significa sabedoria e amadurecimento.
- - O homem não vive sem a mulher, e a mulher não vive sem o homem, não existe sexo melhor que o outro.
- - No leito de morte, dinheiro e bens materiais são irrelevantes. O que é viver se não um passatempo antes da morte?
- - A maioria das pessoas não vivem, apenas existem. Algumas por falta de oportunidades, outras por opção e alienação.
- - Todos os seres humanos tem o direito de serem felizes. Mas cada ser humano é responsável pela própria felicidade.
- - A melhor universidade do mundo se chama "Internet" e o melhor professor se chama "Google"
- - Se você criar uma águia no meio de galinhas, ela vai agir e pensar que é igual a elas. Autoconhecimento provavelmente é a coisa mais importante que um ser humano pode ter em sua vida.  
- - Tentar agradar ou ser amigo de todo mundo é um dos segredos para o fracasso e a infelicidade.
- - Justiça, ética e moral não existem, são apenas termos criados por seres humanos. Os animais e a natureza não se importam com isso. Mas não faça com os outros o que não gostaria que fizessem com você. 
- - Antes de ter, você tem que ser.
- - Nunca, jamais, venere ou idolatre outro ser humano.
- - O mundo e a sociedade não dão a mínima para o quão inteligente, bondoso, humilde ou esforçado você seja. Eles só se importam com o valor que você agrega a eles.
- - Lamentável o aprendiz que não ultrapasse seu mestre. - (Leonardo da Vinci). O mestre deve se esforçar para ensinar seu aprendiz a ser melhor do que ele, e o aprendiz deve se esforçar para ser melhor do que seu mestre. É assim que a humanidade evolui.
- - Nunca perca tempo discutindo com alguém que se acha dona da verdade absoluta.
- - O conhecimento sempre existiu, basta buscá-lo.
- - Não da para ter ou fazer tudo que quer durante a vida.
- - Nunca pare de questionar, principalmente as autoridades.
- - Nunca acredite 100% no que os outros dizem, principalmente as autoridades.
- - Nunca acredite em dogmas ou verdades absolutas.
- - A questão não é quem você é hoje, mais a pessoa que você poderá ser amanhã.
- - Aprenda a pensar por si mesmo. Busque por informações e tire suas próprias conclusões.
- - Ninguem inveja o feio e nem odeia o fraco.
- - Mar calmo nunca fez bom marinheiro.
- - Pessoas que não sentem medo, já morreram.
- - 80% dos resultados, vem de 20% dos esforços.
- - Tem coisas na vida que simplesmente levam tempo para acontecer. Não adianta apressar as coisas.
- - Monopólio nunca foi, é, ou será algo bom.
- - Um rei só é um rei porque todo seu povo concente com isso.
- - De centavo em centavo se chega a um milhão.
- - O povo não deve temer seu governo, o governo que deve temer seu povo. - V de Vingança 
- - Ser grato pela vida, pelo que tem e pelo que já conquistou.
- - Você precisa ver o macro, para entender muito bem o micro. 
- - Nenhum ser humano consegue mudar outro ser humano. Cada um é responsável pela própria mudança.
- - O mundo da voltas. Quem está por cima hoje, pode estar por baixo amanhã.
- - Quanto menos pessoas souberem da sua vida pessoal, melhor.
- - Conhecimento e ideias por si só são inutéis se não aplicados na prática.
- - Um dos maiores problemas dos seres humanos, é que eles não gostam de pensar.
- - A natureza não nos deu 2 ouvidos e apenas 1 boca atoa.
- - Investir em conhecimento sempre rende os melhores juros. - Benjamin Franklin
- - Se você acha que investir em conhecimento é caro, não queira conhecer o preço da ignorância.
- - Nem todo leitor é um líder, mas todo líder é um leitor. Porém ler muito por si só não significa nada, o que importa é o aprendizado prático que você tira da leitura. Nem todo livro deve ser lido por completo.
- - Nenhum ser humano é 100% bom ou 100% ruim.
- - Desconfie de seres humanos que dizem que nunca se arrependeram de nada.
- - Todo ser humano já mentiu, mente, ou vai mentir.
- - Se comparar com os outros é uma das piores coisas que um ser humano pode fazer em sua vida. Não queira ser igual os outros, seja você mesmo. O mundo seria muito chato se todos fossem iguais.
- - Ninguém é tão grande que não possa aprender, nem tão pequeno que não possa ensinar.
- - Um dia sem aprender algo novo, é um dia perdido.
- - Seja uma criança, mas não seja infantil.
- - O essencial é invisível aos olhos. - O Pequeno Príncipe.
- - Todo ser humano, em sua essência, é egoista.
- - Ninguém é melhor do que ninguém. No final, o buraco é o mesmo para todo mundo.
- - 99.99% do que acontece na vida não somos nós que controlamos. "Livre-Arbítrio" na maior parte da vida é uma ilusão. (Estoicismo, Rápido e Devagar, Teoria do Caos, etc)
- - Muitas pessoas gastam dinheiro que não tem, para comprar coisas que não precisam, para impressionar pessoas que não gostam.
- - Todo mundo é um gênio. Mas se você julgar um peixe por sua capacidade de subir em uma árvore, ele vai gastar toda a vida acreditando que é estúpido.
- - Não existe receita de bolo de como viver a vida. Cada ser humano vive sua própria filosofia de vida.
- - Não julgue a fé alheia. Ninguém realmente sabe o que existe além deste mundo.
- - O cérebro humano é a coisa mais complexa que existe no universo. Nunca acredite que você conhece realmente outro ser humano.
- - A força de vontade é a maior força que existe no universo.
- - Os homens perdem a saúde para juntar dinheiro, depois perdem o dinheiro para recuperar a saúde. A maioria das pessoas vivem como se nunca fossem morrer, e morrem como se nunca tivessem vivido.
- - O que sabemos é uma gota, o que ignoramos é um oceano. - Newton
- - Nenhum ser humano é "especial". É só estudar um pouco de Astronomia para entender isso.
-
-
 ## YouTube #StopWatchingTV
 
  - Technology
@@ -666,6 +588,39 @@
        - REGRA 10 – Seja preciso no que diz
        - REGRA 11 – Não incomode as crianças quando estão andando de skate
        - REGRA 12 – Acaricie um gato ao encontrar um na rua
+    - <strong>10 Ideias Outliers</strong>
+       - IDEIA #1: Talento é superestimado
+       - IDEIA #2: Regra das 10 mil horas
+       - IDEIA #3: Prática deliberada
+       - IDEIA #4: Concentre-se em melhorar uma coisa de cada vez
+       - IDEIA #5: Não espere ser bom quando você começar algo
+       - IDEIA #6: Prepara-se para agarrar oportunidades
+       - IDEIA #7: O QI não é o mais importante
+       - IDEIA #8: Desenvolva sua inteligência prática.
+       - IDEIA #9: Seja disciplinado!
+       - IDEIA #10: O peso dos nossos legados culturais
+    - <strong>Princípios "Você Não É Tão Esperto Quanto Pensa"</strong>
+       - O Experimentos do Macacos e a escada com um cacho de banana   
+          - O Equívoco: Fazemos o que fazemos pois temos consciência do que estamos fazendo.
+          - A Verdade: Normalmente não fazemos a mínima ideia do que fazemos, apenas seguimos condicionamentos sociais.
+       - Efeito de ancoragem  
+          - O Equívoco: Você racionalmente analisa todos os fatores antes de fazer uma escolha determinante.
+          - A Verdade: Sua primeira percepção permanece em sua mente, afetando percepções e decisões posteriores.
+       - A Ilusão de Transparência
+          - O Equívoco: Quando suas emoções vêm à tona as pessoas conseguem olhar para você e saber o que você está sentindo ou pensando.
+          - A Verdade: Sua experiência subjetiva não é observável e você superestima a capacidade dos outros entender ou captarem suas emoções.
+       - Extinção Forçada
+          - O Equívoco: Se você parar imediatamente de manter um hábito ruim, esse hábito perderá a força até desaparecer de sua vida.
+          - A Verdade: Sempre que você tenta cortar um hábito bruscamente, seu cérebro vai fazer um último esforço para retomar ao velho hábito.
+       - Desindividualização ou Consciência de manada
+          - O Equívoco: Pessoas que saqueiam e vandalizam em meio ao caos estavam apenas esperando uma desculpa para roubarem ou serem violentas.
+          - A Verdade: Você é propenso a perder sua individualidade e ser absorvido pela "mente coletiva" dadas condições corretas.
+       - Crenças Persistentes
+          - O Equívoco: Quando você se depara com fatos que contradizem aquilo que você acredita, você incorpora esses fatos novos e altera suas crenças.
+          - A Verdade: Quando você depara com fatos que contradizem suas crenças, você os ignora e fortalece suas crenças.
+       - Tendência de Confirmação
+          - O Equívoco: Suas opiniões são o resultado de anos de análise racional e objetiva.
+          - A Verdade: Suas opiniões resultam do fato de você prestar atenção nas informações que confirmam suas crenças e ignorar todas as informações que contradizem aquilo que você acredita.
     - <strong>O Jeito Harvard de Ser Feliz: 7 Princípios</strong>
        - I – O benefício da felicidade
           - “Quando eu for bem sucedido, eu vou ser feliz.” - ERRADO
