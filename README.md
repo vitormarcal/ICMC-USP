@@ -637,13 +637,13 @@
        - VII. Investimento social
           - rede social de apoio é o seu maior ativo.
     - <strong>7 Princípios de Leonardo da Vinci </strong>
-       - <strong>1 - Curiosità</strong>: Instigue sua curiosidade
-       - <strong>2 - Dimostrazione</strong>: Aprenda com a experiência
-       - <strong>3 - Sensazione</strong>: Estimule sua percepção
-       - <strong>4 - Sfumato</strong>: Enfrente a sombra
-       - <strong>5 - Arte/Scienza</strong>: Busque o equilíbrio
-       - <strong>6 - Corporalità</strong>: Integre corpo, mente e espírito
-       - <strong>7 - Conessione</strong>: Realize a comunhão
+       - <strong>1 - Curiosità</strong>: Instigue sua curiosidade: em relação à vida e uma busca contínua do conhecimento. Quando somos crianças, somos naturalmente cheios de curiosidades em relação à vida e a tudo que nos rodeia. Não deixe esta curiosidade na infância, questione tudo, busque entender o porquê das coisas, veja alguma situação por um ângulo diferente. Preste atenção nos questionamentos que você mais tem em mente; isso reflete os objetivos de sua vida como também, influenciam a qualidade de vida.
+       - <strong>2 - Dimostrazione</strong>: Aprenda com a experiência: Submeta o conhecimento aos testes e experiências. Tenha perseverança e se disponha a aprender com os próprios erros. 
+       - <strong>3 - Sensazione</strong>: Estimule sua percepção: Um contínuo aperfeiçoamento dos sentidos, principalmente da visão, como meio de tornar a experiência mais vívida
+       - <strong>4 - Sfumato</strong>: Enfrente a sombra: Disposição para aceitar a ambiguidade, o paradoxo e a incerteza.
+       - <strong>5 - Arte/Scienza</strong>: Busque o equilíbrio entre ciência e arte, lógica e imaginação: se baseia em desenvolver os dois hemisférios cerebrais: o direito, relacionado ao pensamento imaginativo, atividades artísticas e intuição. O esquerdo relacionado ao pensamento lógico e analítico. Nosso sistema educacional e a ciência tendem a não dar importância ao intelecto de natureza não verbal. O resultado disso é que os indivíduos aprendem apenas a ir bem na escola mas de modo geral, não conseguem desenvolver sua capacidade criativa. Muitas pessoas se destacam na arte mas não conseguem ir bem na escola e acabam sendo rotulados erroneamente como incapazes de aprender.
+       - <strong>6 - Corporalità</strong>: Integre corpo, mente e espírito: baseia-se no princípio que devemos assumir responsabilidade por nossa saúde e bem- estar, a partir de exercícios físicos, alimentação saudável e descanso.
+       - <strong>7 - Conessione</strong>: Realize a comunhão: Como todos os elementos acima se harmonizam? Como tudo se relaciona com tudo?
     - <strong>O Tao do Jeet Kune Do - Bruce Lee</strong>
        - 1 - OBJETIVO
           - "Um objetivo nem sempre é para ser atingido, frequentemente serve apenas como algo a ser mirado."
