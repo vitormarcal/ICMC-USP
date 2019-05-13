@@ -10,6 +10,10 @@
 - [Mairo Vergara](http://www.mairovergara.com/)
 - [Anki](https://apps.ankiweb.net/)
 - [Grammarly](https://www.grammarly.com/)
+- [Audible](https://www.audible.com/)
+- [Cambly](https://www.cambly.com/)
+- [Google Translate](https://translate.google.com.br)
+   - Serious Alex?! Yeah bro, it helps a lot sometimes ;b
 
 ## Roadmap Software Engineering
 
@@ -24,13 +28,24 @@
 
 ## Useful Tools
 
+ - Sites
+    - [Jornal Da USP - Melhor jornal online!](https://jornal.usp.br/)
+ - Dev Jobs
+    - [hipsters.job](https://hipsters.jobs/)
+    - [Revelo](https://www.revelo.com.br/)
+    - [Vulpi](https://vulpi.com.br/)
+    - [GeekHunter](https://www.geekhunter.com.br/)
  - [StackOverFlow](https://stackoverflow.com/)
     - [Insights StackOverFlow](https://insights.stackoverflow.com/)
     - [Trends StackOverFlow](https://insights.stackoverflow.com/trends?tags=r%2Cstatistics)
  - [LastPass](https://www.lastpass.com/pt)
     - Software to save, create and remember all your passwords 
- - [cheatsheet do git-flow](https://danielkummer.github.io/git-flow-cheatsheet/index.pt_BR.html)
+ - [12minutos](https://12min.com/br)
+    - Books resume
+ - [Cheatsheet do git-flow](https://danielkummer.github.io/git-flow-cheatsheet/index.pt_BR.html)
+    - Fast reference to git-flow
  - [SubmarineCableMap](https://www.submarinecablemap.com/)
+    - Internet submarine cables around the world
  - Fast Ruby on Rails MVP
     - $ sudo apt update
     - $ sudo apt install ruby-full
@@ -126,7 +141,7 @@
       }
       ```
    - Exponential Time O(2^n) :skull: :skull:
-      - Worst Case Possible, always try to avoid
+      - One of the worst Case Possible, always try to avoid
       - Denotes an algorithm whose growth doubles with each additon to the input data set. The growth curve of an O(2N) function is exponential - starting off very shallow, then rising meteorically
       - Example: recursive calculation of Fibonacci numbers
       ```
@@ -321,6 +336,7 @@
 
  - [Getting Real - the smarter, faster, easy way to build a sucesfull web application - BaseCamp](https://basecamp.com/books/getting-real)
  - [Happiness - Steve Cutts](https://www.youtube.com/watch?v=e9dZQelULDk)
+ - [Escravos da Tecnologia - Steve Cutts](https://www.youtube.com/watch?v=Qx8JIoNOz0Y)
  - [O que é propósito de vida - Mopora](https://mopora.com/artigos/o-que-e-proposito-de-vida/)
  - [The Invented History of 'The Factory Model of Education'](http://hackeducation.com/2015/04/25/factory-model)
  - [The Humble Programmer by Edsger W. Dijkstra](https://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD340.html)
@@ -369,15 +385,15 @@
 - [Training Center](https://github.com/training-center)
 - [BackEnd Br](https://github.com/backend-br)
 - [Comunidades Web](https://github.com/brasil-php/comunidades)
-- [NodeJS Brasil - Facebook](https://www.facebook.com/groups/nodejsbrasil/about/)
 - [Dev Translate](https://github.com/devtranslate)
 - [CodamosClub](https://www.codamos.club/)
 - [HashNode](https://hashnode.com/)
-- [Mulheres na Computação](https://mulheresnacomputacao.com/)
 - [Dev Newsletters](https://devnewsletters.github.io/)
+- [Mulheres na Computação :girl:](https://mulheresnacomputacao.com/)
 
 ## Podcasts
 
+ - [GooglePodcast](https://play.google.com/store/apps/details?id=com.google.android.apps.podcasts&hl=pt_BR)
  - Technology & Arts & Games & Science 
     - Portuguese
        - [Dev Na Estrada](https://devnaestrada.com.br/)
@@ -450,6 +466,11 @@
        - [Rework.FM](https://rework.fm/)
        - [MadeYouThinkPodcast](https://madeyouthinkpodcast.com/)
 
+## Bussiness
+
+ - <strong>"As pessoas não compram o que você faz, elas compram o por que você faz."</strong> – Simon Sinek
+ - <img src="circulo-dourado.png" alt="Circulo Dourado">
+
 ## Software Engineering Principles
 
  - [Adams Óbvio](https://www.amazon.com/dp/8562409189?tag=bizzi0d-20)
@@ -488,11 +509,14 @@
 
 ## YouTube #StopWatchingTV
 
+ - Documentarys
+    - [remotefirst.com.br](https://www.remotefirst.com.br)
  - Technology
     - [Curso em Video](https://www.youtube.com/user/cursosemvideo)
     - [Fabio Akita](https://www.youtube.com/channel/UCib793mnUOhWymCh2VJKplQ)
     - [EstudoNauta](https://www.youtube.com/channel/UCJcWQ9MgPlHIFMx8uDWEYNg)
     - [Fábrica de Noobs](https://www.youtube.com/channel/UCGObNjkNjo1OUPLlm8BTb3A)
+    - [Hipsters.Tube](https://hipsters.tech/category/hipsters-ponto-tube/)
     - [COD3R CURSOS](https://www.youtube.com/channel/UCcMcmtNSSQECjKsJA1XH5MQ/featured)
     - [CodigoFonte TV](https://www.youtube.com/user/codigofontetv)
     - [BrasilJS](https://www.youtube.com/user/BrazilJS)
@@ -554,6 +578,7 @@
     - [NeuroVox](https://www.youtube.com/user/NeuroVoxConsultoria)
     - [Moporã](https://www.youtube.com/channel/UCZYCNT6OT4_cgt-ldtwGQJw)
     - [Arata Academy](https://www.youtube.com/channel/UCEdgNBcBybRtwv836C8El4g)
+    - [MOVA](https://www.youtube.com/channel/UCTw4_Y7XXuorDLN5fdDWeIQ)
     - [Jacob Petry](https://www.youtube.com/channel/UCv79O7v-AHomNC7MB7cx6BA)
     - [Augusto Ollivieri](https://www.youtube.com/channel/UCfkmlovZdEmMzTsGwatkoIw)
     - [IlustradaMente](https://www.youtube.com/channel/UCNmO5NWNLQkOr76WmHEq-DQ)
