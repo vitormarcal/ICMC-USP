@@ -13,7 +13,6 @@
 - [Audible](https://www.audible.com/)
 - [Cambly](https://www.cambly.com/)
 - [Google Translate](https://translate.google.com.br)
-   - Serious Alex?! Yeah bro, it helps a lot sometimes ;b
 
 ## Roadmap Software Engineering
 
@@ -100,8 +99,8 @@
       - [VidaDeHipster](https://www.vidadehipster.com.br/)
    - <strong>Onde Comprar?</strong>
       - [FilipeFlop](https://www.filipeflop.com) 
-- Big O
-   - [A beginner's guide to Big O notation](https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/)
+- Big O Notation :skull: 
+   - [bigocheatsheet.com](http://bigocheatsheet.com/)
    - [A coffee-break introduction to time complexity of algorithms](https://dev.to/vickylai/a-coffee-break-introduction-to-time-complexity-of-algorithms-160m?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email)
    - O(1) Constant Time
       - Best Case Possible
@@ -141,7 +140,7 @@
       }
       ```
    - Exponential Time O(2^n) :skull: :skull:
-      - One of the worst Case Possible, always try to avoid
+      - One of the worst case possible, always try to avoid
       - Denotes an algorithm whose growth doubles with each additon to the input data set. The growth curve of an O(2N) function is exponential - starting off very shallow, then rising meteorically
       - Example: recursive calculation of Fibonacci numbers
       ```
@@ -150,6 +149,12 @@
           return Fibonacci(number - 2) + Fibonacci(number - 1);
       }
       ```
+   - Factorial Time O(n!) :skull: :skull: :skull:
+     - Worst case possible, always try to avoid
+     - Extremely unperformant
+     - Will execute in n factorial time per every new operation. 
+     - Example: Travelling Salesman Problem
+        - "Given a list of cities and the distances between each pair of cities, what is the shortest possible route that visits each city and returns to the origin city?"
    - <strong>Resume</strong>
       - <img src="big-o-names.jpeg" alt="Big(O) Names">
       - <img src="big-o-graphic.jpeg" alt="Big(O) Graphic">
@@ -509,7 +514,7 @@
 
 ## YouTube #StopWatchingTV
 
- - Documentarys
+ - Documentaries
     - [remotefirst.com.br](https://www.remotefirst.com.br)
  - Technology
     - [Curso em Video](https://www.youtube.com/user/cursosemvideo)
