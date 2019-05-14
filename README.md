@@ -565,6 +565,7 @@
     - [Canal do Pirula](https://www.youtube.com/user/Pirulla25)
     - [Kurzgesagt – In a Nutshell](https://www.youtube.com/user/Kurzgesagt)
     - [Vsauce](https://www.youtube.com/user/Vsauce)
+    - [Science Vlogs Brasil](https://www.youtube.com/channel/UCqiD87j08pe5NYPZ-ncZw2w)
     - [PBS Space Time ](https://www.youtube.com/channel/UC7_gcs09iThXybpVgjHZ_7g/about)
     - [Ponto em Comum](https://www.youtube.com/channel/UCGo3vjM2Ll3XujL-zYT5SMg)
     - [Alimente o Cérebro](https://www.youtube.com/channel/UC3fBS89aQ7mt5G1TodU4HNg)
@@ -579,6 +580,7 @@
     - [Thoughty2](https://www.youtube.com/user/Thoughty2/featured)
     - [MathGurl](https://www.youtube.com/channel/UC5RV_s1Jh-jQI4HfexEIb2Q)
     - [A Matemaníaca por Julia Jaccoud](https://www.youtube.com/channel/UCz4Zuqtj9fokXH68gZJmCdA)
+    - [PlayList OrigentsBT Astronomia](https://www.youtube.com/watch?v=HiNR74zi8qQ&list=PLUBR4s0w2cG1kyI2MDBJV0J3B5HuJoB7g)
  - Self Development & Philosophy & Psychology & History & Others
     - [NeuroVox](https://www.youtube.com/user/NeuroVoxConsultoria)
     - [Moporã](https://www.youtube.com/channel/UCZYCNT6OT4_cgt-ldtwGQJw)
