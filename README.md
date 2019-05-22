@@ -12,6 +12,7 @@
 - [Grammarly](https://www.grammarly.com/)
 - [Audible](https://www.audible.com/)
 - [Cambly](https://www.cambly.com/)
+- [iTalki](https://www.italki.com/)
 - [Google Translate](https://translate.google.com.br)
 
 ## Roadmap Software Engineering
@@ -166,6 +167,8 @@
        - [Guia Foca](http://www.guiafoca.org/?page_id=51)
        - [SS64 - Commands CLI References](https://ss64.com/)
        - [Kernel.org](https://www.kernel.org/)
+    - Benchmark
+       - [Phoronix Test Suite](https://www.phoronix-test-suite.com/?k=downloads)
     - Funny Commands
        - $ fortune 
           - If you are demotivated, maybe this command can be useful :smile:
@@ -631,6 +634,25 @@
        - IDEIA #8: Desenvolva sua inteligência prática.
        - IDEIA #9: Seja disciplinado!
        - IDEIA #10: O peso dos nossos legados culturais
+    - <strong>Poder Além da Vida</strong>
+       - 3 Regras de Sócrates:
+          - PARADOXO: A vida é um mistério. Não perca tempo tentando entendê-la.
+          - HUMOR: Tenha senso de humor. Especialmente sobre si mesmo. É a força por trás de toda atitude.
+          - MUDANÇA: Nada permanece o mesmo.
+       - A felicidade está na jornada, e não no destino.
+       - O lixo está na sua cabeça. Primeiro precisar retirar o que não precisa.
+       - "Você é maluco, sabia?" "Leva-se uma vida inteira praticando."
+       - A primeira percepção do guerreiro: que ele não sabe.
+       - É natural ter emoções. Como as nuvens que passam.
+       - Sempre há algo acontecendo. Nada na vida é banal.
+       - O medo e não o dinheiro é a raiz de todo mal.
+       - Quem tem dificuldade de amar é quem mais precisa de amor.
+       - Não existe certo. Ninguém está certo. Assim como você nunca está mais errado do que os outros.
+       - A morte não é triste. Não existe tristeza na morte. O triste é que a maioria das pessoas não aproveita a vida!
+       - Um guerreiro não desiste daquilo que ama. Ele acha o amor naquilo que faz.
+       - Um guerreiro não procura a perfeição. Ou vitória. Ou invulnerabilidade. Ele é totalmente vunerável. É sua única coragem.
+       - Um guerreiro age. Só um tolo reage.
+       - Não existe início, nem chegada, apenas o caminho.
     - <strong>Princípios "Você Não É Tão Esperto Quanto Pensa"</strong>
        - O Experimentos do Macacos e a escada com um cacho de banana   
           - O Equívoco: Fazemos o que fazemos pois temos consciência do que estamos fazendo.
