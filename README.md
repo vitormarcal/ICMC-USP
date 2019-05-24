@@ -823,3 +823,11 @@
   "<strong>Don't confuse education with schooling. I didn't go to Harvard, but people who work for me did."</strong><br><br> - Elon Musk
     <br>
   </p>
+
+
+<br><br>
+
+<p align="center">
+  "<strong>NEVER STOP QUESTIONING, MAINLY THE AUTHORITIES."</strong><br><br>
+    <br>
+  </p>
