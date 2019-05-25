@@ -831,3 +831,7 @@
   "<strong>NEVER STOP QUESTIONING, MAINLY THE AUTHORITIES."</strong><br><br>
     <br>
   </p>
+
+<br><br>
+
+ - <img src="pills.jpg" alt="Pills">
