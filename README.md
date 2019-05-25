@@ -824,12 +824,3 @@
     <br>
   </p>
 
-
-<br><br>
-
-<p align="center">
-  "<strong>NEVER STOP QUESTIONING, MAINLY THE AUTHORITIES."</strong><br><br>
-    <br>
-  </p>
-
- - <img src="pills.jpg" alt="Pills">
