@@ -832,6 +832,4 @@
     <br>
   </p>
 
-<br><br>
-
- - <img src="pills.jpg" alt="Pills">
+ - <img src="pills.jpg" alt="Pills" height="200" width="300">
