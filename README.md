@@ -20,6 +20,7 @@
 - [Teach Yourself Programming in Ten Years - Peter Norvig](http://norvig.com/21-days.html)
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 - [Teach Yourself CS](https://teachyourselfcs.com/)
+- [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 - [CS50 Harvard](https://www.youtube.com/user/cs50tv/videos)
 - [wiki.icmc.usp.br](http://wiki.icmc.usp.br/index.php/P%C3%A1gina_principal_CoteiaWIKI)
 - [edx.org/computer-science](https://www.edx.org/course/subject/computer-science)
@@ -58,6 +59,8 @@
 
 ## Algorithms and Data Structs
 
+ - Genius Level Book
+    - [The Art of Computer Programming - Yoda Donald E. Knuth](https://www.amazon.com.br/Computer-Programming-Volumes-1-4a-Boxed/dp/0321751043?tag=goog0ef-20&smid=A1ZZFT5FULY4LN&ascsubtag=go_1157433115_58530734048_257324212232_pla-433354953279_c_)
  - YouTube
     - [Linguagem C Programação Descomplicada](https://www.youtube.com/user/progdescomplicada/videos) :skull:
  - Sites
@@ -340,14 +343,16 @@
 - [VidaDeProgramador](https://vidadeprogramador.com.br/)
 - [ProfissionaisTI](https://www.profissionaisti.com.br/)
 
-## Nice Articles
+## Nice To Know
 
  - [Getting Real - the smarter, faster, easy way to build a sucesfull web application - BaseCamp](https://basecamp.com/books/getting-real)
  - [Happiness - Steve Cutts](https://www.youtube.com/watch?v=e9dZQelULDk)
  - [Escravos da Tecnologia - Steve Cutts](https://www.youtube.com/watch?v=Qx8JIoNOz0Y)
+ - [Another Brick In The Wall - Pink Floyd](https://www.youtube.com/watch?v=YR5ApYxkU-U)
  - [O que é propósito de vida - Mopora](https://mopora.com/artigos/o-que-e-proposito-de-vida/)
  - [The Invented History of 'The Factory Model of Education'](http://hackeducation.com/2015/04/25/factory-model)
  - [The Humble Programmer by Edsger W. Dijkstra](https://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD340.html)
+ - [16 Personalities](https://www.16personalities.com/)
  - [Educação Clássica e Homeschooling](https://www.youtube.com/watch?v=LjJlus8oC9M)
  - [Principles for Success - Ray Dalio](https://www.principles.com/principles-for-success/)
  - [Write Code Every Day - John Resig](https://johnresig.com/blog/write-code-every-day/)
@@ -594,7 +599,7 @@
     - [IlustradaMente](https://www.youtube.com/channel/UCNmO5NWNLQkOr76WmHEq-DQ)
     - [PhilosTV](https://philos.tv/)
     - [Gilberto de Souza](https://www.youtube.com/channel/UCMMbl7Tt6Zy5Ho3W2bw0BfQ)
-    - [16 Personalities](https://www.16personalities.com/)
+    - [Democracia na Teia](https://www.youtube.com/channel/UCvAuRF1LpthT-MNS1qKOzTQ)
     - [The History Channel Brasil](https://www.youtube.com/watch?v=6bvc8TgeGUA)
     - [Canal do Moscoso](https://www.youtube.com/channel/UChVeSyoB200ALDpnTr1TOrg/videos)
     - [Canal Nostalgia](https://www.youtube.com/user/fecastanhari)
