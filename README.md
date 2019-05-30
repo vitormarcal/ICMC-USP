@@ -348,6 +348,9 @@
  - "Suicídio NUNCA é uma opção." - [Zangado](https://www.youtube.com/channel/UCuVIWETFdxzwlHEHMbhm2_w)
  - "A melhor forma de vingança é a ignorância." - [Zangado](https://www.youtube.com/channel/UCuVIWETFdxzwlHEHMbhm2_w)
  - "Não importa o que fizeram com você. O que importa é o que você faz com aquilo que fizeram com você." - Sartre
+ - "As pessoas podem tirar tudo de você, menos o seu conhecimento." - Albert Einstein
+ - "O que vale nessa vida é o que se vive o que se faz." - Charlie Brown Jr
+ - "O que sabemos é uma gota, o que ignoramos é um oceano. Se cheguei onde cheguei, é porque me apoiei em ombros de gigantes." - Isaac Newton
  - "Daqui a um ano, você vai desejar ter começado hoje."
  - "Existem 3 segredos para a infelicidade: Ser uma pessoa que você não é, tentar ser amigo de todo mundo e tentar agradar todo mundo".
  - "Muitas pessoas gastam dinheiro que não tem, para comprar coisas que não precisam, para impressionar pessoas que não gostam."
