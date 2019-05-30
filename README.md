@@ -59,7 +59,7 @@
 
 ## Algorithms and Data Structs
 
- - Genius Level Book
+ - Genius Level Book :skull: :skull: :skull: :skull: :skull: 
     - [The Art of Computer Programming - Yoda Donald E. Knuth](https://www.amazon.com.br/Computer-Programming-Volumes-1-4a-Boxed/dp/0321751043?tag=goog0ef-20&smid=A1ZZFT5FULY4LN&ascsubtag=go_1157433115_58530734048_257324212232_pla-433354953279_c_)
  - YouTube
     - [Linguagem C Programação Descomplicada](https://www.youtube.com/user/progdescomplicada/videos) :skull:
@@ -343,7 +343,21 @@
 - [VidaDeProgramador](https://vidadeprogramador.com.br/)
 - [ProfissionaisTI](https://www.profissionaisti.com.br/)
 
-## Nice To Know
+## Always Nice To Remember :smile:
+
+ - "Suicídio NUNCA é uma opção." - [Zangado]()
+ - "A melhor forma de vingança é a ignorância." - [Zangado]()
+ - "Não importa o que fizeram com você. O que importa é o que você faz com aquilo que fizeram com você." - Sartre
+ - "Daqui a um ano, você vai desejar ter começado hoje."
+ - "Existem 3 segredos para o fracasso e a infelicidade: Ser uma pessoa que você não é, tentar ser amigo de todo mundo e tentar agradar todo mundo".
+ - "A dor é passageira. A gloria é para sempre."
+ - "Todo ser humano tem o direito de ser feliz. Mas cada ser humano é responsável pela própria felicidade."
+ - "Nenhum ser humano consegue mudar outro ser humano. Cada ser humano é responsável pela própria mudança."
+ - "O essencial é invisível aos olhos." - O Pequeno Princípe.
+ - "Você é livre para fazer o que quiser. Mas sempre será escravo das consequências."
+ - "Não existe almoço grátis. Tudo tem um preço."
+
+## Nice To Know :muscle:
 
  - [Getting Real - the smarter, faster, easy way to build a sucesfull web application - BaseCamp](https://basecamp.com/books/getting-real)
  - [Happiness - Steve Cutts](https://www.youtube.com/watch?v=e9dZQelULDk)
