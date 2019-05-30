@@ -345,8 +345,8 @@
 
 ## Always Nice To Remember :smile:
 
- - "Suicídio NUNCA é uma opção." - [Zangado]()
- - "A melhor forma de vingança é a ignorância." - [Zangado]()
+ - "Suicídio NUNCA é uma opção." - [Zangado](https://www.youtube.com/channel/UCuVIWETFdxzwlHEHMbhm2_w)
+ - "A melhor forma de vingança é a ignorância." - [Zangado](https://www.youtube.com/channel/UCuVIWETFdxzwlHEHMbhm2_w)
  - "Não importa o que fizeram com você. O que importa é o que você faz com aquilo que fizeram com você." - Sartre
  - "Daqui a um ano, você vai desejar ter começado hoje."
  - "Existem 3 segredos para o fracasso e a infelicidade: Ser uma pessoa que você não é, tentar ser amigo de todo mundo e tentar agradar todo mundo".
