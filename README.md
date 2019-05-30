@@ -358,6 +358,7 @@
  - "Todo ser humano tem o direito de ser feliz. Mas cada ser humano é responsável pela própria felicidade."
  - "Crianças e jovens não escutam muito o que você diz, mais eles enxergam muito aquilo que você faz. Ensinar pelo exemplo, não pela palavra."
  - "Mar calmo nunca fez bom marinheiro."
+ - "Quem nunca sentiu o amargo da dor e do fracasso, não vai aproveitar ou dar valor o suficiente para o sucesso."
  - "Na vida, ou você influência, ou você é influenciado."
  - "Você é a média das 5 pessoas que mais convive. Diga me com quem andas, que direi quem tu és."
  - "Ser grato pela vida, por tudo que tem e pelo que já conquistou."
@@ -536,7 +537,7 @@
  - "Write code != programming != software engineering"
  - "Maintainability > Performance"
  - "No Metrics, No Optimization"
- - "NEVER EVER Stop Questioning"
+ - "NEVER Stop Questioning"
  - "Software engineering is 80% thinking ABOUT the problem, and 20% thinking HOW to solve the problem"
  - "The more knowledge you have, the less you know. Ego = 1 / knowledge"
  - "Everyone should care about the quality"
@@ -863,3 +864,10 @@
     <br>
   </p>
 
+
+<br><br>
+
+<p align="center">
+  "<strong>I... a universe of atoms, an atom in the universe."</strong><br><br> - Elon Musk
+    <br>
+  </p>
