@@ -356,6 +356,8 @@
  - "Muitas pessoas gastam dinheiro que não tem, para comprar coisas que não precisam, para impressionar pessoas que não gostam."
  - "A dor é passageira. A gloria é para sempre."
  - "Todo ser humano tem o direito de ser feliz. Mas cada ser humano é responsável pela própria felicidade."
+ - "Ser grato pela vida, por tudo que tem e pelo que já conquistou."
+ - "A natureza e a evolução não nos deu 2 ouvidos e apenas uma boca atoa."
  - "Nenhum ser humano consegue mudar outro ser humano. Cada ser humano é responsável pela própria mudança."
  - "Há três caminhos para o fracasso: não ensinar o que se sabe, não praticar o que se ensina, e não perguntar o que se ignora." - São Beda
  - "Quem pergunta, é idiota por cinco minutos. Quem não pergunta, é idiota para sempre." Wang-Wei
@@ -638,6 +640,7 @@
     - [Canal do Cortella](https://www.youtube.com/channel/UCyTS929PXJSUiBEFSzdypgg)
     - [Luiz Felipe Pondé](https://www.youtube.com/channel/UCW9jLtlONRp7W-AK9F8M66Q)
     - [NOVA ACRÓPOLE - Escola Internacional de Filosofia](https://www.youtube.com/channel/UCAMO_xP86YB4FSHD1Mi_GpA)
+    - [Ivan Maia](https://www.youtube.com/channel/UCV2PX_XxoAr6r8ukV327rtg)
     - [Prazer, Karnal](https://www.youtube.com/channel/UC4O2eKb8vI4VlMeNp90asfg)
     - [Casa do Saber](https://www.youtube.com/channel/UCtvvTFp0XANyllOdmzZr9VQ)
     - [Saber Filosófico](https://www.youtube.com/channel/UCWdXgfpEIZIGzah9_yCL-Xw)
