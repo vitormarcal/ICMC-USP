@@ -349,13 +349,23 @@
  - "A melhor forma de vingança é a ignorância." - [Zangado](https://www.youtube.com/channel/UCuVIWETFdxzwlHEHMbhm2_w)
  - "Não importa o que fizeram com você. O que importa é o que você faz com aquilo que fizeram com você." - Sartre
  - "Daqui a um ano, você vai desejar ter começado hoje."
- - "Existem 3 segredos para o fracasso e a infelicidade: Ser uma pessoa que você não é, tentar ser amigo de todo mundo e tentar agradar todo mundo".
+ - "Existem 3 segredos para a infelicidade: Ser uma pessoa que você não é, tentar ser amigo de todo mundo e tentar agradar todo mundo".
+ - "Muitas pessoas gastam dinheiro que não tem, para comprar coisas que não precisam, para impressionar pessoas que não gostam."
  - "A dor é passageira. A gloria é para sempre."
  - "Todo ser humano tem o direito de ser feliz. Mas cada ser humano é responsável pela própria felicidade."
  - "Nenhum ser humano consegue mudar outro ser humano. Cada ser humano é responsável pela própria mudança."
- - "O essencial é invisível aos olhos." - O Pequeno Princípe.
+ - "Há três caminhos para o fracasso: não ensinar o que se sabe, não praticar o que se ensina, e não perguntar o que se ignora." - São Beda
+ - "Quem pergunta, é idiota por cinco minutos. Quem não pergunta, é idiota para sempre." Wang-Wei
+ - "O essencial é invisível aos olhos." - O Pequeno Príncipe.
  - "Você é livre para fazer o que quiser. Mas sempre será escravo das consequências."
  - "Não existe almoço grátis. Tudo tem um preço."
+ - "Se você acha que investir em educação é caro, espera até conhecer o preço da ignorância." - Derek Bok
+ - "Investir em conhecimento sempre rende os melhores juros." - Benjamin Franklin
+ - "Se você quiser julgar o caráter de um homem, dê poder a ele." - Abraham Lincoln
+ - "Um rei só é um rei, porque todo seu povo concente com isso."
+ - "O povo não deve temer seu governo. O governo deve temer seu povo." - V de Vingança.
+ - "Nunca idolatre ou venere outro ser humano."
+ - "Nenhum ser humano é especial. É só estudar um pouco de Astronomia para entender isso."
 
 ## Nice To Know :muscle:
 
