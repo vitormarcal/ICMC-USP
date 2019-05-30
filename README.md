@@ -357,6 +357,7 @@
  - "A dor é passageira. A gloria é para sempre."
  - "Todo ser humano tem o direito de ser feliz. Mas cada ser humano é responsável pela própria felicidade."
  - "Crianças e jovens não escutam muito o que você diz, mais eles enxergam muito aquilo que você faz. Ensinar pelo exemplo, não pela palavra."
+ - "Mar calmo nunca fez bom marinheiro."
  - "Na vida, ou você influência, ou você é influenciado."
  - "Você é a média das 5 pessoas que mais convive. Diga me com quem andas, que direi quem tu és."
  - "Ser grato pela vida, por tudo que tem e pelo que já conquistou."
