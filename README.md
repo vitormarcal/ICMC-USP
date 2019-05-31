@@ -359,11 +359,13 @@
  - "Crianças e jovens não escutam muito o que você diz, mais eles enxergam muito aquilo que você faz. Ensinar pelo exemplo, não pela palavra."
  - "Mar calmo nunca fez bom marinheiro."
  - "Quem nunca sentiu o amargo da dor e do fracasso, não vai aproveitar ou dar valor o suficiente para o sucesso."
+ - "Se você julgar um peixe pela sua capacidade de subir uma árvore, você vai passar a vida toda pensando que ele é estúpido."
  - "Na vida, ou você influência, ou você é influenciado."
  - "Você é a média das 5 pessoas que mais convive. Diga me com quem andas, que direi quem tu és."
  - "Ser grato pela vida, por tudo que tem e pelo que já conquistou."
  - "A natureza e a evolução não nos deu 2 ouvidos e apenas uma boca atoa."
  - "Nenhum ser humano consegue mudar outro ser humano. Cada ser humano é responsável pela própria mudança."
+ - "Os homens perdem a saúde para juntar dinheiro, depois perdem o dinheiro para recuperar a saúde. E por pensarem ansiosamente no futuro esquecem do presente de forma que acabam por não viver nem no presente nem no futuro. Vivem como se nunca fossem morrer... e morrem como se nunca tivessem vivido."
  - "Há três caminhos para o fracasso: não ensinar o que se sabe, não praticar o que se ensina, e não perguntar o que se ignora." - São Beda
  - "Quem pergunta, é idiota por cinco minutos. Quem não pergunta, é idiota para sempre." Wang-Wei
  - "O essencial é invisível aos olhos." - O Pequeno Príncipe.
@@ -376,6 +378,7 @@
  - "O povo não deve temer seu governo. O governo deve temer seu povo." - V de Vingança.
  - "Nunca idolatre ou venere outro ser humano."
  - "Nenhum ser humano é especial. É só estudar um pouco de Astronomia para entender isso."
+ - "Memento mori - Lembre-se que você e todas as pessoas que você ama e se importa vão morrer algum dia."
 
 ## Nice To Know :muscle:
 
@@ -738,6 +741,18 @@
        - <strong>5 - Arte/Scienza</strong>: Busque o equilíbrio entre ciência e arte, lógica e imaginação: se baseia em desenvolver os dois hemisférios cerebrais: o direito, relacionado ao pensamento imaginativo, atividades artísticas e intuição. O esquerdo relacionado ao pensamento lógico e analítico. Nosso sistema educacional e a ciência tendem a não dar importância ao intelecto de natureza não verbal. O resultado disso é que os indivíduos aprendem apenas a ir bem na escola mas de modo geral, não conseguem desenvolver sua capacidade criativa. Muitas pessoas se destacam na arte mas não conseguem ir bem na escola e acabam sendo rotulados erroneamente como incapazes de aprender.
        - <strong>6 - Corporalità</strong>: Integre corpo, mente e espírito: baseia-se no princípio que devemos assumir responsabilidade por nossa saúde e bem- estar, a partir de exercícios físicos, alimentação saudável e descanso.
        - <strong>7 - Conessione</strong>: Realize a comunhão: Como todos os elementos acima se harmonizam? Como tudo se relaciona com tudo?
+    - <strong>O Cavaleiro Preso na Armadura - Robert Fischer</strong>
+       - "Estamos todos presos em algum tipo de  armadura." - Bolsalegre (bobo da corte)
+       - "Quando da armadura você se livrar, a dor  dos outros também sentirá." - Bolsalegre
+       - "Uma pessoa não pode fugir e aprender  ao mesmo tempo. Ela precisa permanecer algum tempo no mesmo lugar." - Merlin (mago)
+       - "E comum as pessoas não terem  consciência do caminho que estão seguindo." - Mago
+       - "Os animais aceitam e os seres  humanos têm expectativas." - Rebecca (pomba)
+       - "Nós levantamos barreiras para proteger  quem pensamos ser. Então um dia  ficamos presos atrás das barreiras e não  conseguimos mais sair. " - Rei
+       - "Como me conheço, posso conhecer  você. Somos todos parte um do outro." - Merlin
+       - "E somente quando nos amamos que podemos amar os outros." - Mago
+       - "[...] às vezes a gente não sabe quando  é hora de pedir ajuda." - Merlin
+       - "[...] A  ambição  do  coração  é  pura.  Ela  não  compete  com  ninguém  e  nem fere  ninguém.  De  fato,  ela  o  serve  de  tal  maneira  que  serve  os  outros  ao mesmo tempo." - Merlin
+       - "Quase morri pelas lágrimas que deixei de chorar" - Cavaleiro
     - <strong>O Tao do Jeet Kune Do - Bruce Lee</strong>
        - 1 - OBJETIVO
           - "Um objetivo nem sempre é para ser atingido, frequentemente serve apenas como algo a ser mirado."
@@ -841,14 +856,42 @@
              - Quais são os resultados mensais esperados?
              - Quanto tempo de dedicação será necessário para alcançar a meta?
           - A = Attainable
-             - Quem já esteve na Lua já não tem mais metas na Terra. - Edwin Aldrin
+             - "Quem já esteve na Lua já não tem mais metas na Terra." - Edwin Aldrin
           - R = Relevant
              - Refletir se isso é relevante na sua vida.
           - T = Time-Related
              - Colocar datas realistas
         - Exemplo de meta SMART: Eu vou ler 24 livros de desenvolvimento pessoal nos próximos 12 meses.
         - Um dos maiores segredos para o sucesso é a disciplina, a constância e a paciência.
-
+    - <strong>Você Vive Ou Acumula? :smile:</strong>
+       - Um jovem advogado foi indicado para inventariar os pertences de um senhor recém falecido. Segundo o relatório do seguro social, o idoso não tinha herdeiros ou parentes vivos. Suas posses eram muito simples. O apartamento alugado, um carro velho, móveis baratos e roupas puídas. “Como alguém passa toda a vida e termina só com isso?”, pensou o advogado. Anotou todos os dados e ia deixando a residência quando notou um porta-retratos sobre um criado mudo.
+       - Na foto estava o velho morto. Ainda era jovem, sorridente, ao fundo um mar muito verde e uma praia repleta de coqueiros. À caneta escrito bem de leve no canto superior da imagem lia-se “sul da Tailândia”. Surpreso, o advogado abriu a gaveta do criado e encontrou um álbum repleto de fotografias. Lá estava o senhor, em diversos momentos da vida, em fotos em todo canto do mundo.
+       - Em um tango na Argentina, na frente do Muro de Berlim, em um tuk tuk no Vietnã, sobre um camelo com as pirâmides ao fundo, tomando vinho em frente ao Coliseu, entre muitas outras. Na última página do álbum um mapa, quase todos os países do planeta marcados com um asterisco vermelho, indicando por onde o velho tinha passado. Escrito à mão no meio do Oceano Pacífico uma pequena poesia:
+       - Não construí nada que me possam roubar.
+       - Não há nada que eu possa perder.
+       - Nada que eu possa trocar,
+       - Nada que se possa vender.
+       - Eu que decidi viajar,
+       - Eu que escolhi conhecer,
+       - Nada tenho a deixar
+       - Porque aprendi a viver.
+    - <strong>Parábola do Executivo e do Pescador. :smile: </strong>
+       - Um poderoso executivo saiu de férias, as primeiras férias em quinze anos. Ele Estava caminhando por uma doca em uma pequena aldeia de pescadores quando um pecador de atum atracou seu barco. Enquanto o pescador amarrava o baco à doca, o executivo expressou sua admiração pelo tamanho e qualidade dos peixes.
+       - “Quanto tempo levou para pescar esses peixes?”, o executivo perguntou.
+       - “Não muito”, respondeu o pescador
+       - “Por que você não ficou mais tempo para pegar mais?”, perguntou o executivo
+       - “Tenho o suficiente para sustentar a minha família”, disse o pescador.
+       - “Mas”, indagou o executivo, “o que você faz com o resto do seu tempo?”
+       - O pescador respondeu: “Durmo até mais tarde, pesco um pouco, brinco com os meus filhos, tiro uma soneca depois do almoço com minha esposa e passeio pela aldeia todas as noites, onde bebo vinho e toco violão com meus amigos. Tenho uma vida plena e ocupada”.
+       - O executivo ficou boquiaberto. “Tenho um MBA em Harvard e posso ajuda-lo. Você pode passar um tempo pescando. Com os lucros, pode comprar um barco maior. Com um barco maior você pode pescar mais peixes, que pode vender e comprar vários barcos. Com o tempo, você terá toda uma frota”
+       - “Em vez de vender os seus peixes a um intermediário você pode vender diretamente aos consumidores, o que melhorará as suas margens. Com o tempo você abrir a própria fábrica, de forma que terá controle sobre o produto, o processamento e a distribuição. Você naturalmente terá de sair desta aldeia e se mudar para a cidade para administrar seu empreendimento em expansão”. 
+       - O pescador ficou um momento em silêncio e perguntou: “Quanto tempo isso levaria?”
+       - “Quinze, vinte anos. Vinte e cinco no máximo.”
+       - “E depois?”
+       - O executivo riu. “Depois vem a melhor parte. Quando chegar o momento certo, você pode abrir o capital da sua empresa e vender todas as suas ações. Você ganharia milhões”
+       - “Milhões? E depois, o que eu faria?”
+       - O executivo pensou por um momento. “Você pode se aposentar, dormir até mais tarde, pescar um pouco, brincar com os filhos, tirar uma soneca depois do almoço com a sua esposa e ir para a aldeia todas as noites beber vinho e tocar violão com os amigos”
+       - Ao ouvir a própria resposta, o executivo abanou a cabeça e se despediu do pescador. Imediatamente depois de voltar das férias, o executivo se demitiu do emprego.
 
 <br><br>
 
