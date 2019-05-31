@@ -863,6 +863,17 @@
              - Colocar datas realistas
         - Exemplo de meta SMART: Eu vou ler 24 livros de desenvolvimento pessoal nos próximos 12 meses.
         - Um dos maiores segredos para o sucesso é a disciplina, a constância e a paciência.
+    - <strong>Alice No País Das Maravilhas</strong>
+       - “Aonde fica a saída?", Perguntou Alice ao gato que ria. 
+       - ”Depende”, respondeu o gato. 
+       - ”De quê?”, replicou Alice.
+       - ”Depende da onde você quer ir...”
+    - <strong>Os 5 maiores arrependimentos no fim da vida</strong>
+       - 1: Eu gostaria de ter tido a coragem de viver a vida que eu queria, não a vida que os outros esperavam que eu vivesse.
+       - 2: Eu gostaria de não ter trabalhado tanto. 
+       - 3: Eu queria ter tido a coragem de expressar meus sentimentos.
+       - 4: Eu gostaria de ter ficado em contato com os meus amigos. 
+       - 5: Eu gostaria de ter me permitido ser mais feliz. 
     - <strong>Você Vive Ou Acumula? :smile:</strong>
        - Um jovem advogado foi indicado para inventariar os pertences de um senhor recém falecido. Segundo o relatório do seguro social, o idoso não tinha herdeiros ou parentes vivos. Suas posses eram muito simples. O apartamento alugado, um carro velho, móveis baratos e roupas puídas. “Como alguém passa toda a vida e termina só com isso?”, pensou o advogado. Anotou todos os dados e ia deixando a residência quando notou um porta-retratos sobre um criado mudo.
        - Na foto estava o velho morto. Ainda era jovem, sorridente, ao fundo um mar muito verde e uma praia repleta de coqueiros. À caneta escrito bem de leve no canto superior da imagem lia-se “sul da Tailândia”. Surpreso, o advogado abriu a gaveta do criado e encontrou um álbum repleto de fotografias. Lá estava o senhor, em diversos momentos da vida, em fotos em todo canto do mundo.
