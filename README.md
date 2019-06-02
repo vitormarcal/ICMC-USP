@@ -365,10 +365,12 @@
  - "Ser grato pela vida, por tudo que tem e pelo que já conquistou."
  - "A natureza e a evolução não nos deu 2 ouvidos e apenas uma boca atoa."
  - "Nenhum ser humano consegue mudar outro ser humano. Cada ser humano é responsável pela própria mudança."
+ - "O problema do mundo de hoje é que os sábios estão cheio de dúvidas, e os idiotas estão cheio de certezas."
  - "Você precisar enxergar todo o macro, para entender muito bem o micro."
  - "É na dificuldade que se encontra a oportunidade."
  - "A qualidade das perguntas que você faz, determina a qualidade das respostas que você recebe."
  - "Os homens perdem a saúde para juntar dinheiro, depois perdem o dinheiro para recuperar a saúde. E por pensarem ansiosamente no futuro esquecem do presente de forma que acabam por não viver nem no presente nem no futuro. Vivem como se nunca fossem morrer... e morrem como se nunca tivessem vivido."
+ - "Se você colocar o Einstein para jogar basquete com Michael Jordan, o Jordan vai achar que o Einstein é incompetente. Se você colocar o Michael Jordan para fazer física teórica com o Einstein, o Einstein vai achar que o Jordan é incompetente. Nenhum ser humano consegue analisar todas as variáveis de uma situação subjetiva."
  - "Há três caminhos para o fracasso: não ensinar o que se sabe, não praticar o que se ensina, e não perguntar o que se ignora." - São Beda
  - "Quem pergunta, é idiota por cinco minutos. Quem não pergunta, é idiota para sempre." - Wang-Wei
  - "O essencial é invisível aos olhos." - O Pequeno Príncipe.
