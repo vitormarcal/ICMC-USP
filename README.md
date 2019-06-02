@@ -366,6 +366,7 @@
  - "A natureza e a evolução não nos deu 2 ouvidos e apenas uma boca atoa."
  - "Nenhum ser humano consegue mudar outro ser humano. Cada ser humano é responsável pela própria mudança."
  - "O problema do mundo de hoje é que os sábios estão cheio de dúvidas, e os idiotas estão cheio de certezas."
+ - "O conhecimento sempre existiu. Basta buscá-lo."
  - "Você precisar enxergar todo o macro, para entender muito bem o micro."
  - "É na dificuldade que se encontra a oportunidade."
  - "A qualidade das perguntas que você faz, determina a qualidade das respostas que você recebe."
@@ -838,7 +839,7 @@
        - 19. Respeite o Buda e os deuses sem contar com a ajuda deles.
        - 20. Você pode abandonar seu próprio corpo, mas deve preservar sua honra.
        - 21. Nunca se desvie do caminho.
-    - <strong>Como Fazer Amigos e Influenciar Pessoas - Dale Carneghie</strong>
+    - <strong>Como Fazer Amigos e Influenciar Pessoas - Dale Carnegie</strong>
        - IDEIA  1: Lembre-se que o nome de uma pessoa é para ela o som mais doce e importante que existe em qualquer idioma
        - IDEIA  2: Fale de coisas que interessam à outra pessoa
        - IDEIA  3: Torne-se verdadeiramente interessado na outra pessoa
@@ -970,6 +971,13 @@
 
 <p align="center">
   "<strong>Formal education will make you a living. Self-Education will make you a fortune."</strong><br><br> - Jim Rohn
+    <br>
+  </p>
+
+<br><br>
+
+<p align="center">
+  "<strong>All in all you're just another brick in the wall."</strong><br><br> - Pink Floyd
     <br>
   </p>
 
