@@ -37,6 +37,10 @@
  - Há alunos gênios que ganharão prêmios Nobel. Há excelentes alunos que serão grandes mestres na universidade. Há ótimos alunos que serão grandes profissionais. Há bons alunos que querem ter um bom emprego e qualidade de vida. E há rebeldes que querem ser donos do próprio negócio. Cada aluno estuda com um objetivo diferente. 
  - Quanto mais eu estudo assuntos do meu interesse, mais tesão eu tenho pela vida.
  - Estudar assuntos por hobby (como filosofia, psicologia e história) sem pressão de vestibular ou decoreba para fazer prova, além de ser mais eficiente, gera mais interesse pelo assunto.
+ - Antes de ter, você precisa ser.
+ - Sempre vai existir alguém melhor ou mais inteligente que você no mundo. Sempre. Compare-se com o você do passado, e não com os outros. Se comparar com os outros é uma das piores coisas que um ser humano pode fazer na vida.
+ - Meritocracia é um termo extremamente relativo, e quase sempre, não existe.
+ - Ter o espírito de uma criança, mas não ser infantil.
  - Existem bilhões de formas diferentes de viver, refletir e enxergar a vida.
  - A coisa mais fácil da universidade, é entrar nela.
  - Conhecimento é sobre questionar, e não responder respostas prontas.
@@ -373,6 +377,7 @@
  - "Muitas pessoas gastam dinheiro que não tem, para comprar coisas que não precisam, para impressionar pessoas que não gostam."
  - "A dor é passageira. A gloria é para sempre."
  - "Todo ser humano tem o direito de ser feliz. Mas cada ser humano é responsável pela própria felicidade."
+ - "Pessoas sábias falam sobre ideias. Pessoas comuns falam sobre coisas. Pessoas medíocres falam sobre pessoas."
  - "Se você não puder ajudar, pelo menos não atrapalhe."
  - "Crianças e jovens não escutam muito o que você diz, mais eles enxergam muito aquilo que você faz. Ensinar pelo exemplo, não pela palavra."
  - "Mar calmo nunca fez bom marinheiro."
