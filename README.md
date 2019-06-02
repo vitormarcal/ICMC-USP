@@ -39,6 +39,8 @@
  - Estudar assuntos por hobby (como filosofia, psicologia e história) sem pressão de vestibular ou decoreba para fazer prova, além de ser mais eficiente, gera mais interesse pelo assunto.
  - Existem bilhões de formas diferentes de viver, refletir e enxergar a vida.
  - A coisa mais fácil da universidade, é entrar nela.
+ - Excelentes professores quase sempre são aqueles que incentivam seus alunos a serem melhores do que eles.
+ - Se você saiu da universidade com menos dúvidas e perguntas do que quando você entrou, você fez algo errado.
  - Não é a faculdade que faz o aluno, é o aluno que faz a faculdade.
 
 ## Useful Tools
