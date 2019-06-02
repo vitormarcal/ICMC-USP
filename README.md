@@ -366,7 +366,9 @@
  - "A natureza e a evolução não nos deu 2 ouvidos e apenas uma boca atoa."
  - "Nenhum ser humano consegue mudar outro ser humano. Cada ser humano é responsável pela própria mudança."
  - "O problema do mundo de hoje é que os sábios estão cheio de dúvidas, e os idiotas estão cheio de certezas."
+ - "Seres humanos são movidos primeiro pelas emoções depois pela razão. O medo é a emoção primordial. Pessoas que não sentem medo algum, já morreram."
  - "O conhecimento sempre existiu. Basta buscá-lo."
+ - "O cerébro humano é a coisa mais complexa que existe no universo. Nunca acredite que você realmente conhece outro ser humano. Se nem o próprio ser humano conhece totalmente a si mesmo, imagine conhecer totalmente o outro."
  - "Você precisar enxergar todo o macro, para entender muito bem o micro."
  - "É na dificuldade que se encontra a oportunidade."
  - "A qualidade das perguntas que você faz, determina a qualidade das respostas que você recebe."
@@ -375,6 +377,7 @@
  - "Há três caminhos para o fracasso: não ensinar o que se sabe, não praticar o que se ensina, e não perguntar o que se ignora." - São Beda
  - "Quem pergunta, é idiota por cinco minutos. Quem não pergunta, é idiota para sempre." - Wang-Wei
  - "O essencial é invisível aos olhos." - O Pequeno Príncipe.
+ - "Nunca acredite 100% no que outros seres humanos dizem. Busque informações e tire suas próprias conclusões."
  - "Você é livre para fazer o que quiser. Mas sempre será escravo das consequências."
  - "Não existe almoço grátis. Tudo tem um preço."
  - "Se você acha que investir em educação é caro, espera até conhecer o preço da ignorância." - Derek Bok
