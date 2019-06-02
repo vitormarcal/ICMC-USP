@@ -27,6 +27,20 @@
 - [coursera.org/algorithms](https://pt.coursera.org/courses?query=algorithms)
 - [Electrical Engineering and Computer Science - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
 
+## Wath I Learned at University
+
+ - Primeiro: que não sei nada.
+ - Segundo: quanto mais eu estudo e aprendo, menos eu sei.
+ - Existem gênios sem educação formal e idiotas com doutorado.
+ - Existem graduados sem emprego, e pessoas com ensino fundamental milionários.
+ - Geralmente, pessoas muito inteligentes estão dispostas a ouvir opiniões contrárias a dela, refletir e mudar sua opnião. Se você quer saber se uma pessoa é inteligente ou não, provavelmente isso já é um bom começo.
+ - Há alunos gênios que ganharão prêmios nobel. Há excelentes alunos que serão grandes mestres na universidade. Há ótimos alunos que serão grandes profissionais. Há bons alunos que querem ter um bom emprego e qualidade de vida. E há rebeldes que querem ser donos do próprio negócio. Cada aluno estuda com um objetivo diferente. 
+ - Quanto mais eu estudo assuntos do meu interesse, mais tesão eu tenho pela vida.
+ - Estudar assuntos por hobby (como filosofia, psicologia e história) sem pressão de vestibular ou decoreba para fazer prova, além de ser mais eficiente, gera mais interesse pelo assunto.
+ - Existem bilhões de formas diferentes de viver, refletir e enxergar a vida.
+ - A coisa mais fácil da universidade, é entrar nela.
+ - Não é a faculdade que faz o aluno, é o aluno que faz a faculdade.
+
 ## Useful Tools
 
  - Sites
