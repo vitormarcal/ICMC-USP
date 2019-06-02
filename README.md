@@ -365,9 +365,12 @@
  - "Ser grato pela vida, por tudo que tem e pelo que já conquistou."
  - "A natureza e a evolução não nos deu 2 ouvidos e apenas uma boca atoa."
  - "Nenhum ser humano consegue mudar outro ser humano. Cada ser humano é responsável pela própria mudança."
+ - "Você precisar enxergar todo o macro, para entender muito bem o micro."
+ - "É na dificuldade que se encontra a oportunidade."
+ - "A qualidade das perguntas que você faz, determina a qualidade das respostas que você recebe."
  - "Os homens perdem a saúde para juntar dinheiro, depois perdem o dinheiro para recuperar a saúde. E por pensarem ansiosamente no futuro esquecem do presente de forma que acabam por não viver nem no presente nem no futuro. Vivem como se nunca fossem morrer... e morrem como se nunca tivessem vivido."
  - "Há três caminhos para o fracasso: não ensinar o que se sabe, não praticar o que se ensina, e não perguntar o que se ignora." - São Beda
- - "Quem pergunta, é idiota por cinco minutos. Quem não pergunta, é idiota para sempre." Wang-Wei
+ - "Quem pergunta, é idiota por cinco minutos. Quem não pergunta, é idiota para sempre." - Wang-Wei
  - "O essencial é invisível aos olhos." - O Pequeno Príncipe.
  - "Você é livre para fazer o que quiser. Mas sempre será escravo das consequências."
  - "Não existe almoço grátis. Tudo tem um preço."
@@ -833,6 +836,25 @@
        - 19. Respeite o Buda e os deuses sem contar com a ajuda deles.
        - 20. Você pode abandonar seu próprio corpo, mas deve preservar sua honra.
        - 21. Nunca se desvie do caminho.
+    - <strong>Como Fazer Amigos e Influenciar Pessoas - Dale Carneghie</strong>
+       - IDEIA  1: Lembre-se que o nome de uma pessoa é para ela o som mais doce e importante que existe em qualquer idioma
+       - IDEIA  2: Fale de coisas que interessam à outra pessoa
+       - IDEIA  3: Torne-se verdadeiramente interessado na outra pessoa
+          - “Você pode fazer mais amigos em dois meses, tornando-se interessado em outras pessoas do que você pode em dois anos, tentando fazer com que outras pessoas se interessem por você” 
+       - IDEIA  4: Sorria 
+          - “Um homem sem uma fisionomia sorrindo não deve abrir uma loja” – provérbio chinês
+       - IDEIA 5: Faça a outra pessoa sentir-se importante e faço-o com sinceridade
+          - Distribua elogios sinceros no seu dia a dia. Não bajule!
+       -  IDEIA  6: Seja um bom ouvinte; incentive as pessoas a falarem sobre elas mesmas. 
+          - A cada três frases, uma é em 1ª pessoa. Procure saber pelo menos 3 coisas sobre a vida das pessoas que você conhece.
+          - “O homem que pensa somente em si é irremediavelmente ignorante. Não é educado, não interessando o grau de instrução” 
+       -  IDEIA 7: Mostre respeito pela opinião dos outros. Nunca diga você está errado! 
+          - Se você estiver falando com alguém que você SABE que está errado, você pode falar algo do tipo: Bem, olhe, pensei o contrário, mas eu posso estar errado, como frequentemente estou. E se eu estiver errado, eu quero ser corrigido. Vamos examinar os fatos. 
+       - IDEIA  8: Dramatize suas ideias
+       - IDEIA  9: Se você estiver errado, admita rapidamente.
+          - Engula o orgulho e admita seu erro – é a melhor saída
+       - IDEIA 10: Chame atenção indiretamente
+          - Como dar um feedback: substitua o “MAS” dos seus feedbacks por “E”.
     - <strong>Diferença entre Objetivo e Meta</strong>
        - O objetivo é apenas uma vaga ideia daquilo que queremos. É o seu ponto de partida rumo a algo que você gostaria de ter, ser ou viver. Ou seja, a sua motivação.
           - "você se contenta em definir o objetivo, que é o que geralmente fazemos. Mas esquece de especificar a meta."
@@ -873,7 +895,31 @@
        - 2: Eu gostaria de não ter trabalhado tanto. 
        - 3: Eu queria ter tido a coragem de expressar meus sentimentos.
        - 4: Eu gostaria de ter ficado em contato com os meus amigos. 
-       - 5: Eu gostaria de ter me permitido ser mais feliz. 
+       - 5: Eu gostaria de ter me permitido ser mais feliz.
+    - <strong>Manual do CEO - Josh Kaufman</strong> 
+       - IDEIA 1 - COMO UM NEGÓCIO FUNCIONA
+          - Segundo Josh Kaufman, um negócio de sucesso deve, em linhas gerais, (1) criar algo de valor que (2) as pessoas querem ou precisam (3) a um preço que elas estejam dispostas a pagar de uma maneira que (4) satisfaça as necessidades e expectativas do cliente de forma que (5) o negócio gere lucro suficiente para que valha a pena para os proprietários manter as operações.
+          - Todo negócio vai ter esses 5 pilares: Criação de Valor, Entrega do Valor, Marketing, Finanças e Vendas.
+       - IDEIA 2 - OS 5 IMPULSOS HUMANOS
+          - 1) ADQUIRIR e ter coisas;
+          - 2) CONECTAR-SE 
+          - 3) APRENDER e de satisfazer nossas curiosidades. 
+          - 4) DEFENDER a nós, a nossos familiares e nossas coisas. 
+          - 5) SENTIR estímulos
+          - Esses seriam os cincos impulsos humanos que o seu negócio deve satisfazer.
+       - IDEIA 3 - AS 12 FORMAS DE CRIAÇÃO DE VALOR 
+          - 1) PRODUTO, em que você vai criar um bem material ou imaterial e vende-lo por um preço mais alto do que custou produzi-lo. 
+          - 2) SERVIÇOS, oferecendo ajuda ou assistência a partir das suas expertises em troca de uma remuneração. 
+          - 3) RECURSO COMPARTILHADO, em que o uso de um ou mais ativos são compartilhados entre muitas pessoas em troca de um ingresso ou mensalidade. 
+          - 4) ASSINATURA, que está bem em voga hoje em dia, em que você vai oferecer um benefício contínuo em troca de uma taxa recorrente. 
+          - 5) REVENDA é nossa quinta forma de criação de valor, em que você vai adquirir um ativo de um atacadista e revender para clientes no varejo a um preço mais elevado.
+          - 6) ARRENDAMENTO, você vai emprestar seu bem a outra pessoa por um período de tempo em troca de uma remuneração – seria o aluguel de bens. 
+          - 7) AGENCIAMENTO, em que você será o agente que representará a venda de um bem ou serviço para outras pessoas em troca de uma comissão.
+          - 8) AGREGAÇÃO DE AUDIÊNCIA, em que você vai agregar em torno do seu nome ou negócio um público com determinadas características que terá determinados quereres, o qual será de grande interesse para outras empresas que queiram anunciam seus bens e serviços para esses públicos. 
+          - 9) EMPRESTAR dinheiro em troca de juros – temos nossas instituições financeiras.
+          - 10) OPÇÃO das pessoas realizarem determinada ação em predeterminado tempo em troca de um preço. 
+          - 11) SEGURO, caso queira proteger os ativos de seus clientes, você poderá assumir o risco de eventuais eventos negativos que possam ocorrer ao segurados em troca de um pagamento, só pagando o sinistro caso o evento negativo ocorra. 
+          - 12) CAPITAL, você poderá investir em outros negócios através do seu CAPITAL, em que você adquirirá parcelas de um negócio. 
     - <strong>Você Vive Ou Acumula? :smile:</strong>
        - Um jovem advogado foi indicado para inventariar os pertences de um senhor recém falecido. Segundo o relatório do seguro social, o idoso não tinha herdeiros ou parentes vivos. Suas posses eram muito simples. O apartamento alugado, um carro velho, móveis baratos e roupas puídas. “Como alguém passa toda a vida e termina só com isso?”, pensou o advogado. Anotou todos os dados e ia deixando a residência quando notou um porta-retratos sobre um criado mudo.
        - Na foto estava o velho morto. Ainda era jovem, sorridente, ao fundo um mar muito verde e uma praia repleta de coqueiros. À caneta escrito bem de leve no canto superior da imagem lia-se “sul da Tailândia”. Surpreso, o advogado abriu a gaveta do criado e encontrou um álbum repleto de fotografias. Lá estava o senhor, em diversos momentos da vida, em fotos em todo canto do mundo.
@@ -915,6 +961,13 @@
 
 <p align="center">
   "<strong>Don't confuse education with schooling. I didn't go to Harvard, but people who work for me did."</strong><br><br> - Elon Musk
+    <br>
+  </p>
+
+<br><br>
+
+<p align="center">
+  "<strong>Formal education will make you a living. Self-Education will make you a fortune."</strong><br><br> - Jim Rohn
     <br>
   </p>
 
