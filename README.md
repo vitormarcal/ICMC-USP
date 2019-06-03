@@ -38,6 +38,7 @@
  - Quanto mais eu estudo assuntos do meu interesse, mais tesão eu tenho pela vida.
  - Estudar assuntos por hobby (como filosofia, psicologia e história) sem pressão de vestibular ou decoreba para fazer prova, além de ser mais eficiente, gera mais interesse pelo assunto.
  - Antes de ter, você precisa ser.
+ - "Todos somos ignorantes. A diferença é que nem todo mundo ignora a mesma coisa." - Albert Einstein.
  - Sempre vai existir alguém melhor ou mais inteligente que você no mundo. Sempre. Compare-se com o você do passado, e não com os outros. Se comparar com os outros é uma das piores coisas que um ser humano pode fazer na vida.
  - Meritocracia é um termo extremamente relativo, e quase sempre, não existe.
  - Ter o espírito de uma criança, mas não ser infantil.
@@ -751,6 +752,31 @@
        - Tendência de Confirmação
           - O Equívoco: Suas opiniões são o resultado de anos de análise racional e objetiva.
           - A Verdade: Suas opiniões resultam do fato de você prestar atenção nas informações que confirmam suas crenças e ignorar todas as informações que contradizem aquilo que você acredita.
+    - <strong>Três Tipos de Pessoas</strong>
+       - As que não fazem nada. (90%)
+       - As que olham as coisas acontecerem. (5%)
+       - As que fazem alguma coisa. (5%)
+    - <strong>Seus 3 Maiores Inimigos</strong>
+       - Medo
+       - Ansiedade
+       - Preocupação
+    - <strong>O princípio do FIM</strong>
+       - Ignorância = Insegurança e Dúvida.
+       - Insegurança + Dúvida = Medo.
+       - Medo + Dúvida = Ansiedade.
+       - Ansiedade + Medo = Preocupação.
+       - Preocupação gera as Doenças.
+       - Doenças gera as Mortes.
+    - <strong>4 Tipos de Pessoas que Sempre Fracassam</strong>
+       - Os indecisos.
+       - Os poucos instruídos.
+       - Os desatentos.
+       - Os desanimados.
+    - <strong>Segredo da Felicidade</strong>
+       - "Mestre, qual o segredo da felicidade?" - perguntou o aprendiz.
+       - "Nunca discutir com idiotas." - respondeu o mestre.
+       - "Eu discordo disso." - replicou o aprendiz.
+       - "Você está certo." - finalizou o mestre.
     - <strong>O Jeito Harvard de Ser Feliz: 7 Princípios</strong>
        - I – O benefício da felicidade
           - “Quando eu for bem sucedido, eu vou ser feliz.” - ERRADO
