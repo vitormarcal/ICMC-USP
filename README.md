@@ -42,6 +42,7 @@
  - Sempre vai existir alguém melhor ou mais inteligente que você no mundo. Sempre. Compare-se com o você do passado, e não com os outros. Se comparar com os outros é uma das piores coisas que um ser humano pode fazer na vida.
  - Meritocracia é um termo extremamente relativo, e quase sempre, não existe.
  - Ter o espírito de uma criança, mas não ser infantil.
+ - A vida não é um mar de rosas, não seja ingênuo.
  - Dependendo do contexto e da realidade em que você se encontra no momento, você pode estar no lugar errado sem perceber.
  - Existem bilhões de formas diferentes de viver, refletir e enxergar a vida.
  - A coisa mais fácil da universidade, é entrar nela.
@@ -398,6 +399,9 @@
  - "Você precisar enxergar todo o macro, para entender muito bem o micro."
  - "É na dificuldade que se encontra a oportunidade."
  - "A qualidade das perguntas que você faz, determina a qualidade das respostas que você recebe."
+ - "Se você não tiver inimigos inferiores, nenhum inimigo exterior poderá lhe ferir."
+ - "A ingratidão é mãe da infelicidade, assim como a gratidão é mãe da felicidade."
+ - "Sempre que uma porta se fecha, outra se abre."
  - "Os homens perdem a saúde para juntar dinheiro, depois perdem o dinheiro para recuperar a saúde. E por pensarem ansiosamente no futuro esquecem do presente de forma que acabam por não viver nem no presente nem no futuro. Vivem como se nunca fossem morrer... e morrem como se nunca tivessem vivido."
  - "Se você colocar o Einstein para jogar basquete com Michael Jordan, o Jordan vai achar que o Einstein é incompetente. Se você colocar o Michael Jordan para fazer física teórica com o Einstein, o Einstein vai achar que o Jordan é incompetente. Nenhum ser humano consegue analisar todas as variáveis de uma situação subjetiva."
  - "Há três caminhos para o fracasso: não ensinar o que se sabe, não praticar o que se ensina, e não perguntar o que se ignora." - São Beda
@@ -712,7 +716,7 @@
        - IDEIA #8: Desenvolva sua inteligência prática.
        - IDEIA #9: Seja disciplinado!
        - IDEIA #10: O peso dos nossos legados culturais
-    - <strong>5 Passos da Competência</strong>
+    - <strong>4 Passos da Competência</strong>
        - 1 - Inconscientemente incompetente: "você não sabe o quanto você não sabe"
        - 2 - Conscientemente incompetente: "você sabe o quanto você não sabe"
        - 3 - Conscientemente competente: "você já sabe o quanto você sabe"
@@ -986,13 +990,13 @@
        - Um jovem advogado foi indicado para inventariar os pertences de um senhor recém falecido. Segundo o relatório do seguro social, o idoso não tinha herdeiros ou parentes vivos. Suas posses eram muito simples. O apartamento alugado, um carro velho, móveis baratos e roupas puídas. “Como alguém passa toda a vida e termina só com isso?”, pensou o advogado. Anotou todos os dados e ia deixando a residência quando notou um porta-retratos sobre um criado mudo.
        - Na foto estava o velho morto. Ainda era jovem, sorridente, ao fundo um mar muito verde e uma praia repleta de coqueiros. À caneta escrito bem de leve no canto superior da imagem lia-se “sul da Tailândia”. Surpreso, o advogado abriu a gaveta do criado e encontrou um álbum repleto de fotografias. Lá estava o senhor, em diversos momentos da vida, em fotos em todo canto do mundo.
        - Em um tango na Argentina, na frente do Muro de Berlim, em um tuk tuk no Vietnã, sobre um camelo com as pirâmides ao fundo, tomando vinho em frente ao Coliseu, entre muitas outras. Na última página do álbum um mapa, quase todos os países do planeta marcados com um asterisco vermelho, indicando por onde o velho tinha passado. Escrito à mão no meio do Oceano Pacífico uma pequena poesia:
-       - Não construí nada que me possam roubar.
-       - Não há nada que eu possa perder.
+       - Não construí nada que me possam roubar,
+       - Não há nada que eu possa perder,
        - Nada que eu possa trocar,
-       - Nada que se possa vender.
+       - Nada que se possa vender,
        - Eu que decidi viajar,
        - Eu que escolhi conhecer,
-       - Nada tenho a deixar
+       - Nada tenho nada a deixar,
        - Porque aprendi a viver.
     - <strong>Parábola do Executivo e do Pescador. :smile: </strong>
        - Um poderoso executivo saiu de férias, as primeiras férias em quinze anos. Ele Estava caminhando por uma doca em uma pequena aldeia de pescadores quando um pecador de atum atracou seu barco. Enquanto o pescador amarrava o baco à doca, o executivo expressou sua admiração pelo tamanho e qualidade dos peixes.
