@@ -42,6 +42,7 @@
  - Sempre vai existir alguém melhor ou mais inteligente que você no mundo. Sempre. Compare-se com o você do passado, e não com os outros. Se comparar com os outros é uma das piores coisas que um ser humano pode fazer na vida.
  - Meritocracia é um termo extremamente relativo, e quase sempre, não existe.
  - Ter o espírito de uma criança, mas não ser infantil.
+ - Dependendo do contexto e da realidade em que você se encontra no momento, você pode estar no lugar errado sem perceber.
  - Existem bilhões de formas diferentes de viver, refletir e enxergar a vida.
  - A coisa mais fácil da universidade, é entrar nela.
  - Conhecimento é sobre questionar, e não responder respostas prontas.
@@ -711,6 +712,11 @@
        - IDEIA #8: Desenvolva sua inteligência prática.
        - IDEIA #9: Seja disciplinado!
        - IDEIA #10: O peso dos nossos legados culturais
+    - <strong>5 Passos da Competência</strong>
+       - 1 - Inconscientemente incompetente: "você não sabe o quanto você não sabe"
+       - 2 - Conscientemente incompetente: "você sabe o quanto você não sabe"
+       - 3 - Conscientemente competente: "você já sabe o quanto você sabe"
+       - 4 - Sabedoria: "inconscientemente você não sabe o quanto você sabe"   
     - <strong>Poder Além da Vida</strong>
        - 3 Regras de Sócrates:
           - PARADOXO: A vida é um mistério. Não perca tempo tentando entendê-la.
