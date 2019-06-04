@@ -41,10 +41,12 @@
  - "Todos somos ignorantes. A diferença é que nem todo mundo ignora a mesma coisa." - Albert Einstein.
  - Sempre vai existir alguém melhor ou mais inteligente que você no mundo. Sempre. Compare-se com o você do passado, e não com os outros. Se comparar com os outros é uma das piores coisas que um ser humano pode fazer na vida.
  - Meritocracia é um termo extremamente relativo, e quase sempre, não existe.
- - Ter o espírito de uma criança, mas não ser infantil.
+ - Ter o espírito de uma criança, mas não ser infantil. A vida é muito curta para levar tudo muito a sério.
  - A vida não é um mar de rosas, não seja ingênuo.
  - Conhecimento por si só não significa nada e é totalmente inútil se não aplicado na prática.
  - Até o mais sábio dos homens já errou, erra e vai errar. Nenhum ser humano é 100% ético, justo e virtuoso 100% do tempo, é impossível.
+ - Existem bilhões de possibilidades, mas cada ser humano é programado para perceber só alguma delas.
+ - É muito fácil julgar o palco das pessoas, quando você não conhece os bastidores delas.
  - Problemas e conflitos é tão essencial para o ser humano, assim como o conceito de 'fim' é para o universo. Sem eles, ambos não existiriam.
  - Livre-Arbítrio é uma ilusão, 99% das coisas que acontecem na vida não somos nós que escolhemos ou controlamos.
  - Nem todo mundo nasceu para fazer faculdade. 
@@ -390,6 +392,7 @@
  - "Mar calmo nunca fez bom marinheiro."
  - "Quem nunca sentiu o amargo da dor e do fracasso, não vai aproveitar ou dar valor o suficiente para o sucesso."
  - "Se você julgar um peixe pela sua capacidade de subir uma árvore, você vai passar a vida toda pensando que ele é estúpido."
+ - "Sempre desconfie de pessoas que dizem que nunca se arrependeram de nada na vida."
  - "Na vida, ou você influência, ou você é influenciado."
  - "Você é a média das 5 pessoas que mais convive. Diga me com quem andas, que direi quem tu és."
  - "Ser grato pela vida, por tudo que tem e pelo que já conquistou."
