@@ -1043,7 +1043,7 @@
        - Outra coisa papai, eu dormi na rede do Tonho e ele dormiu no chão, pois não havia rede para cada um de nós. Na nossa casa, colocamos nossa empregada para dormir naquele quarto onde guardamos entulho, apesar de termos camas macias e cheirosas sobrando.
        - Conforme o garoto falava, o pai ficava constrangido, enrubescido e envergonhado. O filho, em sua sábia ingenuidade e brilhante desabafo, abraçou o pai e ainda acrescentou: 
        - – Obrigado papai, por ter me mostrado o quanto somos pobres!
-    - <strong>O Tesouro de Bresa :smile:</strong>
+    - <strong>O Tesouro de Bresa nas Montanhas de Harbatol:smile:</strong>
        - Houve outrora, na Babilônia, um pobre e modesto alfaiate chamado Enedim, homem inteligente e trabalhador, que não perdia a esperança de vir a ser riquíssimo.
        - Como e onde, no entanto, encontrar um tesouro fabuloso e tornar assim, rico e poderoso?
        - Um dia, parou na porta de sua humilde casa, um velho mercador da fenícia, que vendia uma infinidade de objetos extravagantes.
@@ -1065,7 +1065,7 @@
        - Graças a seu trabalho e ao seu conhecimento, o reino progrediu rapidamente, trazendo riquezas e alegria para todo seu povo.
        - No entanto, ainda não conhecia o segredo de Bresa, apesar de ter lido e relido todas as páginas do livro.
        - Certa vez, teve a oportunidade de questionar um venerando sacerdote a respeito daquele mistério, que sorrindo esclareceu:
-      - "O tesouro de Bresa já está em seu poder, pois graças ao livro você adquiriu grande saber, que lhe proporcionou os invejáveis bens que possui. <strong>Afinal, Bresa significa saber e Harbatol quer dizer trabalho.</strong>" 
+      - "O tesouro de Bresa já está em seu poder, pois graças ao livro você adquiriu grande saber, que lhe proporcionou os invejáveis bens que possui. <strong>Afinal, Bresa significa SABER e Harbatol quer dizer TRABALHO.</strong>" 
 
 <br><br>
 
