@@ -45,6 +45,7 @@
  - A vida não é um mar de rosas, não seja ingênuo.
  - Conhecimento por si só não significa nada e é totalmente inútil se não aplicado na prática.
  - Até o mais sábio dos homens já errou, erra e vai errar. Nenhum ser humano é 100% ético, justo e virtuoso 100% do tempo, é impossível.
+ - Dinheiro não é um fim, mas um meio, além de ajudar a potencializar aquilo que nós já somos.
  - Existem bilhões de possibilidades, mas cada ser humano é programado para perceber só alguma delas.
  - É muito fácil julgar o palco das pessoas, quando você não conhece os bastidores delas.
  - Problemas e conflitos é tão essencial para o ser humano, assim como o conceito de 'fim' é para o universo. Sem eles, ambos não existiriam.
@@ -1022,6 +1023,64 @@
        - “Milhões? E depois, o que eu faria?”
        - O executivo pensou por um momento. “Você pode se aposentar, dormir até mais tarde, pescar um pouco, brincar com os filhos, tirar uma soneca depois do almoço com a sua esposa e ir para a aldeia todas as noites beber vinho e tocar violão com os amigos”
        - Ao ouvir a própria resposta, o executivo abanou a cabeça e se despediu do pescador. Imediatamente depois de voltar das férias, o executivo se demitiu do emprego.
+    - <strong>O menino rico que descobriu que o menino pobre tinha mais que ele :smile:</strong>
+       - Um dia, um pai de família rica, grande empresário, levou seu filho para viajar até um lugarejo com o firme propósito de mostrar-lhe o quanto as pessoas podem ser pobres. Seu objetivo era convencer o filho da necessidade de valorizar os bens materiais que possuía, seu status e prestígio social. O pai queria desde cedo passar esses valores para seu herdeiro.
+       - Eles ficaram um dia e uma noite numa pequena casa de taipa, de um morador da fazenda de seu primo.
+       - Quando retornavam da viagem, o pai perguntou ao filho:
+       - – E aí filhão, como foi a viagem para você?
+       - – Muito boa, papai.
+       - – Você viu a diferença entre viver na riqueza e viver na pobreza? 
+       - – Sim pai... - Retrucou o filho, pensativamente. 
+       - – E o que você aprendeu com tudo o que viu naquele lugar tão pobre? 
+       - O menino respondeu: 
+       - – É pai, pude ver muitas coisas...
+       - Vi que nós temos só um cachorro em casa, enquanto eles têm quatro. Nós temos uma piscina que alcança metade do jardim, e eles têm um riacho sem fim. 
+       - Nós temos uma varanda coberta e iluminada com lâmpadas fluorescentes e eles têm as estrelas e a lua no céu. 
+       - Nosso quintal vai até o portão de entrada e eles têm uma floresta inteirinha. Nós temos alguns canários numa gaiola e eles têm todas as aves que a natureza pode oferecer-lhes, soltas!
+       - O filho suspirou e continuou: 
+       - – E além do mais, papai, observei que eles oram antes de qualquer refeição, enquanto nós sentamos à mesa e falamos de negócios e eventos sociais. Então comemos, empurramos o prato e pronto!
+       - No quarto onde fui dormir com o Tonho, passei vergonha, pois não sabia sequer orar, enquanto ele se ajoelhou e agradeceu a Deus por tudo, inclusive por nossa visita. Lá em casa, vamos para o quarto, deitamos, assistimos TV e dormimos. 
+       - Outra coisa papai, eu dormi na rede do Tonho e ele dormiu no chão, pois não havia rede para cada um de nós. Na nossa casa, colocamos nossa empregada para dormir naquele quarto onde guardamos entulho, apesar de termos camas macias e cheirosas sobrando.
+       - Conforme o garoto falava, o pai ficava constrangido, enrubescido e envergonhado. O filho, em sua sábia ingenuidade e brilhante desabafo, abraçou o pai e ainda acrescentou: 
+       - – Obrigado papai, por ter me mostrado o quanto somos pobres!
+    - <strong>O Tesouro de Bresa :smile:</strong>
+       - Houve outrora, na Babilônia, um pobre e modesto alfaiate chamado Enedim, homem inteligente e trabalhador, que não perdia a esperança de vir a ser riquíssimo.
+       - Como e onde, no entanto, encontrar um tesouro fabuloso e tornar assim, rico e poderoso?
+       - Um dia, parou na porta de sua humilde casa, um velho mercador da fenícia, que vendia uma infinidade de objetos extravagantes.
+       - Por curiosidade, Enedim começou a examinar as bugigangas oferecidas, quando descobriu, entre elas, uma espécie de livro de muitas folhas, onde se viam caracteres estranhos e desconhecidos. 
+       - Era uma preciosidade aquele livro, afirmava o mercador, e custava apenas três dinares.
+       - Era muito dinheiro para o pobre alfaiate, razão pela qual o mercador concordou em vender lhe o livro por apenas dois dinares.
+       - Logo que ficou sozinho, Enedim tratou de examinar, sem demora, o bem que havia foi sua surpresa quando conseguiu decifrar, na primeira página, a seguinte legenda: "o segredo do tesouro de Bresa."
+       - Enedim recordava vagamente de já ter ouvido qualquer referência a ele, mas não se lembrava onde, nem quando.
+       - Mais adiante decifrou: "o tesouro de Bresa, enterrado pelo gênio do mesmo nome entre as montanhas do Harbatol, foi ali esquecido, e ali se acha ainda, até que algum homem esforçado venha encontrá-lo."
+       - Muito interessado, o esforçado tecelão dispôs-se a decifrar todas as páginas daquele livro, se de tão fabuloso tesouro.
+       - Mas, as primeiras páginas eram escritas em caracteres de vários povos, o que fez com que Enedim estudasse os hieróglifos egípcios, a língua dos gregos, os dialetos persas e o idioma dos judeus.
+       - Em função disso, ao final de três anos Enedim deixava a profissão de alfaiate e passava a ser o intérprete do rei, pois não havia na região ninguém que soubesse tantos idiomas
+       - Passou a ganhar muito mais e a viver em uma confortável casa.
+       - Continuando a ler o livro encontrou várias páginas cheias de cálculos, números e figuras.
+       - Para entender o que lia, estudou matemática com os calculistas da cidade e, em pouco se grande conhecedor das transformações aritméticas.
+       - Houve outrora, na Babilônia, um pobre e modesto alfaiate chamado Enedim, homem inteligente e trabalhador, que não perdia a esperança
+       - Como e onde, no entanto, encontrar um tesouro fabuloso e tornar-se,
+       - Um dia, parou na porta de sua humilde casa, um velho mercador da fenícia, que vendia uma
+       - Por curiosidade, Enedim começou a examinar as bugigangas oferecidas, quando descobriu, entre elas, uma espécie de livro de muitas folhas, onde se viam caracteres estranhos e a apenas três dinares.
+       - Era muito dinheiro para o pobre alfaiate, razão pela qual o mercador concordou em vender
+       - Logo que ficou sozinho, Enedim tratou de examinar, sem demora, o bem que havia  adquirido.
+       - Qual não foi sua surpresa quando conseguiu decifrar, na primeira página, a seguinte legenda: "o segredo do tesouro de bresa"
+       - Que tesouro seria esse?
+       - Enedim recordava vagamente de já ter ouvido qualquer referência a ele, mas não se lembrava onde, nem quando.
+       - Mais adiante decifrou: "o tesouro de Bresa, enterrado pelo gênio do mesmo nome entre as montanhas do Harbatol, foi ali esquecido, e ali se acha ainda, até que algum homem esforçado venha encontrá-lo." 
+       - Muito interessado, o esforçado tecelão dispôs-se a decifrar todas as páginas daquele livro, para apoderar-se de tão fabuloso tesouro. 
+       - Mas, as primeiras páginas eram escritas em caracteres de vários povos, o que fez com que Enedim estudasse os hieróglifos egípcios, a língua dos gregos, os dialetos persas e o idioma dos judeus.
+       - Em função disso, ao final de três anos Enedim deixava a profissão de alfaiate e passava a ser o intérprete do rei, pois não havia na região ninguém que soubesse tantos idiomas.
+       - Continuando a ler o livro encontrou várias páginas cheias de cálculos, números e figuras.
+       - Para entender o que lia, estudou matemática com os calculistas da cidade e, em pouco tempo tornou-se grande conhecedor das transformações aritméticas.
+       - Graças aos novos conhecimentos, calculou, desenhou e construiu uma grande ponte sobre o rio Eufrates, o que fez com que o rei o nomeasse prefeito.
+       - Ainda por força da leitura do livro, Enedim estudou profundamente as leis e princípios religiosos de seu país, sendo nomeado primeiro-ministro daquele reino, em decorrência do seu vasto conhecimento.
+       - Passou a viver em suntuoso palácio e recebia visitas dos príncipes mais ricos e poderosos do mundo.
+       - Graças a seu trabalho e ao seu conhecimento, o reino progrediu rapidamente, trazendo riquezas e alegria para todo seu povo.
+       - No entanto, ainda não conhecia o segredo de Bresa, apesar de ter lido e relido todas as páginas do livro.
+       - Certa vez, teve a oportunidade de questionar um venerando sacerdote a respeito daquele mistério, que sorrindo esclareceu:
+      - "O tesouro de Bresa já está em seu poder, pois graças ao livro você adquiriu grande saber, que lhe proporcionou os invejáveis bens que possui. <strong>Afinal, Bresa significa saber e Harbatol quer dizer trabalho.</strong>" 
 
 <br><br>
 
