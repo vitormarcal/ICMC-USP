@@ -44,7 +44,10 @@
  - Ter o espírito de uma criança, mas não ser infantil.
  - A vida não é um mar de rosas, não seja ingênuo.
  - Conhecimento por si só não significa nada e é totalmente inútil se não aplicado na prática.
- - Até os mais sábios dos homens já errou, erra e vai errar. Nenhum ser humano é 100% ético, justo e virtuoso 100% do tempo, é impossível.
+ - Até o mais sábio dos homens já errou, erra e vai errar. Nenhum ser humano é 100% ético, justo e virtuoso 100% do tempo, é impossível.
+ - Problemas e conflitos é tão essencial para o ser humano, assim como o conceito de 'fim' é para o universo. Sem eles, ambos não existiriam.
+ - Livre-Arbítrio é uma ilusão, 99% das coisas que acontecem na vida não somos nós que escolhemos ou controlamos.
+ - Nem todo mundo nasceu para fazer faculdade. 
  - Existem bilhões de formas diferentes de viver, refletir e enxergar a vida.
  - A coisa mais fácil da universidade, é entrar nela.
  - Conhecimento é sobre questionar, e não responder respostas prontas.
