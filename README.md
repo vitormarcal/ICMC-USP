@@ -378,7 +378,7 @@
 
  - "Suicídio NUNCA é uma opção." - [Zangado](https://www.youtube.com/channel/UCuVIWETFdxzwlHEHMbhm2_w)
  - "A melhor forma de vingança é a ignorância." - [Zangado](https://www.youtube.com/channel/UCuVIWETFdxzwlHEHMbhm2_w)
- - "Tem poucas coisas que valem a pena lutar e brigar nesta vida. Por causa de Video Game e Esportes com certeza não é uma delas." - [Zangado](https://www.youtube.com/channel/UCuVIWETFdxzwlHEHMbhm2_w)
+ - "Tem poucas coisas que valem a pena lutar e brigar nesta vida. Por causa de Video Game com certeza não é uma delas." - [Zangado](https://www.youtube.com/channel/UCuVIWETFdxzwlHEHMbhm2_w)
  - "Não importa o que fizeram com você. O que importa é o que você faz com aquilo que fizeram com você." - Sartre
  - "As pessoas podem tirar tudo de você, menos o seu conhecimento." - Albert Einstein
  - "O que vale nessa vida é o que se vive o que se faz." - Charlie Brown Jr
@@ -1000,7 +1000,7 @@
           - 10) OPÇÃO das pessoas realizarem determinada ação em predeterminado tempo em troca de um preço. 
           - 11) SEGURO, caso queira proteger os ativos de seus clientes, você poderá assumir o risco de eventuais eventos negativos que possam ocorrer ao segurados em troca de um pagamento, só pagando o sinistro caso o evento negativo ocorra. 
           - 12) CAPITAL, você poderá investir em outros negócios através do seu CAPITAL, em que você adquirirá parcelas de um negócio. 
-    <strong>Deus Segundo Spinoza :smile:</strong>
+    - <strong>Deus Segundo Spinoza :smile:</strong>
        - “Pára de ficar rezando e batendo o peito! O que eu quero que faças é que saias pelo mundo e desfrutes de tua vida. Eu quero que gozes, cantes, te divirtas e que desfrutes de tudo o que Eu fiz para ti.
        - Pára de ir a esses templos lúgubres, obscuros e frios que tu mesmo construíste e que acreditas ser a minha casa. Minha casa está nas montanhas, nos bosques, nos rios, nos lagos, nas praias. Aí é onde Eu vivo e aí expresso meu amor por ti.
        - Pára de me culpar da tua vida miserável: Eu nunca te disse que há algo mau em ti ou que eras um pecador, ou que tua sexualidade fosse algo mau. O sexo é um presente que Eu te dei e com o qual podes expressar teu amor, teu êxtase, tua alegria. Assim, não me culpes por tudo o que te fizeram crer.
