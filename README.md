@@ -43,7 +43,8 @@
  - Meritocracia é um termo extremamente relativo, e quase sempre, não existe.
  - Ter o espírito de uma criança, mas não ser infantil.
  - A vida não é um mar de rosas, não seja ingênuo.
- - Dependendo do contexto e da realidade em que você se encontra no momento, você pode estar no lugar errado sem perceber.
+ - Conhecimento por si só não significa nada e é totalmente inútil se não aplicado na prática.
+ - Até os mais sábios dos homens já errou, erra e vai errar. Nenhum ser humano é 100% ético, justo e virtuoso 100% do tempo, é impossível.
  - Existem bilhões de formas diferentes de viver, refletir e enxergar a vida.
  - A coisa mais fácil da universidade, é entrar nela.
  - Conhecimento é sobre questionar, e não responder respostas prontas.
@@ -399,7 +400,7 @@
  - "Você precisar enxergar todo o macro, para entender muito bem o micro."
  - "É na dificuldade que se encontra a oportunidade."
  - "A qualidade das perguntas que você faz, determina a qualidade das respostas que você recebe."
- - "Se você não tiver inimigos inferiores, nenhum inimigo exterior poderá lhe ferir."
+ - "Se você não tiver inimigos interiores, nenhum inimigo exterior poderá lhe ferir."
  - "A ingratidão é mãe da infelicidade, assim como a gratidão é mãe da felicidade."
  - "Sempre que uma porta se fecha, outra se abre."
  - "Os homens perdem a saúde para juntar dinheiro, depois perdem o dinheiro para recuperar a saúde. E por pensarem ansiosamente no futuro esquecem do presente de forma que acabam por não viver nem no presente nem no futuro. Vivem como se nunca fossem morrer... e morrem como se nunca tivessem vivido."
