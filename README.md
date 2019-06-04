@@ -1053,27 +1053,12 @@
        - Logo que ficou sozinho, Enedim tratou de examinar, sem demora, o bem que havia foi sua surpresa quando conseguiu decifrar, na primeira página, a seguinte legenda: "o segredo do tesouro de Bresa."
        - Enedim recordava vagamente de já ter ouvido qualquer referência a ele, mas não se lembrava onde, nem quando.
        - Mais adiante decifrou: "o tesouro de Bresa, enterrado pelo gênio do mesmo nome entre as montanhas do Harbatol, foi ali esquecido, e ali se acha ainda, até que algum homem esforçado venha encontrá-lo."
-       - Muito interessado, o esforçado tecelão dispôs-se a decifrar todas as páginas daquele livro, se de tão fabuloso tesouro.
+       - Muito interessado, o esforçado tecelão dispôs-se a decifrar todas as páginas daquele livro, para apoderar-se de tão fabuloso tesouro.
        - Mas, as primeiras páginas eram escritas em caracteres de vários povos, o que fez com que Enedim estudasse os hieróglifos egípcios, a língua dos gregos, os dialetos persas e o idioma dos judeus.
        - Em função disso, ao final de três anos Enedim deixava a profissão de alfaiate e passava a ser o intérprete do rei, pois não havia na região ninguém que soubesse tantos idiomas
        - Passou a ganhar muito mais e a viver em uma confortável casa.
        - Continuando a ler o livro encontrou várias páginas cheias de cálculos, números e figuras.
-       - Para entender o que lia, estudou matemática com os calculistas da cidade e, em pouco se grande conhecedor das transformações aritméticas.
-       - Houve outrora, na Babilônia, um pobre e modesto alfaiate chamado Enedim, homem inteligente e trabalhador, que não perdia a esperança
-       - Como e onde, no entanto, encontrar um tesouro fabuloso e tornar-se,
-       - Um dia, parou na porta de sua humilde casa, um velho mercador da fenícia, que vendia uma
-       - Por curiosidade, Enedim começou a examinar as bugigangas oferecidas, quando descobriu, entre elas, uma espécie de livro de muitas folhas, onde se viam caracteres estranhos e a apenas três dinares.
-       - Era muito dinheiro para o pobre alfaiate, razão pela qual o mercador concordou em vender
-       - Logo que ficou sozinho, Enedim tratou de examinar, sem demora, o bem que havia  adquirido.
-       - Qual não foi sua surpresa quando conseguiu decifrar, na primeira página, a seguinte legenda: "o segredo do tesouro de bresa"
-       - Que tesouro seria esse?
-       - Enedim recordava vagamente de já ter ouvido qualquer referência a ele, mas não se lembrava onde, nem quando.
-       - Mais adiante decifrou: "o tesouro de Bresa, enterrado pelo gênio do mesmo nome entre as montanhas do Harbatol, foi ali esquecido, e ali se acha ainda, até que algum homem esforçado venha encontrá-lo." 
-       - Muito interessado, o esforçado tecelão dispôs-se a decifrar todas as páginas daquele livro, para apoderar-se de tão fabuloso tesouro. 
-       - Mas, as primeiras páginas eram escritas em caracteres de vários povos, o que fez com que Enedim estudasse os hieróglifos egípcios, a língua dos gregos, os dialetos persas e o idioma dos judeus.
-       - Em função disso, ao final de três anos Enedim deixava a profissão de alfaiate e passava a ser o intérprete do rei, pois não havia na região ninguém que soubesse tantos idiomas.
-       - Continuando a ler o livro encontrou várias páginas cheias de cálculos, números e figuras.
-       - Para entender o que lia, estudou matemática com os calculistas da cidade e, em pouco tempo tornou-se grande conhecedor das transformações aritméticas.
+       - Para entender o que lia, estudou matemática com os calculistas da cidade e, em pouco tempo, tornou-se grande conhecedor das transformações aritméticas.
        - Graças aos novos conhecimentos, calculou, desenhou e construiu uma grande ponte sobre o rio Eufrates, o que fez com que o rei o nomeasse prefeito.
        - Ainda por força da leitura do livro, Enedim estudou profundamente as leis e princípios religiosos de seu país, sendo nomeado primeiro-ministro daquele reino, em decorrência do seu vasto conhecimento.
        - Passou a viver em suntuoso palácio e recebia visitas dos príncipes mais ricos e poderosos do mundo.
