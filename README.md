@@ -378,6 +378,7 @@
 
  - "Suicídio NUNCA é uma opção." - [Zangado](https://www.youtube.com/channel/UCuVIWETFdxzwlHEHMbhm2_w)
  - "A melhor forma de vingança é a ignorância." - [Zangado](https://www.youtube.com/channel/UCuVIWETFdxzwlHEHMbhm2_w)
+ - "Tem poucas coisas que valem a pena lutar e brigar nesta vida. Por causa de Video Game e Esportes com certeza não é uma delas." - [Zangado](https://www.youtube.com/channel/UCuVIWETFdxzwlHEHMbhm2_w)
  - "Não importa o que fizeram com você. O que importa é o que você faz com aquilo que fizeram com você." - Sartre
  - "As pessoas podem tirar tudo de você, menos o seu conhecimento." - Albert Einstein
  - "O que vale nessa vida é o que se vive o que se faz." - Charlie Brown Jr
@@ -385,14 +386,19 @@
  - "Daqui a um ano, você vai desejar ter começado hoje."
  - "Existem 3 segredos para a infelicidade: Ser uma pessoa que você não é, tentar ser amigo de todo mundo e tentar agradar todo mundo".
  - "Muitas pessoas gastam dinheiro que não tem, para comprar coisas que não precisam, para impressionar pessoas que não gostam."
+ - "Acomodação é morte."
+ - "Não importa quantas batidas seu coração vai dar na sua vida, o que importa é como você vai viver cada batida."
  - "A dor é passageira. A gloria é para sempre."
  - "Todo ser humano tem o direito de ser feliz. Mas cada ser humano é responsável pela própria felicidade."
  - "Pessoas sábias falam sobre ideias. Pessoas comuns falam sobre coisas. Pessoas medíocres falam sobre pessoas."
  - "Se você não puder ajudar, pelo menos não atrapalhe."
  - "Crianças e jovens não escutam muito o que você diz, mais eles enxergam muito aquilo que você faz. Ensinar pelo exemplo, não pela palavra."
+ - "Você pode ter ter 500 colegas e 1000 conhecidos, mas nunca mais do que 2 ou 3 dúzias de amigos."
+ - "Pessoas saudáveis não dão lucro."
  - "Mar calmo nunca fez bom marinheiro."
  - "Quem nunca sentiu o amargo da dor e do fracasso, não vai aproveitar ou dar valor o suficiente para o sucesso."
  - "Se você julgar um peixe pela sua capacidade de subir uma árvore, você vai passar a vida toda pensando que ele é estúpido."
+ - "Primeiro você escolhe, depois você colhe."
  - "Sempre desconfie de pessoas que dizem que nunca se arrependeram de nada na vida."
  - "Na vida, ou você influência, ou você é influenciado."
  - "Você é a média das 5 pessoas que mais convive. Diga me com quem andas, que direi quem tu és."
@@ -994,6 +1000,21 @@
           - 10) OPÇÃO das pessoas realizarem determinada ação em predeterminado tempo em troca de um preço. 
           - 11) SEGURO, caso queira proteger os ativos de seus clientes, você poderá assumir o risco de eventuais eventos negativos que possam ocorrer ao segurados em troca de um pagamento, só pagando o sinistro caso o evento negativo ocorra. 
           - 12) CAPITAL, você poderá investir em outros negócios através do seu CAPITAL, em que você adquirirá parcelas de um negócio. 
+    <strong>Deus Segundo Spinoza :smile:</strong>
+       - “Pára de ficar rezando e batendo o peito! O que eu quero que faças é que saias pelo mundo e desfrutes de tua vida. Eu quero que gozes, cantes, te divirtas e que desfrutes de tudo o que Eu fiz para ti.
+       - Pára de ir a esses templos lúgubres, obscuros e frios que tu mesmo construíste e que acreditas ser a minha casa. Minha casa está nas montanhas, nos bosques, nos rios, nos lagos, nas praias. Aí é onde Eu vivo e aí expresso meu amor por ti.
+       - Pára de me culpar da tua vida miserável: Eu nunca te disse que há algo mau em ti ou que eras um pecador, ou que tua sexualidade fosse algo mau. O sexo é um presente que Eu te dei e com o qual podes expressar teu amor, teu êxtase, tua alegria. Assim, não me culpes por tudo o que te fizeram crer.
+       - Pára de ficar lendo supostas escrituras sagradas que nada têm a ver comigo. Se não podes me ler num amanhecer, numa paisagem, no olhar de teus amigos, nos olhos de teu filhinho… Não me encontrarás em nenhum livro! Confia em mim e deixa de me pedir. Tu vais me dizer como fazer meu trabalho?
+       - Pára de ter tanto medo de mim. Eu não te julgo, nem te critico, nem me irrito, nem te incomodo, nem te castigo. Eu sou puro amor.
+       - Pára de me pedir perdão. Não há nada a perdoar. Se Eu te fiz… Eu te enchi de paixões, de limitações, de prazeres, de sentimentos, de necessidades, de incoerências, de livre-arbítrio. Como posso te culpar se respondes a algo que eu pus em ti? Como posso te castigar por seres como és, se Eu sou quem te fez? Crês que eu poderia criar um lugar para queimar a todos meus filhos que não se comportem bem, pelo resto da eternidade? Que tipo de Deus pode fazer isso?
+       - Esquece qualquer tipo de mandamento, qualquer tipo de lei; essas são artimanhas para te manipular, para te controlar, que só geram culpa em ti.
+       - Respeita teu próximo e não faças o que não queiras para ti. A única coisa que te peço é que prestes atenção a tua vida, que teu estado de alerta seja teu guia.
+       - Esta vida não é uma prova, nem um degrau, nem um passo no caminho, nem um ensaio, nem um prelúdio para o paraíso. Esta vida é o único que há aqui e agora, e o único que precisas.
+       - Eu te fiz absolutamente livre. Não há prêmios nem castigos. Não há pecados nem virtudes. Ninguém leva um placar. Ninguém leva um registro. Tu és absolutamente livre para fazer da tua vida um céu ou um inferno. Não te poderia dizer se há algo depois desta vida, mas posso te dar um conselho. Vive como se não o houvesse. Como se esta fosse tua única oportunidade de aproveitar, de amar, de existir. Assim, se não há nada, terás aproveitado da oportunidade que te dei. E se houver, tem certeza que Eu não vou te perguntar se foste comportado ou não. Eu vou te perguntar se tu gostaste, se te divertiste… Do que mais gostaste? O que aprendeste?
+       - Pára de crer em mim – crer é supor, adivinhar, imaginar. Eu não quero que acredites em mim. Quero que me sintas em ti. Quero que me sintas em ti quando beijas tua amada, quando agasalhas tua filhinha, quando acaricias teu cachorro, quando tomas banho no mar.
+       - Pára de louvar-me! Que tipo de Deus ególatra tu acreditas que Eu seja? Me aborrece que me louvem. Me cansa que agradeçam. Tu te sentes grato? Demonstra-o cuidando de ti, de tua saúde, de tuas relações, do mundo. Te sentes olhado, surpreendido?… Expressa tua alegria! Esse é o jeito de me louvar.
+       - Pára de complicar as coisas e de repetir como papagaio o que te ensinaram sobre mim. A única certeza é que tu estás aqui, que estás vivo, e que este mundo está cheio de maravilhas. Para que precisas de mais milagres? Para que tantas explicações? Não me procures fora! Não me acharás. Procura-me dentro… aí é que estou, batendo em ti.”
+       - Einstein, quando perguntado se acreditava em Deus, respondeu: “Acredito no Deus de Spinoza, que se revela por si mesmo na harmonia de tudo o que existe, e não no Deus que se interessa pela sorte e pelas ações dos homens”.
     - <strong>Você Vive Ou Acumula? :smile:</strong>
        - Um jovem advogado foi indicado para inventariar os pertences de um senhor recém falecido. Segundo o relatório do seguro social, o idoso não tinha herdeiros ou parentes vivos. Suas posses eram muito simples. O apartamento alugado, um carro velho, móveis baratos e roupas puídas. “Como alguém passa toda a vida e termina só com isso?”, pensou o advogado. Anotou todos os dados e ia deixando a residência quando notou um porta-retratos sobre um criado mudo.
        - Na foto estava o velho morto. Ainda era jovem, sorridente, ao fundo um mar muito verde e uma praia repleta de coqueiros. À caneta escrito bem de leve no canto superior da imagem lia-se “sul da Tailândia”. Surpreso, o advogado abriu a gaveta do criado e encontrou um álbum repleto de fotografias. Lá estava o senhor, em diversos momentos da vida, em fotos em todo canto do mundo.
