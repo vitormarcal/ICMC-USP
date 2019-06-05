@@ -17,7 +17,7 @@
 
 ## Roadmap Software Engineering
 
-- [Teach Yourself Programming in Ten Years - Peter Norvig](http://norvig.com/21-days.html)
+- [<strong>Teach Yourself Programming in Ten Years - Peter Norvig</strong>](http://norvig.com/21-days.html)
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 - [Teach Yourself CS](https://teachyourselfcs.com/)
 - [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
@@ -33,6 +33,7 @@
  - Segundo: quanto mais eu estudo e aprendo, menos eu sei.
  - Existem gênios sem educação formal e idiotas com doutorado.
  - Existem graduados sem emprego, e pessoas com ensino fundamental milionários.
+ - A vida sempre foi, é, e será extremamente injusta. Aprenda a lidar com isso.
  - Geralmente, pessoas muito inteligentes estão dispostas a ouvir opiniões contrárias a dela, refletir e mudar sua opnião. Se você quer saber se uma pessoa é inteligente ou não, provavelmente isso já é um bom começo.
  - Há alunos gênios que ganharão prêmios Nobel. Há excelentes alunos que serão grandes mestres na universidade. Há ótimos alunos que serão grandes profissionais. Há bons alunos que querem ter um bom emprego e qualidade de vida. E há rebeldes que querem ser donos do próprio negócio. Cada aluno estuda com um objetivo diferente. 
  - Quanto mais eu estudo assuntos do meu interesse, mais tesão eu tenho pela vida.
@@ -42,7 +43,9 @@
  - Sempre vai existir alguém melhor ou mais inteligente que você no mundo. Sempre. Compare-se com o você do passado, e não com os outros. Se comparar com os outros é uma das piores coisas que um ser humano pode fazer na vida.
  - Meritocracia é um termo extremamente relativo, e quase sempre, não existe.
  - Burocracia e Empregadores se importam com suas notas. A vida e os clientes não. 
+ - Se você colocar a variável ser humano no meio da equação, o resultado sempre será imprevisível.
  - Ter o espírito de uma criança, mas não ser infantil. A vida é muito curta para levar tudo muito a sério.
+ - Um dia sem aprender algo novo, é um dia perdido.
  - A vida não é um mar de rosas, não seja ingênuo.
  - Conhecimento por si só não significa nada e é totalmente inútil se não aplicado na prática.
  - Existem adultos com 15 anos e crianças com 30. Idade não necessariamente significa amadurecimento.
@@ -50,6 +53,7 @@
  - Dinheiro não é um fim, mas um meio, além de ajudar a potencializar aquilo que nós já somos.
  - Existem bilhões de possibilidades, mas cada ser humano é programado para perceber só alguma delas.
  - É muito fácil julgar o palco das pessoas, quando você não conhece os bastidores delas.
+ - Se você acha que filosofia é inútil, você ainda não entendeu o que é filosofia.
  - É muito fácil julgar e desprezar uma pessoa pobre que não teve a mesmo sorte, privilégios e oportunidades que você teve, quando você não precisa ficar preocupado aonde você vai morar ou com o que vai comer amanhã.
  - Seres humanos sempre tendem a interpretar o mundo de acordo com as próprias experiências. Pessoas que conseguem se colocar no lugar dos outros são tão raras como político honesto.
  - Problemas e conflitos é tão essencial para o ser humano, assim como o conceito de 'fim' é para o universo. Sem eles, ambos não existiriam.
@@ -72,6 +76,8 @@
      - [x] Akira
      - [x] FullMetal Alchemist Brotherhood
      - [x] Steins:Gate
+     - [ ] Attack On Titans
+     - [ ] Mob Psycho 100
   - Mangas
      - [x] Berserk
      - [x] Monster
@@ -417,12 +423,14 @@
  - "Se você não puder ajudar, pelo menos não atrapalhe."
  - "Crianças e jovens não escutam muito o que você diz, mais eles enxergam muito aquilo que você faz. Ensinar pelo exemplo, não pela palavra."
  - "Você pode ter ter 500 colegas e 1000 conhecidos, mas nunca mais do que 2 ou 3 dúzias de amigos."
+ - "Dor é universal. Sofrimento é escolha."
  - "Pessoas saudáveis não dão lucro."
  - "Mar calmo nunca fez bom marinheiro."
  - "Quem nunca sentiu o amargo da dor e do fracasso, não vai aproveitar ou dar valor o suficiente para o sucesso."
  - "Se você julgar um peixe pela sua capacidade de subir uma árvore, você vai passar a vida toda pensando que ele é estúpido."
  - "Primeiro você escolhe, depois você colhe."
  - "Sempre desconfie de pessoas que dizem que nunca se arrependeram de nada na vida."
+ - "E aqueles que foram vistos dançando foram julgados insanos por aqueles que não podiam ouvir a música."
  - "Na vida, ou você influência, ou você é influenciado."
  - "Você é a média das 5 pessoas que mais convive. Diga me com quem andas, que direi quem tu és."
  - "Ser grato pela vida, por tudo que tem e pelo que já conquistou."
@@ -825,7 +833,13 @@
        - 1 - Inconscientemente incompetente: "você não sabe o quanto você não sabe"
        - 2 - Conscientemente incompetente: "você sabe o quanto você não sabe"
        - 3 - Conscientemente competente: "você já sabe o quanto você sabe"
-       - 4 - Sabedoria: "inconscientemente você não sabe o quanto você sabe"   
+       - 4 - Sabedoria: "inconscientemente você não sabe o quanto você sabe"
+    - <strong>As 4 Regras do Método Cartesiano</strong>
+       - René Descartes, decepcionado com o ensino que lhe foi ministrado criou o método cartesiano, para assim conduzir o indivíduo a verdade indiscutível.
+       - 1 -  consistia em nunca aceitar algo como verdadeiro sem conhecê-lo evidentemente como tal. Isto é, evitar cuidadosamente a precipitação e a prevenção; não incluir nos meus juízos nada que não se apresentasse tão clara e distintamente à minha inteligência a ponto de excluir qualquer possibilidade de dúvida.
+       - 2 - era dividir o problema em tantas partes quantas fossem necessárias para melhor poder resolvê-lo.
+       - 3 - conduzir por ordem os meus pensamentos, começando pelos objetos mais simples e mais fáceis de conhecer, para subir pouco a pouco, gradualmente, até o conhecimento dos mais compostos; e admitindo uma ordem mesmo entre aqueles que não apresentam nenhuma ligação natural entre si.
+       - 4 - Por último, sempre fazer enumerações tão completas, e revisões tão gerais, que tivesse certeza de nada ter omitido.
     - <strong>Poder Além da Vida</strong>
        - 3 Regras de Sócrates:
           - PARADOXO: A vida é um mistério. Não perca tempo tentando entendê-la.
@@ -871,6 +885,11 @@
        - As que não fazem nada. (90%)
        - As que olham as coisas acontecerem. (5%)
        - As que fazem alguma coisa. (5%)
+    - <strong>4 Filosofias de Vida</strong>
+       - Ganha-Perde: eu ganho, você perde
+       - Perde-Ganha: vitimismo
+       - Perde-Perde: eu perco, mais você perde também
+       - Ganha-Ganha: eu ganho se você ganha (teoria dos jogos)
     - <strong>Seus 3 Maiores Inimigos</strong>
        - Medo
        - Ansiedade
