@@ -1,5 +1,3 @@
-## Learning Economics, Finances & Accounting :D
-
  - Sites
     - [Tesouro Nacional](http://www.tesouro.fazenda.gov.br/)
     - [B3 - Brasil, Bolsa, Balcão](http://www.b3.com.br/pt_br/)
@@ -9,7 +7,7 @@
     - [CVM](http://www.cvm.gov.br/)
     - [Portal do Empreendedor](http://www.portaldoempreendedor.gov.br/)
     - [Population Explorer](https://www.populationexplorer.com/)
- - Ferramentas
+ - Tools
     - [Fundamentus](http://www.fundamentus.com.br/)
     - [ClubeFII - Calcular Juros Compostos de Fundos Imobiliários](https://www.clubefii.com.br/)
     - [Cálculo Independência Financeira](https://clubedovalor.com.br/calculadora-independencia-financeira-i/?sck=aIQSBEeLy1M&utm_source=youtube&utm_medium=video&utm_content=aIQSBEeLy1M&utm_campaign=cdv-conversion)
@@ -24,13 +22,13 @@
  - Vertentes Da Economia
     - [Microeconomia](https://www.wikiwand.com/pt/Microeconomia) == estuda os comportamentos individuais
     - [Macroeconomia](https://www.wikiwand.com/pt/Macroeconomia) == estuda o resultado agregado dos vários comportamentos individuais
- - Referencias 
+ - References
     - [Khan Academy - Economics and Finance](https://pt.khanacademy.org/economics-finance-domain)
     - [InfoMoney](https://www.infomoney.com.br/)
     - [Jornal da USP](https://jornal.usp.br/)
     - [Politize](http://www.politize.com.br/)
     - [Bastter.com](https://bastter.com/)
- - Teorias Econômicas
+ - Theory
     - [Contabilidade de Dupla Entrada](http://web.mit.edu/jhawk/mnt/spo/gnucash/src/gnucash-1.6.4/doc/sgml/pt_PT/gnucash/xacc-doubleentry.html)
     - [Efeito Dunning Kruger](https://pt.wikipedia.org/wiki/Efeito_Dunning-Kruger)
     - [Teoria dos Jogos](https://www.wikiwand.com/pt/Teoria_dos_jogos)
@@ -40,14 +38,6 @@
     - [Curva de Laffer](https://www.wikiwand.com/pt/Curva_de_Laffer)
     - [Viés de Confirmação](https://www.wikiwand.com/pt/Vi%C3%A9s_de_confirma%C3%A7%C3%A3o)
     - [Viés de Comportamento de Manada](https://www.wikiwand.com/pt/Comportamento_de_manada)
- - Livros Mais Recomendados
-    - [A Riqueza Das Nações - Adam Smith](https://www.amazon.com.br/Riqueza-Na%C3%A7%C3%B5es-Adam-Smith/dp/852890623X)
-    - [A Teoria Geral do Emprego, do Juro e da Moeda - John Keynes](https://www.amazon.com.br/Teoria-Geral-Emprego-Juro-Moeda/dp/8502180355)
-    - [Pai Rico Pai Pobre - Robert Kiyosaki](https://github.com/AlexGalhardo/ICMC-USP/tree/master/Ebooks)
-    - [Introdução à Economia - Mankiw](https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-Economia-N-Gregory-Mankiw/dp/8522111863)
-    - [O Investidor Inteligente - Benjamin Graham](https://www.amazon.com.br/Investidor-Inteligente-Benjamin-Graham/dp/8595080801/ref=cm_cr_arp_d_product_top?ie=UTF8)
-    - [Top 10 Livros Economia - Ricam Consultoria](http://ricamconsultoria.com.br/news/ranking-dos-artigos-mais-curtidos/10-livros-essenciais-para-entender-os-mercados-segundo-ricardo-amorim)
-    - [Nassim Taleb](https://www.amazon.com.br/Livros-Nassim-Nicholas-Taleb/s?rh=n%3A6740748011%2Cp_27%3ANassim+Nicholas+Taleb)
  - As Quatro Formas de Ganhar Dinheiro segundo Kiyosaki
     ```
     - Ser empregado == onde você geralmente ganha um salário fixo pelas horas que trabalhou;
@@ -57,41 +47,6 @@
 
     Ativo == Tudo aquilo que gera dinheiro
     Passivo == Tudo aquilo que tira dinheiro
-    ```
- - Softwares
-    - [Arquivei](https://arquivei.com.br)
-    - [Conta Azul](https://contaazul.com/)
- - YouTube
-    - [Canal do Por Quê?](https://www.youtube.com/channel/UCqWMwhpW-rggQZtfNXIqkrw)
-    - [Ricardo Amorim](https://www.youtube.com/user/RicardoAmorimMC/videos)
-    - [Richard Rytenband](https://www.youtube.com/watch?v=ue-jy3-lUTk)
-    - [Bruno Perini](https://www.youtube.com/channel/UCCE-jo1GvBJqyj1b287h7jA)
-    - [Blog de Valor - André Bona](https://www.youtube.com/channel/UCu7a5rOuk4K1AJzSIaku5Hw)
-    - [Lucas Conchetto](https://www.youtube.com/channel/UCcYI0scdfaL9Bog1VJbNhuQ)
-    - [Suno Research](https://www.youtube.com/channel/UCWDeEIDAIi_oYKDiqwfGyRg)
-    - [ResumoCast](https://www.youtube.com/channel/UC-_86oFtIIsl7sfcJSxmpYQ)
-    - [Universidade Financeira](https://www.youtube.com/user/univfinanceira)
-    - [O Primeiro Rico](https://www.youtube.com/user/thigas)
-    - [Me Poupe](https://www.youtube.com/channel/UC8mDF5mWNGE-Kpfcvnn0bUg)
-    - [Gustavo Cerbasi](https://www.youtube.com/channel/UC_mSfchV-fgpPy-vuwML8_A)
-    - [EconoWeek](https://www.youtube.com/channel/UCZFNY5I0RnErV23CZAd-QuQ)
-    - [EconoMirna](https://www.youtube.com/channel/UCwLxXLLWEIJFHEeTMlYqHTA)
-    - [Maiara Xavier](https://www.youtube.com/user/mulherrica)
-    - [José Kobori](https://www.youtube.com/channel/UCOKSOW5uJHdW7Edz37mvAFw)
-    - [Economista Sincero](https://www.youtube.com/channel/UCrp0zmecZ3TNV8FSR-tjv7A)
- - Juros Compostos
-    ```
-    “Os juros compostos é a maior invenção da humanidade, porque permite uma confiável e sistemática acumulação de riqueza.” - Einstein
-
-    M = Montante Final
-    P = Capital Inicial
-    i = Porcentagem do lucro ao mês/ano
-    n = Tempo (meses/anos)
-
-    M = P.(1+i)^n
-
-    Ex: Investir 5.000 com 0,5% de rendimento ao mês durante 12 meses
-    M = 5,000 . (1,05)^12
     ```
  - Siglas
     - BOVESPA = Bolsa de Valores Do Estado de São Paulo
@@ -263,34 +218,6 @@
     - De 181 dias a 365 dias  20%
     - De 365 dias a 720 dias  17.5%
     - Acima de 720 dias 15%
- - Warren Buffet Principles
-    - Regra Número 1: Nunca perca dinheiro
-    - Regra Número 2: Nunca esqueça a regra número 1
-    - O risco vem de não saber o que você está fazendo.
-    - Os investidores devem se lembrar que a excitação e os gastos são seus inimigos. E se insistirem em cronometrar a sua participação em ações, eles deveriam tentar ser medrosos quando os outros forem gananciosos e gananciosos quando os outros forem medrosos.
-    - Rentabilidade passado NÃO garante rentabilidade futura.
-    - Alguém está sentado na sombra hoje porque alguém plantou uma árvore há muito tempo.
-    - Procurando pessoas para contratar, você busca três qualidades: integridade, inteligência, e energia. E se elas não têm a primeira, as outras duas matarão você.
-    - São necessários 20 anos para construir uma reputação e apenas cinco minutos para destruí-la.
-    - Por algum motivo, as pessoas se baseiam nos preços e não nos valores. Preço é o que você paga. Valor é o que você leva.
-    - Se você acertou, pare de tentar.
-    - Você só precisa fazer algumas poucas coisas certas na vida- desde que não faça muitas erradas.
-    - Se a história passada fosse tudo o que importa no jogo, as pessoas mais ricas seriam os bibliotecários.
-    - A maioria das pessoas se interessa por ações quando todo mundo está interessado. O momento de interessar-se é quando ninguém mais se interessa. Não se ganha dinheiro comprando o que é popular.
-    - Não ponha dinheiro onde não entende, não aplique em empreedimentos endividados, aplique em coisas simples (pé no chão) mas que nunca deixarão de ser usadas (comida, refrigerante, aparelhos de barbear, cerveja).
- - Os 12 Axiomas de Zurique
-    - 1. Preocupação não é doença, mas sinal de saúde. Se você não está preocupado, não está arriscando o bastante.
-    - 2. Realize o lucro sempre cedo demais.
-    - 3. Quando o barco começar a afundar, não reze. Abandone-o.
-    - 4. O comportamento do ser humano não é previsível. Desconfie de quem afirmar que conhece uma nesga que seja do futuro.
-    - 5. Até começar a parecer ordem, o caos não é perigoso.
-    - 6. Evite lançar raízes. Elas tolhem seus movimentos.
-    - 7. Só se pode confiar num palpite que possa ser explicado.
-    - 8. É improvável que entre os desígnios de Deus para o Universo se inclua o de fazer você ficar rico.
-    - 9. Otimismo significa esperar o melhor, mas confiança significa saber como se lidará com o pior. Jamais faça uma jogada por otimismo apenas.
-    - 10. Fuja da opinião da maioria. Provavelmente está errada.
-    - 11. Se não deu certo da primeira vez, esqueça.
-    - 12. Planejamentos a longo prazo geram a perigosa crença de que o futuro está sob controle. É importante jamais levar muito a sério os seus planos a longo prazo, nem os de quem quer que seja.
 
 <br><br>
 

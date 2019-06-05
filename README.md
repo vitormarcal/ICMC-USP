@@ -684,6 +684,64 @@
     - [MathGurl](https://www.youtube.com/channel/UC5RV_s1Jh-jQI4HfexEIb2Q)
     - [A Matemaníaca por Julia Jaccoud](https://www.youtube.com/channel/UCz4Zuqtj9fokXH68gZJmCdA)
     - [PlayList OrigentsBT Astronomia](https://www.youtube.com/watch?v=HiNR74zi8qQ&list=PLUBR4s0w2cG1kyI2MDBJV0J3B5HuJoB7g)
+ - $ Money $
+    - O que a escola deveria estar ensinando, mas não ensina. Lamentável.
+    - [Me Poupe](https://www.youtube.com/channel/UC8mDF5mWNGE-Kpfcvnn0bUg)
+    - [Gustavo Cerbasi](https://www.youtube.com/channel/UC_mSfchV-fgpPy-vuwML8_A)
+    - [EconoWeek](https://www.youtube.com/channel/UCZFNY5I0RnErV23CZAd-QuQ)
+    - [Canal do Por Quê?](https://www.youtube.com/channel/UCqWMwhpW-rggQZtfNXIqkrw)
+    - [José Kobori](https://www.youtube.com/channel/UCOKSOW5uJHdW7Edz37mvAFw)
+    - [Ricardo Amorim](https://www.youtube.com/user/RicardoAmorimMC/videos)
+    - [Richard Rytenband](https://www.youtube.com/watch?v=ue-jy3-lUTk)
+    - [Bruno Perini](https://www.youtube.com/channel/UCCE-jo1GvBJqyj1b287h7jA)
+    - [Clue Do Valor](#)
+    - Juros Compostos
+       ```
+       “Os juros compostos é a maior invenção da humanidade, porque permite uma confiável e sistemática acumulação de riqueza.” - Einstein
+
+       M = Montante Final
+       C = Capital Inicial
+       i = Porcentagem do lucro ao mês/ano
+       n = Tempo de Aplicação (meses/anos)
+       J = Lucro líquido dado pelos juros compostos
+
+       M = C . (1+i)^n
+       J = M - C
+
+       Ex: Investir 5.000 com 0,5% de rendimento ao mês durante 12 meses
+       M = 5.000 x (1,05)^12
+       M = 5.000 x 1,7958
+       M = 8.979
+       J = 8979 - 5000 = R$ 3979
+       ```
+    - Warren Buffet Principles
+       - Regra Número 1: Nunca perca dinheiro
+       - Regra Número 2: Nunca esqueça a regra número 1
+       - O risco vem de não saber o que você está fazendo.
+       - Os investidores devem se lembrar que a excitação e os gastos são seus inimigos. E se insistirem em cronometrar a sua participação em ações, eles deveriam tentar ser medrosos quando os outros forem gananciosos e gananciosos quando os outros forem medrosos.
+       - Rentabilidade passado NÃO garante rentabilidade futura.
+       - Alguém está sentado na sombra hoje porque alguém plantou uma árvore há muito tempo.
+       - Procurando pessoas para contratar, você busca três qualidades: integridade, inteligência, e energia. E se elas não têm a primeira, as outras duas matarão você.
+       - São necessários 20 anos para construir uma reputação e apenas cinco minutos para destruí-la.
+       - Por algum motivo, as pessoas se baseiam nos preços e não nos valores. Preço é o que você paga. Valor é o que você leva.
+       - Se você acertou, pare de tentar.
+       - Você só precisa fazer algumas poucas coisas certas na vida- desde que não faça muitas erradas.
+       - Se a história passada fosse tudo o que importa no jogo, as pessoas mais ricas seriam os bibliotecários.
+       - A maioria das pessoas se interessa por ações quando todo mundo está interessado. O momento de interessar-se é quando ninguém mais se interessa. Não se ganha dinheiro comprando o que é popular.
+       - Não ponha dinheiro onde não entende, não aplique em empreedimentos endividados, aplique em coisas simples (pé no chão) mas que nunca deixarão de ser usadas (comida, refrigerante, aparelhos de barbear, cerveja).
+    - Os 12 Axiomas de Zurique
+       - 1. Preocupação não é doença, mas sinal de saúde. Se você não está preocupado, não está arriscando o bastante.
+       - 2. Realize o lucro sempre cedo demais.
+       - 3. Quando o barco começar a afundar, não reze. Abandone-o.
+       - 4. O comportamento do ser humano não é previsível. Desconfie de quem afirmar que conhece uma nesga que seja do futuro.
+       - 5. Até começar a parecer ordem, o caos não é perigoso.
+       - 6. Evite lançar raízes. Elas tolhem seus movimentos.
+       - 7. Só se pode confiar num palpite que possa ser explicado.
+       - 8. É improvável que entre os desígnios de Deus para o Universo se inclua o de fazer você ficar rico.
+       - 9. Otimismo significa esperar o melhor, mas confiança significa saber como se lidará com o pior. Jamais faça uma jogada por otimismo apenas.
+       - 10. Fuja da opinião da maioria. Provavelmente está errada.
+       - 11. Se não deu certo da primeira vez, esqueça.
+       - 12. Planejamentos a longo prazo geram a perigosa crença de que o futuro está sob controle. É importante jamais levar muito a sério os seus planos a longo prazo, nem os de quem quer que seja.
  - Self Development & Philosophy & Psychology & History & Others
     - [NeuroVox](https://www.youtube.com/user/NeuroVoxConsultoria)
     - [Moporã](https://www.youtube.com/channel/UCZYCNT6OT4_cgt-ldtwGQJw)
