@@ -5,8 +5,6 @@
 
 <br><br>
 
-## Como eu gostaria de ter tido acesso a um repositório assim quando eu comecei a estudar. Economizaria muito meu tempo.
-
 ## English
 
 - [Mairo Vergara](http://www.mairovergara.com/)
@@ -395,6 +393,7 @@
  - "Existem 3 segredos para a infelicidade: Ser uma pessoa que você não é, tentar ser amigo de todo mundo e tentar agradar todo mundo".
  - "Muitas pessoas gastam dinheiro que não tem, para comprar coisas que não precisam, para impressionar pessoas que não gostam."
  - "Acomodação é morte."
+ - "Nem tudo o que conta pode ser contado, e nem tudo que pode ser contado conta."
  - "Não importa quantas batidas seu coração vai dar na sua vida, o que importa é como você vai viver cada batida."
  - "A dor é passageira. A gloria é para sempre."
  - "Todo ser humano tem o direito de ser feliz. Mas cada ser humano é responsável pela própria felicidade."
