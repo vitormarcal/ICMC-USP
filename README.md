@@ -5,6 +5,8 @@
 
 <br><br>
 
+## Como eu gostaria de ter tido acesso a um repositório assim quando eu comecei a estudar. Economizaria muito meu tempo.
+
 ## English
 
 - [Mairo Vergara](http://www.mairovergara.com/)
@@ -45,6 +47,7 @@
  - Ter o espírito de uma criança, mas não ser infantil. A vida é muito curta para levar tudo muito a sério.
  - A vida não é um mar de rosas, não seja ingênuo.
  - Conhecimento por si só não significa nada e é totalmente inútil se não aplicado na prática.
+ - Existem adultos com 15 anos e crianças com 30. Idade não necessariamente significa amadurecimento.
  - Até o mais sábio dos homens já errou, erra e vai errar. Nenhum ser humano é 100% ético, justo e virtuoso 100% do tempo, é impossível.
  - Dinheiro não é um fim, mas um meio, além de ajudar a potencializar aquilo que nós já somos.
  - Existem bilhões de possibilidades, mas cada ser humano é programado para perceber só alguma delas.
@@ -683,7 +686,7 @@
     - [Thoughty2](https://www.youtube.com/user/Thoughty2/featured)
     - [MathGurl](https://www.youtube.com/channel/UC5RV_s1Jh-jQI4HfexEIb2Q)
     - [A Matemaníaca por Julia Jaccoud](https://www.youtube.com/channel/UCz4Zuqtj9fokXH68gZJmCdA)
-    - [PlayList OrigentsBT Astronomia](https://www.youtube.com/watch?v=HiNR74zi8qQ&list=PLUBR4s0w2cG1kyI2MDBJV0J3B5HuJoB7g)
+    - [OrigensNT](https://www.youtube.com/watch?v=HiNR74zi8qQ&list=PLUBR4s0w2cG1kyI2MDBJV0J3B5HuJoB7g)
  - $ Money $
     - O que a escola deveria estar ensinando, mas não ensina. Lamentável.
     - [Me Poupe](https://www.youtube.com/channel/UC8mDF5mWNGE-Kpfcvnn0bUg)
@@ -694,7 +697,7 @@
     - [Ricardo Amorim](https://www.youtube.com/user/RicardoAmorimMC/videos)
     - [Richard Rytenband](https://www.youtube.com/watch?v=ue-jy3-lUTk)
     - [Bruno Perini](https://www.youtube.com/channel/UCCE-jo1GvBJqyj1b287h7jA)
-    - [Clue Do Valor](#)
+    - [Clube Do Valor](#)
     - Juros Compostos
        ```
        “Os juros compostos é a maior invenção da humanidade, porque permite uma confiável e sistemática acumulação de riqueza.” - Einstein
@@ -713,6 +716,16 @@
        M = 5.000 x 1,7958
        M = 8.979
        J = 8979 - 5000 = R$ 3979
+       ```
+    - As Quatro Formas de Ganhar Dinheiro segundo Kiyosaki
+       ```
+       - Ser empregado == dedica seu conhecimento, habilidades e seu tempo para resolver os problemas de alguma empresa;
+       - Ser autônomo == dedica seu conhecimento, habilidades e tempo para alguém que se interessa pelo serviço ou criando produtos próprios (livros, cursos online, etc);
+       - Ser um investidor == onde você investe o dinheiro, por exemplo, na Bolsa de Valores ou em um fundo de investimento;
+       - Ser dono de um negócio == onde você tem uma micro, média, grande empresa, ecommerce, etc.
+
+       Ativo == Tudo aquilo que gera dinheiro
+       Passivo == Tudo aquilo que tira dinheiro
        ```
     - Warren Buffet Principles
        - Regra Número 1: Nunca perca dinheiro
