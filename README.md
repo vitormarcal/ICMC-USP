@@ -75,6 +75,8 @@
     - [Trends StackOverFlow](https://insights.stackoverflow.com/trends?tags=r%2Cstatistics)
  - [LastPass](https://www.lastpass.com/pt)
     - Software to save, create and remember all your passwords 
+ - [Archive.org/web](https://archive.org/web/)
+    - How the websites were in the past
  - [12minutos](https://12min.com/br)
     - Books resume
  - [Cheatsheet do git-flow](https://danielkummer.github.io/git-flow-cheatsheet/index.pt_BR.html)
