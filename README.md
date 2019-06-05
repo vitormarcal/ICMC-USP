@@ -62,6 +62,22 @@
  - Se você saiu da universidade com menos dúvidas e perguntas do que quando você entrou, você fez algo errado.
  - Não é a faculdade que faz o aluno, é o aluno que faz a faculdade.
 
+## Recommendations
+  
+  - Animes
+     - [x] Death Note
+     - [x] Kaiji
+     - [x] Code Geass Lelouch
+     - [x] Hunter x Hunter
+     - [x] Akira
+     - [x] FullMetal Alchemist Brotherhood
+     - [x] Steins:Gate
+  - Mangas
+     - [x] Berserk
+     - [x] Monster
+     - [x] Vagabond
+     - [x] Good Night Punpun
+
 ## Useful Tools
 
  - Sites
