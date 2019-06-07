@@ -43,7 +43,11 @@
  - Sempre vai existir alguém melhor ou mais inteligente que você no mundo. Sempre. Compare-se com o você do passado, e não com os outros. Se comparar com os outros é uma das piores coisas que um ser humano pode fazer na vida.
  - Meritocracia é um termo extremamente relativo, e quase sempre, não existe.
  - Burocracia e Empregadores se importam com suas notas. A vida e os clientes não. 
+ - Atrás de um grande homem, há sempre uma grande mulher. Como você vai interpretar isso, é responsabilidade sua.
+ - O mundo da voltas. Quem está por cima hoje, pode estar por baixo amanhã.
+ - Há pessoas que sobrevivem muito mas viveram pouco, e há pessoas que sobreviveram pouco mas viveram muito. A maioria das pessoas não vivem, apenas existem. Algumas por opção, e a maioria por falta de opção. 
  - Se você colocar a variável ser humano no meio da equação, o resultado sempre será imprevisível.
+ - Julgar as pessoas apenas pelas aparências, nem sempre é o melhor caminho.
  - Ter o espírito de uma criança, mas não ser infantil. A vida é muito curta para levar tudo muito a sério.
  - Um dia sem aprender algo novo, é um dia perdido.
  - A vida não é um mar de rosas, não seja ingênuo.
@@ -446,6 +450,9 @@
  - "A qualidade das perguntas que você faz, determina a qualidade das respostas que você recebe."
  - "Se você não tiver inimigos interiores, nenhum inimigo exterior poderá lhe ferir."
  - "A ingratidão é mãe da infelicidade, assim como a gratidão é mãe da felicidade."
+ - "Sucesso Sem Felicidade é Fracasso." - Tony Robbins
+ - "O senso comum não é a prática comum. Todo mundo sabe, mas poucos práticam." - Tony Robbins
+ - "Qual é a pior coisa que poderia acontecer se você fizesse o que você quer fazer?" - Tim Ferris
  - "Sempre que uma porta se fecha, outra se abre."
  - "Os homens perdem a saúde para juntar dinheiro, depois perdem o dinheiro para recuperar a saúde. E por pensarem ansiosamente no futuro esquecem do presente de forma que acabam por não viver nem no presente nem no futuro. Vivem como se nunca fossem morrer... e morrem como se nunca tivessem vivido."
  - "Se você colocar o Einstein para jogar basquete com Michael Jordan, o Jordan vai achar que o Einstein é incompetente. Se você colocar o Michael Jordan para fazer física teórica com o Einstein, o Einstein vai achar que o Jordan é incompetente. Nenhum ser humano consegue analisar todas as variáveis de uma situação subjetiva."
