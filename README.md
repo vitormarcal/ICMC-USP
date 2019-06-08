@@ -71,6 +71,7 @@
  - Conhecimento é sobre questionar, e não responder respostas prontas.
  - Excelentes professores quase sempre são aqueles que incentivam seus alunos a serem melhores do que eles.
  - Se você saiu da universidade com menos dúvidas e perguntas do que quando você entrou, você fez algo errado.
+ - Na escola eu sempre fui um sucesso. Na universidade, eu fui um fracasso. Os fracassos me ensinaram mais do que qualquer sucesso que eu tive. E é por causa desses fracassos que eu sou o que sou hoje.
  - Não é a faculdade que faz o aluno, é o aluno que faz a faculdade.
 
 ## Recommendations
