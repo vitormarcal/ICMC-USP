@@ -49,6 +49,7 @@
  - Se você colocar a variável ser humano no meio da equação, o resultado sempre será imprevisível.
  - Julgar as pessoas apenas pelas aparências, nem sempre é o melhor caminho.
  - Ter o espírito de uma criança, mas não ser infantil. A vida é muito curta para levar tudo muito a sério.
+ - Todos nascem sozinhos e morrem sozinhos. Todos nascem pelados e morrem pelados. Solidão é diferente de solitude.
  - Um dia sem aprender algo novo, é um dia perdido.
  - A vida não é um mar de rosas, não seja ingênuo.
  - Conhecimento por si só não significa nada e é totalmente inútil se não aplicado na prática.
@@ -58,7 +59,7 @@
  - Existem bilhões de possibilidades, mas cada ser humano é programado para perceber só alguma delas.
  - É muito fácil julgar o palco das pessoas, quando você não conhece os bastidores delas.
  - Se você acha que filosofia é inútil, você ainda não entendeu o que é filosofia.
- - É muito fácil julgar e desprezar uma pessoa pobre que não teve a mesmo sorte, privilégios e oportunidades que você teve, quando você não precisa ficar preocupado aonde você vai morar ou com o que vai comer amanhã.
+ - É muito fácil julgar e desprezar uma pessoa pobre que não teve a mesma sorte, privilégios e oportunidades que você teve, quando você não precisa ficar preocupado aonde você vai morar ou com o que vai comer amanhã.
  - Seres humanos sempre tendem a interpretar o mundo de acordo com as próprias experiências. Pessoas que conseguem se colocar no lugar dos outros são tão raras como político honesto.
  - Problemas e conflitos é tão essencial para o ser humano, assim como o conceito de 'fim' é para o universo. Sem eles, ambos não existiriam.
  - Livre-Arbítrio é uma ilusão, 99% das coisas que acontecem na vida não somos nós que escolhemos ou controlamos.
