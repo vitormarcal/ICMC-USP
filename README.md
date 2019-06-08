@@ -66,6 +66,7 @@
  - Livre-Arbítrio é uma ilusão, 99% das coisas que acontecem na vida não somos nós que escolhemos ou controlamos.
  - O mundo e a sociedade não dão a mínima para o quão inteligente, sábio, humilde, bondoso ou virtuoso você seja, eles só se importam com o valor que você agrega a eles. No final da vida, o buraco é o mesmo para todo mundo.
  - Nem todo mundo nasceu para fazer faculdade. 
+ - Melhor do que passar em qualquer matéria da faculdade, é saber cuidar da própria saúde e saber dar valor para as coisas que realmente importam.
  - Existem bilhões de formas diferentes de viver, refletir e enxergar a vida.
  - A coisa mais fácil da universidade, é entrar nela.
  - Conhecimento é sobre questionar, e não responder respostas prontas.
