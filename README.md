@@ -61,6 +61,7 @@
  - Se você acha que filosofia é inútil, você ainda não entendeu o que é filosofia.
  - É muito fácil julgar e desprezar uma pessoa pobre que não teve a mesma sorte, privilégios e oportunidades que você teve, quando você não precisa ficar preocupado aonde você vai morar ou com o que vai comer amanhã.
  - Seres humanos sempre tendem a interpretar o mundo de acordo com as próprias experiências. Pessoas que conseguem se colocar no lugar dos outros são tão raras como político honesto.
+ - Desde que um ser humano não prejudique de forma alguma a liberdade e a vida de outro ser humano, o conceito de certo ou errado não existem, tudo é muito relativo. Justiça, ética, virtude e moral não existem, são apenas termos criados pelo próprio ser humano. A natureza e os outros animais não se importam com isso. Durante a vida, todo ser humano é influenciado por bilhões de crenças e dogmas criados por outros seres humanos, e como todos sabem, ninguém é dono da verdade absoluta. 
  - Problemas e conflitos é tão essencial para o ser humano, assim como o conceito de 'fim' é para o universo. Sem eles, ambos não existiriam.
  - Livre-Arbítrio é uma ilusão, 99% das coisas que acontecem na vida não somos nós que escolhemos ou controlamos.
  - Nem todo mundo nasceu para fazer faculdade. 
