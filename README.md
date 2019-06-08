@@ -34,9 +34,10 @@
  - Existem gênios sem educação formal e idiotas com doutorado.
  - Existem graduados sem emprego, e pessoas com ensino fundamental milionários.
  - A vida sempre foi, é, e será extremamente injusta. Aprenda a lidar com isso.
- - Geralmente, pessoas muito inteligentes estão dispostas a ouvir opiniões contrárias a dela, refletir e mudar sua opnião. Se você quer saber se uma pessoa é inteligente ou não, provavelmente isso já é um bom começo.
+ - Geralmente, pessoas muito inteligentes estão dispostas a ouvir opiniões contrárias a dela, refletir e mudar sua opinião. Se você quer saber se uma pessoa é inteligente ou não, provavelmente isso já é um bom começo.
  - Há alunos gênios que ganharão prêmios Nobel. Há excelentes alunos que serão grandes mestres na universidade. Há ótimos alunos que serão grandes profissionais. Há bons alunos que querem ter um bom emprego e qualidade de vida. E há rebeldes que querem ser donos do próprio negócio. Cada aluno estuda com um objetivo diferente. 
  - Quanto mais eu estudo assuntos do meu interesse, mais tesão eu tenho pela vida.
+ - Lembre-se sempre: tudo pode piorar.
  - Estudar assuntos por hobby (como filosofia, psicologia e história) sem pressão de vestibular ou decoreba para fazer prova, além de ser mais eficiente, gera mais interesse pelo assunto.
  - Antes de ter, você precisa ser.
  - "Todos somos ignorantes. A diferença é que nem todo mundo ignora a mesma coisa." - Albert Einstein.
@@ -45,7 +46,7 @@
  - Burocracia e Empregadores se importam com suas notas. A vida e os clientes não. 
  - Atrás de um grande homem, há sempre uma grande mulher. Como você vai interpretar isso, é responsabilidade sua.
  - O mundo da voltas. Quem está por cima hoje, pode estar por baixo amanhã.
- - Há pessoas que sobrevivem muito mas viveram pouco, e há pessoas que sobreviveram pouco mas viveram muito. A maioria das pessoas não vivem, apenas existem. Algumas por opção, e a maioria por falta de opção. 
+ - Há pessoas que sobreviveram muito mas viveram pouco, e há pessoas que sobreviveram pouco mas viveram muito. A maioria das pessoas não vivem, apenas existem. Algumas por opção, e a maioria por falta de opção. 
  - Se você colocar a variável ser humano no meio da equação, o resultado sempre será imprevisível.
  - Julgar as pessoas apenas pelas aparências, nem sempre é o melhor caminho.
  - Ter o espírito de uma criança, mas não ser infantil. A vida é muito curta para levar tudo muito a sério.
