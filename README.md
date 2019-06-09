@@ -44,7 +44,7 @@
  - Sempre vai existir alguém melhor ou mais inteligente que você no mundo. Sempre. Compare-se com o você do passado, e não com os outros. Se comparar com os outros é uma das piores coisas que um ser humano pode fazer na vida.
  - Meritocracia é um termo extremamente relativo, e quase sempre, não existe.
  - Burocracia e Empregadores se importam com suas notas. A vida e os clientes não. 
- - Atrás de um grande homem, há sempre uma grande mulher. Como você vai interpretar isso, é responsabilidade sua.
+ - Em um mundo com informação e conhecimento abundante de fácil acesso, a questão não mais "COMO fazer" mas "O QUE fazer".
  - O mundo da voltas. Quem está por cima hoje, pode estar por baixo amanhã.
  - Há pessoas que sobreviveram muito mas viveram pouco, e há pessoas que sobreviveram pouco mas viveram muito. A maioria das pessoas não vivem, apenas existem. Algumas por opção, e a maioria por falta de opção. 
  - Se você colocar a variável ser humano no meio da equação, o resultado sempre será imprevisível.
@@ -63,7 +63,7 @@
  - É muito fácil julgar e desprezar uma pessoa pobre que não teve a mesma sorte, privilégios e oportunidades que você teve, quando você não precisa ficar preocupado aonde você vai morar ou com o que vai comer amanhã.
  - Seres humanos sempre tendem a interpretar o mundo de acordo com as próprias experiências. Pessoas que conseguem se colocar no lugar dos outros são tão raras como político honesto.
  - Desde que um ser humano não prejudique de forma alguma a liberdade e a vida de outro ser humano, o conceito de certo ou errado não existem, tudo é muito relativo. Justiça, ética, virtude e moral não existem, são apenas termos criados pelo próprio ser humano. A natureza e os outros animais não se importam com isso. Durante a vida, todo ser humano é influenciado por bilhões de crenças e dogmas criados por outros seres humanos, e como todos sabem, ninguém é dono da verdade absoluta. 
- - Problemas e conflitos é tão essencial para o ser humano, assim como o conceito de 'fim' é para o universo. Sem eles, ambos não existiriam.
+ - Problemas e conflitos é tão essencial para a espécie homo sapiens, assim como o conceito de 'fim' é para o universo. Sem eles, ambos não existiriam.
  - Livre-Arbítrio é uma ilusão, 99% das coisas que acontecem na vida não somos nós que escolhemos ou controlamos.
  - O mundo e a sociedade não dão a mínima para o quão inteligente, sábio, humilde, bondoso ou virtuoso você seja, eles só se importam com o valor que você agrega a eles. No final da vida, o buraco é o mesmo para todo mundo.
  - Nem todo mundo nasceu para fazer faculdade. 
@@ -426,6 +426,7 @@
  - "Muitas pessoas gastam dinheiro que não tem, para comprar coisas que não precisam, para impressionar pessoas que não gostam."
  - "Acomodação é morte."
  - "Nem tudo o que conta pode ser contado, e nem tudo que pode ser contado conta."
+ - "A questão não é quem você é, mas quem você podera ser."
  - "Não importa quantas batidas seu coração vai dar na sua vida, o que importa é como você vai viver cada batida."
  - "A dor é passageira. A gloria é para sempre."
  - "Todo ser humano tem o direito de ser feliz. Mas cada ser humano é responsável pela própria felicidade."
@@ -464,6 +465,7 @@
  - "Se você colocar o Einstein para jogar basquete com Michael Jordan, o Jordan vai achar que o Einstein é incompetente. Se você colocar o Michael Jordan para fazer física teórica com o Einstein, o Einstein vai achar que o Jordan é incompetente. Nenhum ser humano consegue analisar todas as variáveis de uma situação subjetiva."
  - "Há três caminhos para o fracasso: não ensinar o que se sabe, não praticar o que se ensina, e não perguntar o que se ignora." - São Beda
  - "Quem pergunta, é idiota por cinco minutos. Quem não pergunta, é idiota para sempre." - Wang-Wei
+ - "Atrás de um grande homem, há sempre uma grande mulher. Como você vai interpretar isso, é responsabilidade sua."
  - "O essencial é invisível aos olhos." - O Pequeno Príncipe.
  - "Nunca acredite 100% no que outros seres humanos dizem. Busque informações e tire suas próprias conclusões."
  - "Você é livre para fazer o que quiser. Mas sempre será escravo das consequências."
