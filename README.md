@@ -45,6 +45,7 @@
  - Meritocracia é um termo extremamente relativo, e quase sempre, não existe.
  - Burocracia e Empregadores se importam com suas notas. A vida e os clientes não. 
  - Em um mundo com informação e conhecimento abundante de fácil acesso, a questão não é mais "COMO fazer" mas "O QUE fazer".
+ - As 2 habilidades mais importantes que um ser humano pode ter em pleno século XXI são: aprender a aprender e como lidar com pessoas.
  - O mundo da voltas. Quem está por cima hoje, pode estar por baixo amanhã.
  - Há pessoas que sobreviveram muito mas viveram pouco, e há pessoas que sobreviveram pouco mas viveram muito. A maioria das pessoas não vivem, apenas existem. Algumas por opção, e a maioria por falta de opção. 
  - Se você colocar a variável ser humano no meio da equação, o resultado sempre será imprevisível.
@@ -382,35 +383,23 @@
 - [Quora :muscle:](https://quora.com/)
 - [Akita on Rails :muscle:](http://www.akitaonrails.com/)
 - [Reddit :muscle:](https://www.reddit.com)
-- [Rafael Falcon](https://rafaelfalcon.com.br/)
 - [Hacker News](https://news.ycombinator.com/)
 - [Stalt](https://staltz.com/)
-- [JornadaPeloConhecimento](https://medium.com/petrobras)
 - [Joel Spolsky OnSoftware](https://www.joelonsoftware.com/)
 - [WaitButWhy](https://waitbutwhy.com/)
 - [ThinkWithGoogle](https://www.thinkwithgoogle.com/)
 - [Hacks Mozilla](https://hacks.mozilla.org/)
+- [Luiz Tools](http://www.luiztools.com.br/)
 - [Willian Justen](https://willianjusten.com.br/)
 - [Felipe Fialho](https://www.felipefialho.com/)
 - [VoceNaoETaoEsperto](http://www.vocenaoetaoesperto.com.br/)
-- [Luiz Tools](http://www.luiztools.com.br/)
 - [Henrique Bastos](https://henriquebastos.net)
 - [RockSeat](https://rocketseat.com.br/) 
 - [Umbler Blog](https://blog.umbler.com)
 - [InfoQ](https://www.infoq.com/)
-- [WBruno](http://wbruno.com.br/)
-- [Nateliason](https://www.nateliason.com)
-- [RamonSilva](http://ramonsilva.net/)
-- [O Futuro Das Coisas](https://ofuturodascoisas.com/)
-- [Filipe Deschamps](https://www.filipedeschamps.com.br/)
-- [BugginhoAcademy](https://bugginhoacademy.com.br/blog/)
-- [Gabs Ferreira](http://gabsferreira.com/)
-- [Jaydson Gomes](https://jaydson.com/)
-- [Phil Calcado](http://philcalcado.com/)
-- [VidaDeSuporte](https://vidadesuporte.com.br/)
-- [TiagoGouvea](https://www.tiagogouvea.com.br/)
-- [VidaDeProgramador](https://vidadeprogramador.com.br/)
 - [ProfissionaisTI](https://www.profissionaisti.com.br/)
+- [Gabs Ferreira](http://gabsferreira.com/)
+
 
 ## Always Nice To Remember :smile:
 
@@ -499,7 +488,15 @@
  - [The Ten Commandments of Egoless Programming](https://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/)
  - [What makes a good programmer?](http://www.techfounder.net/2009/07/22/what-makes-a-good-programmer/?subscribe=error#509)
  - [Self-Education: Teach Yourself Anything with the Sandbox Method](https://www.nateliason.com/blog/self-education)
+ - [Stanford Course - Designing Your Life Summary](https://blog.12min.com/designing-your-life-pdf-summary/)
  - [As 36 Estratégias Secretas Chinesas](https://ideiasesquecidas.com/2018/03/23/as-36-estrategias-secretas-chinesas/)
+ - [Efeito Dunning-Kruger](https://pt.wikipedia.org/wiki/Efeito_Dunning-Kruger)
+    - O efeito Dunning-Kruger é o fenômeno pelo qual indivíduos que possuem pouco conhecimento sobre um assunto acreditam saber mais que outros mais bem preparados, fazendo com que tomem decisões erradas e cheguem a resultados indevidos; é a sua incompetência que os restringe da habilidade de reconhecer os próprios erros[1]. Estas pessoas sofrem de superioridade ilusória.
+    - Dunning e Kruger propuseram que, em relação a uma determinada habilidade, as pessoas incompetentes irão:
+       - falhar em reconhecer sua própria falta de habilidade;
+       - falhar em reconhecer as habilidades genuínas em outras pessoas;
+       - falhar em reconhecer a extensão de sua própria incompetência;
+    - "Se você é incompetente, você não consegue saber que é incompetente (...) As habilidades necessárias para fornecer uma resposta correcta são exatamente as habilidades que você precisa ter para ser capaz de reconhecer o que é uma resposta correcta. No raciocínio lógico, na educação dos filhos, na administração, na resolução de problemas, as habilidades que você usa para obter a resposta correta são exactamente as mesmas habilidades que você usa para avaliar a resposta. Portanto, nós demos continuidade a investigações para apurar se a mesma conclusão poderia ser verdadeira noutras áreas. E para nossa surpresa, era bem verdadeira."
  - [The Twelve Factor App - Heroku](https://12factor.net/)
     - A aplicação doze-fatores é uma metodologia para construir softwares-como-serviço.
     - I. Base de Código
@@ -736,7 +733,7 @@
     - [Richard Rytenband](https://www.youtube.com/watch?v=ue-jy3-lUTk)
     - [Bruno Perini](https://www.youtube.com/channel/UCCE-jo1GvBJqyj1b287h7jA)
     - [Clube Do Valor](#)
-    - Juros Compostos
+    - <strong>Juros Compostos</strong>
        - “Os juros compostos é a maior invenção da humanidade, porque permite uma confiável e sistemática acumulação de riqueza.” - Einstein
        - M = Montante Final
        - C = Capital Inicial
@@ -750,14 +747,14 @@
        - M = 5.000 x 1,7958
        - M = 8.979
        - J = 8979 - 5000 = R$ 3979
-    - As Quatro Formas de Ganhar Dinheiro segundo Kiyosaki
+    - <strong>As Quatro Formas de Ganhar Dinheiro segundo Kiyosaki</strong>
        - Ser empregado == dedica seu conhecimento, habilidades e seu tempo para resolver os problemas de alguma empresa;
        - Ser autônomo == dedica seu conhecimento, habilidades e tempo para alguém que se interessa pelo serviço ou criando produtos próprios (livros, cursos online, etc);
        - Ser um investidor == onde você investe o dinheiro, por exemplo, na Bolsa de Valores ou em um fundo de investimento;
        - Ser dono de um negócio == onde você tem uma micro, média, grande empresa, ecommerce, etc.
        - Ativo == Tudo aquilo que gera dinheiro
        - Passivo == Tudo aquilo que tira dinheiro 
-    - Warren Buffet Principles
+    - <strong>Warren Buffet Principles</strong>
        - Regra Número 1: Nunca perca dinheiro
        - Regra Número 2: Nunca esqueça a regra número 1
        - O risco vem de não saber o que você está fazendo.
@@ -772,7 +769,7 @@
        - Se a história passada fosse tudo o que importa no jogo, as pessoas mais ricas seriam os bibliotecários.
        - A maioria das pessoas se interessa por ações quando todo mundo está interessado. O momento de interessar-se é quando ninguém mais se interessa. Não se ganha dinheiro comprando o que é popular.
        - Não ponha dinheiro onde não entende, não aplique em empreedimentos endividados, aplique em coisas simples (pé no chão) mas que nunca deixarão de ser usadas (comida, refrigerante, aparelhos de barbear, cerveja).
-    - Os 12 Axiomas de Zurique
+    - <strong>Os 12 Axiomas de Zurique</strong>
        - 1. Preocupação não é doença, mas sinal de saúde. Se você não está preocupado, não está arriscando o bastante.
        - 2. Realize o lucro sempre cedo demais.
        - 3. Quando o barco começar a afundar, não reze. Abandone-o.
