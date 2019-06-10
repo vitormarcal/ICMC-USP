@@ -737,34 +737,26 @@
     - [Bruno Perini](https://www.youtube.com/channel/UCCE-jo1GvBJqyj1b287h7jA)
     - [Clube Do Valor](#)
     - Juros Compostos
-       ```
-       “Os juros compostos é a maior invenção da humanidade, porque permite uma confiável e sistemática acumulação de riqueza.” - Einstein
-
-       M = Montante Final
-       C = Capital Inicial
-       i = Porcentagem do lucro ao mês/ano
-       n = Tempo de Aplicação (meses/anos)
-       J = Lucro líquido dado pelos juros compostos
-
-       M = C . (1+i)^n
-       J = M - C
-
-       Ex: Investir 5.000 com 0,5% de rendimento ao mês durante 12 meses
-       M = 5.000 x (1,05)^12
-       M = 5.000 x 1,7958
-       M = 8.979
-       J = 8979 - 5000 = R$ 3979
-       ```
+       - “Os juros compostos é a maior invenção da humanidade, porque permite uma confiável e sistemática acumulação de riqueza.” - Einstein
+       - M = Montante Final
+       - C = Capital Inicial
+       - i = Porcentagem do lucro ao mês/ano
+       - n = Tempo de Aplicação (meses/anos)
+       - J = Lucro líquido dado pelos juros compostos
+       - M = C . (1+i)^n
+       - J = M - C
+       - Ex: Investir 5.000 com 0,5% de rendimento ao mês durante 12 meses
+       - M = 5.000 x (1,05)^12
+       - M = 5.000 x 1,7958
+       - M = 8.979
+       - J = 8979 - 5000 = R$ 3979
     - As Quatro Formas de Ganhar Dinheiro segundo Kiyosaki
-       ```
        - Ser empregado == dedica seu conhecimento, habilidades e seu tempo para resolver os problemas de alguma empresa;
        - Ser autônomo == dedica seu conhecimento, habilidades e tempo para alguém que se interessa pelo serviço ou criando produtos próprios (livros, cursos online, etc);
        - Ser um investidor == onde você investe o dinheiro, por exemplo, na Bolsa de Valores ou em um fundo de investimento;
        - Ser dono de um negócio == onde você tem uma micro, média, grande empresa, ecommerce, etc.
-
-       Ativo == Tudo aquilo que gera dinheiro
-       Passivo == Tudo aquilo que tira dinheiro
-       ```
+       - Ativo == Tudo aquilo que gera dinheiro
+       - Passivo == Tudo aquilo que tira dinheiro 
     - Warren Buffet Principles
        - Regra Número 1: Nunca perca dinheiro
        - Regra Número 2: Nunca esqueça a regra número 1
@@ -1189,6 +1181,17 @@
        - Outra coisa papai, eu dormi na rede do Tonho e ele dormiu no chão, pois não havia rede para cada um de nós. Na nossa casa, colocamos nossa empregada para dormir naquele quarto onde guardamos entulho, apesar de termos camas macias e cheirosas sobrando.
        - Conforme o garoto falava, o pai ficava constrangido, enrubescido e envergonhado. O filho, em sua sábia ingenuidade e brilhante desabafo, abraçou o pai e ainda acrescentou: 
        - – Obrigado papai, por ter me mostrado o quanto somos pobres!
+    - <strong>Deus, Porque Eu?</strong>
+       - Arthur Ashe, o lendário jogador de tênis, campeão de Wimbledon, morreu de AIDS, infectado com sangue administrado durante a cirurgia cardíaca que ele sofrera em 1983.
+       - Quando revelou publicamente a doença, recebeu inúmeras cartas de seus fãs, uma das quais perguntou:
+       - Por que Deus permitiu que você tivesse uma doença tão terrível?
+       - Arthur Ashe respondeu:
+       - Muitos anos atrás, cerca de 50 milhões de crianças começaram a jogar tênis, e uma delas era eu. Cinco milhões realmente aprenderam a jogar tênis, 500 mil tornaram-se tenistas profissionais, 50 mil chegaram ao circuito, 5 mil alcançaram o Grandslam, 50 chegaram a Wimbledon, quatro tenistas chegaram à semifinal, dois deles chegaram à final e, novamente, um deles era eu. Quando estava comemorando a vitória, com a taça na mão, não me ocorreu perguntar a Deus "Porque eu ser campeão do mundo?". Então, agora que estou com dor, sofrendo, como posso perguntar a Deus "Por que eu?".
+       - A felicidade te mantém doce, os julgamentos te mantêm forte! As dores te mantêm humano, a falha mantém você humilde!
+       - Mas só a fé te mantém em pé.
+       - Às vezes você não está satisfeito com sua vida, enquanto muitas pessoas neste mundo sonham em poder ter a sua vida.
+       - Uma criança em uma fazenda vê um avião que voa e sonha em voar. Mas o piloto desse avião voa sobre a fazenda e sonha em voltar para casa.
+       - Assim é a vida! Aprecie a sua do jeitinho que ela é.
     - <strong>O Tesouro de Bresa nas Montanhas de Harbatol:smile:</strong>
        - Houve outrora, na Babilônia, um pobre e modesto alfaiate chamado Enedim, homem inteligente e trabalhador, que não perdia a esperança de vir a ser riquíssimo.
        - Como e onde, no entanto, encontrar um tesouro fabuloso e tornar assim, rico e poderoso?
