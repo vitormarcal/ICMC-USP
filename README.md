@@ -44,7 +44,7 @@
  - Sempre vai existir alguém melhor ou mais inteligente que você no mundo. Sempre. Compare-se com o você do passado, e não com os outros. Se comparar com os outros é uma das piores coisas que um ser humano pode fazer na vida.
  - Meritocracia é um termo extremamente relativo, e quase sempre, não existe.
  - Burocracia e Empregadores se importam com suas notas. A vida e os clientes não. 
- - Em um mundo com informação e conhecimento abundante de fácil acesso, a questão não mais "COMO fazer" mas "O QUE fazer".
+ - Em um mundo com informação e conhecimento abundante de fácil acesso, a questão não é mais "COMO fazer" mas "O QUE fazer".
  - O mundo da voltas. Quem está por cima hoje, pode estar por baixo amanhã.
  - Há pessoas que sobreviveram muito mas viveram pouco, e há pessoas que sobreviveram pouco mas viveram muito. A maioria das pessoas não vivem, apenas existem. Algumas por opção, e a maioria por falta de opção. 
  - Se você colocar a variável ser humano no meio da equação, o resultado sempre será imprevisível.
