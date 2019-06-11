@@ -376,6 +376,8 @@
 
 - [Udemy - Courses I'm enrolled](https://www.udemy.com/user/alex-galhardo-vieira/)
 - [Coursera - Learning How to Learn: Powerful Mental Tools to Help You Master Tough Subjects](https://www.coursera.org/learn/learning-how-to-learn)
+- [Stanford - Designing Your Life & Carrer](https://lagunita.stanford.edu/courses/course-v1:Engineering+DYL+Ongoing/course/)
+- [Stanford - A Virtual Crash Course in Design Thinking](https://dschool.stanford.edu/resources/a-virtual-crash-course-in-design-thinking)
 
 ## Blogs
 
@@ -478,6 +480,7 @@
  - [The Invented History of 'The Factory Model of Education'](http://hackeducation.com/2015/04/25/factory-model)
  - [The Humble Programmer by Edsger W. Dijkstra](https://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD340.html)
  - [16 Personalities](https://www.16personalities.com/)
+ - [80000hours.org](https://80000hours.org/)
  - [Educação Clássica e Homeschooling](https://www.youtube.com/watch?v=LjJlus8oC9M)
  - [Principles for Success - Ray Dalio](https://www.principles.com/principles-for-success/)
  - [Write Code Every Day - John Resig](https://johnresig.com/blog/write-code-every-day/)
@@ -488,7 +491,6 @@
  - [The Ten Commandments of Egoless Programming](https://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/)
  - [What makes a good programmer?](http://www.techfounder.net/2009/07/22/what-makes-a-good-programmer/?subscribe=error#509)
  - [Self-Education: Teach Yourself Anything with the Sandbox Method](https://www.nateliason.com/blog/self-education)
- - [Stanford Course - Designing Your Life Summary](https://blog.12min.com/designing-your-life-pdf-summary/)
  - [As 36 Estratégias Secretas Chinesas](https://ideiasesquecidas.com/2018/03/23/as-36-estrategias-secretas-chinesas/)
  - [Efeito Dunning-Kruger](https://pt.wikipedia.org/wiki/Efeito_Dunning-Kruger)
     - O efeito Dunning-Kruger é o fenômeno pelo qual indivíduos que possuem pouco conhecimento sobre um assunto acreditam saber mais que outros mais bem preparados, fazendo com que tomem decisões erradas e cheguem a resultados indevidos; é a sua incompetência que os restringe da habilidade de reconhecer os próprios erros[1]. Estas pessoas sofrem de superioridade ilusória.
@@ -791,6 +793,7 @@
     - [Augusto Ollivieri](https://www.youtube.com/channel/UCfkmlovZdEmMzTsGwatkoIw)
     - [IlustradaMente](https://www.youtube.com/channel/UCNmO5NWNLQkOr76WmHEq-DQ)
     - [PhilosTV](https://philos.tv/)
+    - [The School Of Life](https://www.youtube.com/channel/UC7IcJI8PUf5Z3zKxnZvTBog)
     - [Gilberto de Souza](https://www.youtube.com/channel/UCMMbl7Tt6Zy5Ho3W2bw0BfQ)
     - [Democracia na Teia](https://www.youtube.com/channel/UCvAuRF1LpthT-MNS1qKOzTQ)
     - [The History Channel Brasil](https://www.youtube.com/watch?v=6bvc8TgeGUA)
