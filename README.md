@@ -40,12 +40,15 @@
  - Lembre-se sempre: tudo pode piorar.
  - Estudar assuntos por hobby (como filosofia, psicologia e história) sem pressão de vestibular ou decoreba para fazer prova, além de ser mais eficiente, gera mais interesse pelo assunto.
  - Antes de ter, você precisa ser.
+ - "Não importa o ninho, se o ovo é de águia." - Abraham Lincoln
  - "Todos somos ignorantes. A diferença é que nem todo mundo ignora a mesma coisa." - Albert Einstein.
  - Sempre vai existir alguém melhor ou mais inteligente que você no mundo. Sempre. Compare-se com o você do passado, e não com os outros. Se comparar com os outros é uma das piores coisas que um ser humano pode fazer na vida.
+ - A melhor forma de competição, é competir com você mesmo.
+ - A maior doença que existe na humanidade é a ignorância.
  - Meritocracia é um termo extremamente relativo, e quase sempre, não existe.
  - Burocracia e Empregadores se importam com suas notas. A vida e os clientes não. 
  - Em um mundo com informação e conhecimento abundante de fácil acesso, a questão não é mais "COMO fazer" mas "O QUE fazer".
- - As 2 habilidades mais importantes que um ser humano pode ter em pleno século XXI são: aprender a aprender e como lidar com pessoas.
+ - Aprender a aprender e saber lidar com pessoas são as habilidades mais importantes que um ser humano pode ter.
  - O mundo da voltas. Quem está por cima hoje, pode estar por baixo amanhã.
  - Há pessoas que sobreviveram muito mas viveram pouco, e há pessoas que sobreviveram pouco mas viveram muito. A maioria das pessoas não vivem, apenas existem. Algumas por opção, e a maioria por falta de opção. 
  - Se você colocar a variável ser humano no meio da equação, o resultado sempre será imprevisível.
