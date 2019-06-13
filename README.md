@@ -309,21 +309,24 @@
     - [LGPD - Lei Geral de Proteção de Dados Pessoais](http://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2018/Lei/L13709.htm)
     - [Livro - Fundamentos de Engenharia Reversa - Mente Binária](https://mentebinaria.gitbook.io/engenharia-reversa/antes-de-comecar)
     - [Forum CaveiraTech](https://caveiratech.com/forum/)
+    - [Oauth2](https://oauth.net/2/)
+    - [Practical Cryptography for Developers - Free Book](https://cryptobook.nakov.com/)
  - YouTube
     - [Gabriel Pato](https://www.youtube.com/channel/UC70YG2WHVxlOJRng4v-CIFQ)
     - [CaveiraTech](https://www.youtube.com/user/caveiratech2/playlists)
     - [Curso de Engenharia Reversa Online - Papo Binário](https://www.youtube.com/watch?v=IkUfXfnnKH4&list=PLIfZMtpPYFP6zLKlnyAeWY1I85VpyshAA)
  - Courses 
     - [Fundamentos de Ethical Hacking - Udemy](https://www.udemy.com/fundamentos-de-ethical-hacking/learn/v4/)
-    - [Solyd](https://solyd.com.br)
+    - [Solyd.com.br](https://solyd.com.br)
     - [Técnicas de Invasão](https://tecnicasdeinvasao.com/)
     - [Desenvolimento de Software Seguro - Curso Online Gratuito - ICA Instituto ](https://desenvolvimentoseguro.icainstituto.com.br/)
  - [DAT Protocol](https://www.datprotocol.com/)
     - [DatProject.org](https://datproject.org)
     - [Try Dat](https://try-dat.com/)
  - Database
-    - World's fastest password cracker
+    - World's Fastest Password Cracker
        - [HashCat](https://hashcat.net/hashcat/)
+       - [HashKiller](https://hashkiller.co.uk/md5-decrypter.aspx)
     - Recommended Data Encryption
        - [Argon2](https://github.com/P-H-C/phc-winner-argon2)
        - [PBKDF2](https://en.wikipedia.org/wiki/PBKDF2)
@@ -351,6 +354,7 @@
 	   - Useful CLI Commands
 	      - [$ nmap site_url](https://nmap.org/)
 	      - [$ traceroute site_url](https://www.lifewire.com/traceroute-linux-command-4092586)
+        - $ nmap localhost
 	      - [$ curl site_url](https://curl.haxx.se/)
 	      - [$ whafw00f site_url](https://github.com/EnableSecurity/wafw00f)
 	      - [$ ping site_url](https://www.wikiwand.com/en/Ping)
@@ -660,8 +664,6 @@
 
 ## YouTube #StopWatchingTV
 
- - Documentaries
-    - [remotefirst.com.br](https://www.remotefirst.com.br)
  - Technology
     - [Curso em Video](https://www.youtube.com/user/cursosemvideo)
     - [Fabio Akita](https://www.youtube.com/channel/UCib793mnUOhWymCh2VJKplQ)
@@ -671,6 +673,8 @@
     - [COD3R CURSOS](https://www.youtube.com/channel/UCcMcmtNSSQECjKsJA1XH5MQ/featured)
     - [CodigoFonte TV](https://www.youtube.com/user/codigofontetv)
     - [BrasilJS](https://www.youtube.com/user/BrazilJS)
+    - [RemoteFirst.com.br](https://www.remotefirst.com.br)
+    - [NICbrvideos](https://www.youtube.com/user/NICbrvideos/videos)
     - [FreeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
     - [Papo Binário](https://www.youtube.com/channel/UCuQ8zW9VmVyml7KytSqJDzg)
     - [Baboo](https://www.youtube.com/user/baboo/videos)
