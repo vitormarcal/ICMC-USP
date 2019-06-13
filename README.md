@@ -977,6 +977,17 @@
           - "Artes-marciais são principalmente fonte de auto-conhecimento. Um soco ou um chute não é para arrancar os males do cara a sua frente, mas para arrancá-los seu próprio ego, medo e obstáculos."
        - 10 - COMECE AGIR
           - "Saber não é o suficiente, você tem que aplicar; querer não é o bastante, você tem que fazer."
+    - <strong>Como Aprender Kung Fu 功夫</strong>
+       - 1 - Kung Fu 功夫 não pode ser “ensinado”, apenas aprendido. Como aprender a andar de bicicleta.
+       - 2 - Você aprende Kung Fu 功夫sem perceber que está aprendendo.
+       - 3 - O Kung Fu功夫 é manifestado principalmente nas atividades do cotidiano.
+       - 4 - Todas as pessoas tem condições de desenvolver o Kung Fu 功夫e cada um tem a sua própria maneira de manifestá-lo.
+       - 5 - Para desenvolver o Kung Fu 功夫é preciso aprender a evolui a vontade para melhor avaliar o potencial de uma situação.
+       - 6 - Quando aprendido apropriadamente, o Kung Fu 功夫 aflorará de maneira natural toda vez que for necessário.
+       - 7 - O que caracteriza uma pessoa que manifesta o Kung Fu 功夫 é a capacidade de estar relaxado. Ela está aberta para aquilo que não entende e faz uso dos recursos oferecidos por tudo que está ao redor.
+       - "Kung Fu se aprende sem sabermos que estamos aprendendo. É quando você se dedica à prática, mantém-se estudando e continua a aprender até você atingir um determinado nível onde o que faz é muito simples e tem significado profundo."
+       - "Não pense que o resultado adquirido por outra pessoa terá o mesmo efeito em você. Por isso, não basta ir até um mestre que tenha algo bom para oferecer, adquirir um certo conhecimento técnico e ir embora. Se aprender algo assim, quando precisar empregá-la, não saberá como."
+       - "Para aprender Kung Fu, você precisa senti-lo. É preciso dedicar tempo para estudá-lo. É um processo de convivência com o seu mestre. Para isso, você tem que imergir dentro do processo de aprendizado."
     - <strong>Sun Tzu - A Arte da Guerra</strong>
        - <strong>1 - Alguns exércitos não devem ser enfrentados</strong>
        - <strong>2 - 5 fatores são determinantes para o sucesso</strong>
