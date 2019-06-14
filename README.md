@@ -48,6 +48,7 @@
  - Meritocracia é um termo extremamente relativo, e quase sempre, não existe.
  - Burocracia e Empregadores se importam com suas notas. A vida e os clientes não. 
  - Em um mundo com informação e conhecimento abundante de fácil acesso, a questão não é mais "COMO fazer" mas "O QUE fazer".
+ - Clássicos não são clássicos atoa. Clássicos são eternos. Valorize os clássicos.
  - Aprender a aprender e saber lidar com pessoas são as habilidades mais importantes que um ser humano pode ter.
  - O mundo da voltas. Quem está por cima hoje, pode estar por baixo amanhã.
  - Há pessoas que sobreviveram muito mas viveram pouco, e há pessoas que sobreviveram pouco mas viveram muito. A maioria das pessoas não vivem, apenas existem. Algumas por opção, e a maioria por falta de opção. 
@@ -283,9 +284,8 @@
     - Books
        - [FreeBSD: O Poder dos Servidores em Suas Mãos - 2 Edição](https://www.amazon.com.br/FreeBSD-Poder-Servidores-Suas-M%C3%A3os-ebook/dp/B00FFZOE8Y)
 
-## Windows
+## Microsoft Windows
 
- - Serious? Start using Linux please, much better
  - Sites
     - [Baboo](https://www.baboo.com.br/)
     - [Baboo Cursos](https://www.baboocursos.com.br/)
@@ -332,9 +332,11 @@
        - [PBKDF2](https://en.wikipedia.org/wiki/PBKDF2)
        - [Scrypt](https://en.wikipedia.org/wiki/Scrypt)
        - [BCrypt](https://en.wikipedia.org/wiki/Bcrypt)
-    - NOT RECOMMENDED
+    - NOT RECOMMENDED :skull:
        - [MD5](https://pt.wikipedia.org/wiki/MD5)
-       - [SHA1 | SHA2 | SHA256](https://www.thesslstore.com/blog/difference-sha-1-sha-2-sha-256-hash-algorithms/)
+       - [SHA1](https://www.thesslstore.com/blog/difference-sha-1-sha-2-sha-256-hash-algorithms/)
+       - [SHA2](https://www.thesslstore.com/blog/difference-sha-1-sha-2-sha-256-hash-algorithms/)
+       - [SHA256](https://www.thesslstore.com/blog/difference-sha-1-sha-2-sha-256-hash-algorithms/)
  - Tools
     - Operation Systems
        - [Kali Linux](https://www.kali.org/)
@@ -354,7 +356,7 @@
 	   - Useful CLI Commands
 	      - [$ nmap site_url](https://nmap.org/)
 	      - [$ traceroute site_url](https://www.lifewire.com/traceroute-linux-command-4092586)
-        - $ nmap localhost
+        - [$ nmap localhost](#)
 	      - [$ curl site_url](https://curl.haxx.se/)
 	      - [$ whafw00f site_url](https://github.com/EnableSecurity/wafw00f)
 	      - [$ ping site_url](https://www.wikiwand.com/en/Ping)
