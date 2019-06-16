@@ -46,6 +46,7 @@
  - A melhor forma de competição, é competir com você mesmo.
  - A maior doença que existe na humanidade é a ignorância.
  - Meritocracia é um termo extremamente relativo, e quase sempre, não existe.
+ - Nós seres humanos sempre nos achamos melhores do que os outros em muitos aspectos, até que antes da morte, nós percebemos o quão somos insignificantes.
  - Burocracia e Empregadores se importam com suas notas. A vida e os clientes não. 
  - Em um mundo com informação e conhecimento abundante de fácil acesso, a questão não é mais "COMO fazer" mas "O QUE fazer".
  - Clássicos não são clássicos atoa. Clássicos são eternos. Valorize os clássicos.
@@ -54,7 +55,7 @@
  - Há pessoas que sobreviveram muito mas viveram pouco, e há pessoas que sobreviveram pouco mas viveram muito. A maioria das pessoas não vivem, apenas existem. Algumas por opção, e a maioria por falta de opção. 
  - Se você colocar a variável ser humano no meio da equação, o resultado sempre será imprevisível.
  - Julgar as pessoas apenas pelas aparências, nem sempre é o melhor caminho.
- - Ter um bilhão de perguntas na cabeça e ter consciência que você viverá sua vida toda e não conseguirá responder a maioria delas é bastante sufocante, alguns aprendem a lidar com isso, outras não. 
+ - Ter um bilhão de perguntas na cabeça e ter consciência que você viverá sua vida toda e não conseguirá responder a maioria delas é bastante sufocante, alguns aprendem a lidar com isso, outros não. 
  - Ter o espírito de uma criança, mas não ser infantil. A vida é muito curta para levar tudo muito a sério.
  - Todos nascem sozinhos e morrem sozinhos. Todos nascem pelados e morrem pelados. Solidão é diferente de solitude.
  - Um dia sem aprender algo novo, é um dia perdido.
@@ -101,11 +102,18 @@
      - [x] Monster
      - [x] Vagabond
      - [x] Good Night Punpun
+  - Others
+     - [x] Band of Brothers
+     - [x] Into The Wild
+     - [x] Ricky and Morty
+     - [x] Black Mirror
+     - [x] Dead Poets Society
+     - [x] Cosmos - Carl Sagan & Neil D. Tyson
 
 ## Useful Tools
 
  - Sites
-    - [Jornal Da USP - Melhor jornal online!](https://jornal.usp.br/)
+    - [Jornal Da USP](https://jornal.usp.br/)
  - Dev Jobs
     - [hipsters.job](https://hipsters.jobs/)
     - [Revelo](https://www.revelo.com.br/)
