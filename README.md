@@ -147,7 +147,7 @@
     - [HackerRank](https://www.hackerrank.com/)
     - [Edabit](https://edabit.com)
     - [URI Online Judge](https://www.urionlinejudge.com.br/judge/en/login)
-- KhanAcademy
+- KhanAcademy :heart: :heart: :heart:
    - [Computer Science](https://www.khanacademy.org/computing/computer-science)
    - [Notação assintótica](https://pt.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/asymptotic-notation)
 - Recursion :skull:
