@@ -49,11 +49,12 @@
  - Burocracia e Empregadores se importam com suas notas. A vida e os clientes não. 
  - Em um mundo com informação e conhecimento abundante de fácil acesso, a questão não é mais "COMO fazer" mas "O QUE fazer".
  - Clássicos não são clássicos atoa. Clássicos são eternos. Valorize os clássicos.
- - Aprender a aprender e saber lidar com pessoas são as habilidades mais importantes que um ser humano pode ter.
+ - Aprender a questionar, aprender a aprender e saber lidar com pessoas provavelmente são as melhores habilidades que um ser humano pode desenvolver.
  - O mundo da voltas. Quem está por cima hoje, pode estar por baixo amanhã.
  - Há pessoas que sobreviveram muito mas viveram pouco, e há pessoas que sobreviveram pouco mas viveram muito. A maioria das pessoas não vivem, apenas existem. Algumas por opção, e a maioria por falta de opção. 
  - Se você colocar a variável ser humano no meio da equação, o resultado sempre será imprevisível.
  - Julgar as pessoas apenas pelas aparências, nem sempre é o melhor caminho.
+ - Ter um bilhão de perguntas na cabeça e ter consciência que você viverá sua vida toda e não conseguirá responder a maioria delas é bastante sufocante, alguns aprendem a lidar com isso, outras não. 
  - Ter o espírito de uma criança, mas não ser infantil. A vida é muito curta para levar tudo muito a sério.
  - Todos nascem sozinhos e morrem sozinhos. Todos nascem pelados e morrem pelados. Solidão é diferente de solitude.
  - Um dia sem aprender algo novo, é um dia perdido.
@@ -147,7 +148,7 @@
     - [HackerRank](https://www.hackerrank.com/)
     - [Edabit](https://edabit.com)
     - [URI Online Judge](https://www.urionlinejudge.com.br/judge/en/login)
-- KhanAcademy :heart: :heart: :heart:
+- KhanAcademy :heart: 
    - [Computer Science](https://www.khanacademy.org/computing/computer-science)
    - [Notação assintótica](https://pt.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/asymptotic-notation)
 - Recursion :skull:
@@ -797,6 +798,8 @@
        - 12. Planejamentos a longo prazo geram a perigosa crença de que o futuro está sob controle. É importante jamais levar muito a sério os seus planos a longo prazo, nem os de quem quer que seja.
  - Self Development & Philosophy & Psychology & History & Others
     - [NeuroVox](https://www.youtube.com/user/NeuroVoxConsultoria)
+    - [Canal Nostalgia](https://www.youtube.com/user/fecastanhari)
+    - [Casa do Saber](https://www.youtube.com/channel/UCtvvTFp0XANyllOdmzZr9VQ)
     - [Moporã](https://www.youtube.com/channel/UCZYCNT6OT4_cgt-ldtwGQJw)
     - [Arata Academy](https://www.youtube.com/channel/UCEdgNBcBybRtwv836C8El4g)
     - [MOVA](https://www.youtube.com/channel/UCTw4_Y7XXuorDLN5fdDWeIQ)
@@ -809,7 +812,8 @@
     - [Democracia na Teia](https://www.youtube.com/channel/UCvAuRF1LpthT-MNS1qKOzTQ)
     - [The History Channel Brasil](https://www.youtube.com/watch?v=6bvc8TgeGUA)
     - [Canal do Moscoso](https://www.youtube.com/channel/UChVeSyoB200ALDpnTr1TOrg/videos)
-    - [Canal Nostalgia](https://www.youtube.com/user/fecastanhari)
+    - [Antídoto](https://www.youtube.com/channel/UCMlX_MlK7s53AjQdI7uSiyQ)
+    - [didatics](https://www.youtube.com/channel/UC6Qp0jm83uxJKJEbkafl35g)
     - [MuriloGun](https://www.youtube.com/user/murilogun/videos)
     - [Ler Antes de Morrer](https://www.youtube.com/channel/UCTubbc8ei3JfOBbicSJYPfQ)
     - [Metaforando](https://www.youtube.com/channel/UCh7TUTXojlE8vRtb-EnuDzw)
@@ -820,7 +824,6 @@
     - [NOVA ACRÓPOLE - Escola Internacional de Filosofia](https://www.youtube.com/channel/UCAMO_xP86YB4FSHD1Mi_GpA)
     - [Ivan Maia](https://www.youtube.com/channel/UCV2PX_XxoAr6r8ukV327rtg)
     - [Prazer, Karnal](https://www.youtube.com/channel/UC4O2eKb8vI4VlMeNp90asfg)
-    - [Casa do Saber](https://www.youtube.com/channel/UCtvvTFp0XANyllOdmzZr9VQ)
     - [Saber Filosófico](https://www.youtube.com/channel/UCWdXgfpEIZIGzah9_yCL-Xw)
     - [Seja Uma Pessoa Melhor](https://www.youtube.com/channel/UCbG7_Agdb99rhG9-rhY8iTg/videos)
     - [Jordan Peterson](https://www.youtube.com/user/JordanPetersonVideos)
