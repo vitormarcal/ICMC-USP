@@ -814,6 +814,7 @@
     - [Jacob Petry](https://www.youtube.com/channel/UCv79O7v-AHomNC7MB7cx6BA)
     - [Augusto Ollivieri](https://www.youtube.com/channel/UCfkmlovZdEmMzTsGwatkoIw)
     - [IlustradaMente](https://www.youtube.com/channel/UCNmO5NWNLQkOr76WmHEq-DQ)
+    - [Quebrando a Caixa](https://www.youtube.com/channel/UC-aLWCrfZTK0_P4KRe9dQZw)
     - [PhilosTV](https://philos.tv/)
     - [The School Of Life](https://www.youtube.com/channel/UC7IcJI8PUf5Z3zKxnZvTBog)
     - [Gilberto de Souza](https://www.youtube.com/channel/UCMMbl7Tt6Zy5Ho3W2bw0BfQ)
