@@ -83,6 +83,7 @@
  - Excelentes professores quase sempre são aqueles que incentivam seus alunos a serem melhores do que eles.
  - Se você saiu da universidade com menos dúvidas e perguntas do que quando você entrou, você fez algo errado.
  - Na escola eu sempre fui um sucesso. Na universidade, eu fui um fracasso. Os fracassos me ensinaram mais do que qualquer sucesso que eu tive. E é por causa desses fracassos que eu sou o que sou hoje.
+ - Nenhum ser humano é especial. É só estudar um pouco de Astronomia para entender isso.
  - Não é a faculdade que faz o aluno, é o aluno que faz a faculdade.
 
 ## Recommendations
@@ -103,10 +104,11 @@
      - [x] Vagabond
      - [x] Good Night Punpun
   - Others
-     - [x] Band of Brothers
+     - [x] Band of Brothers HBO
+     - [x] Chernobyl HBO
      - [x] Into The Wild
      - [x] Ricky and Morty
-     - [x] Black Mirror
+     - [x] Black Mirror & Matrix
      - [x] Dead Poets Society
      - [x] Cosmos - Carl Sagan & Neil D. Tyson
 
@@ -252,6 +254,7 @@
 
  - [Linux](https://www.linuxfoundation.org/)
     - Sites
+       - [IEEE.org](https://www.ieee.org/)
        - [Guia Foca](http://www.guiafoca.org/?page_id=51)
        - [SS64 - Commands CLI References](https://ss64.com/)
        - [Kernel.org](https://www.kernel.org/)
@@ -273,7 +276,7 @@
     - Apps for Learn Linux CLI Commands
        - [Linux Command Library](https://play.google.com/store/apps/details?id=com.inspiredandroid.linuxcommandbibliotheca&hl=en&rdid=com.inspiredandroid.linuxcommandbibliotheca)
     - YoTube
-       - [Diolinux](https://www.youtube.com/user/Diolinux)
+       - [Diolinux](https://www.youtube.com/user/Diolinux) :muscle:
        - [Toca do Tux](https://www.youtube.com/channel/UCkATW9o8m4pnXAAmac2o63Q)
        - [Curso de Linux Básico / Certificação LPIC1 - Bóson Treinamentos](https://www.youtube.com/watch?v=u16ZDPcf8Rc&list=PLucm8g_ezqNp92MmkF9p_cj4yhT-fCTl7)
     - Tools
@@ -414,9 +417,8 @@
 - [Luiz Tools](http://www.luiztools.com.br/)
 - [Willian Justen](https://willianjusten.com.br/)
 - [Felipe Fialho](https://www.felipefialho.com/)
-- [VoceNaoETaoEsperto](http://www.vocenaoetaoesperto.com.br/)
 - [Henrique Bastos](https://henriquebastos.net)
-- [RockSeat](https://rocketseat.com.br/) 
+- [RocketSeat](https://rocketseat.com.br/) 
 - [Umbler Blog](https://blog.umbler.com)
 - [InfoQ](https://www.infoq.com/)
 - [ProfissionaisTI](https://www.profissionaisti.com.br/)
@@ -487,7 +489,6 @@
  - "Um rei só é um rei, porque todo seu povo concente com isso."
  - "O povo não deve temer seu governo. O governo deve temer seu povo." - V de Vingança.
  - "Nunca idolatre ou venere outro ser humano."
- - "Nenhum ser humano é especial. É só estudar um pouco de Astronomia para entender isso."
  - "Memento mori - Lembre-se que você e todas as pessoas que você ama e se importa vão morrer algum dia."
 
 ## Nice To Know :muscle:
@@ -678,7 +679,7 @@
 ## YouTube #StopWatchingTV
 
  - Technology
-    - [Curso em Video](https://www.youtube.com/user/cursosemvideo)
+    - [Curso em Video](https://www.youtube.com/user/cursosemvideo) :heart: :muscle:
     - [Fabio Akita](https://www.youtube.com/channel/UCib793mnUOhWymCh2VJKplQ)
     - [EstudoNauta](https://www.youtube.com/channel/UCJcWQ9MgPlHIFMx8uDWEYNg)
     - [Fábrica de Noobs](https://www.youtube.com/channel/UCGObNjkNjo1OUPLlm8BTb3A)
@@ -1116,12 +1117,25 @@
              - Colocar datas realistas
         - Exemplo de meta SMART: Eu vou ler 24 livros de desenvolvimento pessoal nos próximos 12 meses.
         - Um dos maiores segredos para o sucesso é a disciplina, a constância e a paciência.
+    - <strong>A Revolta de Atlas - :muscle: Ayn Rand :muscle:</strong>
+       - “Quer saber se o dia da sociedade ser condenada se aproxima? Observe o dinheiro, ele é o barómetro da virtude de uma sociedade. Quando há comércio não por consentimento, mas por compulsão, quando para produzir é necessário pedir permissão a homens que nada produzem - quando o dinheiro flui para aqueles que não vendem produtos, mas tem influência - quando os homens enriquecem mais pelo suborno e pelos favores do que pelo trabalho, e as leis não protegem quem produz de quem rouba, mas sim quem rouba de quem produz - quando a corrupção é recompensada e a honestidade vira sacrifício - pode ter certeza de que a sociedade está condenada.”
+       - "Ao longo dos séculos, existiram homens que deram os primeiros passos em novos caminhos, armados apenas com sua própria visão."
+       - Não devemos sentir culpa frente a demandas irracionais;
+       - Devemos defender nosso próprio interesse e felicidade, sem nos importarmos com a opinião pública, ainda que resulte em ser mal visto por nos recusarmos a nos sacrificar;
+       - Atacar alguém, não por suas falhas, mas por suas virtudes é o ato mais imoral que alguém pode praticar.
+       - Devo buscar uma carreira de sucesso para fazer dinheiro, ou para ter algo para retribuir à sociedade?
+       - Devo me tornar um médico para ter a obrigação de ajudar aos necessitados, ou porque amo a área e tenho excelentes habilidades para tratar os pacientes dispostos a me pagar?
+       - Devo me sentir orgulhoso pelo dinheiro que ganhei, ou devo me sentir culpado porque outros ganham menos?
+       - Devo aceitar uma moral vinda de uma doutrina religiosa? Ou existem outras maneiras de eu discernir o certo do errado?
+       - “A menor minoria na Terra é o indivíduo. Aqueles que negam os direitos individuais não podem se dizer defensores das minorias.”
+       - "O não pensar é um ato de aniquilamento, um desejo de negar a existência, uma tentativa de apagar a realidade. Porém a existência existe; a realidade não se deixa apagar, mas acaba apagando aquele que deseja apagá-la. Quem se recusa a dizer ‘É’ se recusa a dizer ‘Sou’. Quem não utiliza seu discernimento nega a si próprio. O homem que afirma ‘Quem sou eu para saber?’ está afirmando: ‘Quem sou eu para viver?’"
+       - [Aqui é John Galt falando](https://www.youtube.com/watch?time_continue=15&v=jDxHMno3jAM)
     - <strong>Alice No País Das Maravilhas</strong>
        - “Aonde fica a saída?", Perguntou Alice ao gato que ria. 
        - ”Depende”, respondeu o gato. 
        - ”De quê?”, replicou Alice.
        - ”Depende da onde você quer ir...”
-    - <strong>Os 5 maiores arrependimentos no fim da vida</strong>
+    - <strong>Os 5 maiores arrependimentos no fim da vida :skull:</strong>
        - 1: Eu gostaria de ter tido a coragem de viver a vida que eu queria, não a vida que os outros esperavam que eu vivesse.
        - 2: Eu gostaria de não ter trabalhado tanto. 
        - 3: Eu queria ter tido a coragem de expressar meus sentimentos.
@@ -1215,7 +1229,7 @@
        - Outra coisa papai, eu dormi na rede do Tonho e ele dormiu no chão, pois não havia rede para cada um de nós. Na nossa casa, colocamos nossa empregada para dormir naquele quarto onde guardamos entulho, apesar de termos camas macias e cheirosas sobrando.
        - Conforme o garoto falava, o pai ficava constrangido, enrubescido e envergonhado. O filho, em sua sábia ingenuidade e brilhante desabafo, abraçou o pai e ainda acrescentou: 
        - – Obrigado papai, por ter me mostrado o quanto somos pobres!
-    - <strong>Deus, Porque Eu?</strong>
+    - <strong>Deus, Porque Eu? :smile:</strong>
        - Arthur Ashe, o lendário jogador de tênis, campeão de Wimbledon, morreu de AIDS, infectado com sangue administrado durante a cirurgia cardíaca que ele sofrera em 1983.
        - Quando revelou publicamente a doença, recebeu inúmeras cartas de seus fãs, uma das quais perguntou:
        - Por que Deus permitiu que você tivesse uma doença tão terrível?
@@ -1225,7 +1239,6 @@
        - Mas só a fé te mantém em pé.
        - Às vezes você não está satisfeito com sua vida, enquanto muitas pessoas neste mundo sonham em poder ter a sua vida.
        - Uma criança em uma fazenda vê um avião que voa e sonha em voar. Mas o piloto desse avião voa sobre a fazenda e sonha em voltar para casa.
-       - Assim é a vida! Aprecie a sua do jeitinho que ela é.
     - <strong>O Tesouro de Bresa nas Montanhas de Harbatol:smile:</strong>
        - Houve outrora, na Babilônia, um pobre e modesto alfaiate chamado Enedim, homem inteligente e trabalhador, que não perdia a esperança de vir a ser riquíssimo.
        - Como e onde, no entanto, encontrar um tesouro fabuloso e tornar assim, rico e poderoso?
