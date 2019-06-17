@@ -82,7 +82,8 @@
  - Conhecimento é sobre questionar, e não responder respostas prontas.
  - Excelentes professores quase sempre são aqueles que incentivam seus alunos a serem melhores do que eles.
  - Se você saiu da universidade com menos dúvidas e perguntas do que quando você entrou, você fez algo errado.
- - Na escola eu sempre fui um sucesso. Na universidade, eu fui um fracasso. Os fracassos me ensinaram mais do que qualquer sucesso que eu tive. E é por causa desses fracassos que eu sou o que sou hoje.
+ - Os fracassos me ensinaram mais do que qualquer sucesso que já tive. 
+ - Não adianta ter doutorado e não dar bom dia para o porteiro.
  - Nenhum ser humano é especial. É só estudar um pouco de Astronomia para entender isso.
  - Não é a faculdade que faz o aluno, é o aluno que faz a faculdade.
 
@@ -96,6 +97,7 @@
      - [x] Akira
      - [x] FullMetal Alchemist Brotherhood
      - [x] Steins:Gate
+     - [x] Death Parade
      - [ ] Attack On Titans
      - [ ] Mob Psycho 100
   - Mangas
@@ -825,6 +827,8 @@
     - [Antídoto](https://www.youtube.com/channel/UCMlX_MlK7s53AjQdI7uSiyQ)
     - [didatics](https://www.youtube.com/channel/UC6Qp0jm83uxJKJEbkafl35g)
     - [MuriloGun](https://www.youtube.com/user/murilogun/videos)
+    - [Território Conhecimento](https://www.youtube.com/channel/UCLtgh-Q-yHkYjeiY7NSPieA/featured)
+    - [Quem Somos Nós?](https://www.youtube.com/channel/UCIj7UmUVFTFC9yXNiZoRmEg/featured)
     - [Ler Antes de Morrer](https://www.youtube.com/channel/UCTubbc8ei3JfOBbicSJYPfQ)
     - [Metaforando](https://www.youtube.com/channel/UCh7TUTXojlE8vRtb-EnuDzw)
     - [Canal do Por Quê?](https://www.youtube.com/channel/UCqWMwhpW-rggQZtfNXIqkrw)
