@@ -83,7 +83,8 @@
  - Excelentes professores quase sempre são aqueles que incentivam seus alunos a serem melhores do que eles.
  - Se você saiu da universidade com menos dúvidas e perguntas do que quando você entrou, você fez algo errado.
  - Os fracassos me ensinaram mais do que qualquer sucesso que já tive. 
- - Não existe nenhuma receita de bolo de como viver. Saiba filtrar as informações e tirar suas próprias conclusões de acordo com a sua realidade e o seu contexto.
+ - Nunca idolatre ou venere outro ser humano. Nunca. Ninguém é perfeito, e ninguém deve ser endeusado. Não passamos de matéria orgânica com átomos organizados.
+ - Não existe nenhuma receita de bolo de como viver. Saiba filtrar as informações e tirar suas próprias conclusões de acordo com as ua realidade e o seu contexto.
  - Não adianta ter doutorado e não dar bom dia para o porteiro.
  - Nenhum ser humano é especial. É só estudar um pouco de Astronomia para entender isso.
  - Não é a faculdade que faz o aluno, é o aluno que faz a faculdade.
@@ -491,8 +492,7 @@
  - "Investir em conhecimento sempre rende os melhores juros." - Benjamin Franklin
  - "Se você quiser julgar o caráter de um homem, dê poder a ele." - Abraham Lincoln
  - "Um rei só é um rei, porque todo seu povo concente com isso."
- - "O povo não deve temer seu governo. O governo deve temer seu povo." - V de Vingança.
- - "Nunca idolatre ou venere outro ser humano."
+ - "O povo não deve temer seu governo. O governo deve temer seu povo." - V de Vingança. 
  - "Memento mori - Lembre-se que você e todas as pessoas que você ama e se importa vão morrer algum dia."
 
 ## Nice To Know :muscle:
