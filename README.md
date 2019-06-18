@@ -83,6 +83,7 @@
  - Excelentes professores quase sempre são aqueles que incentivam seus alunos a serem melhores do que eles.
  - Se você saiu da universidade com menos dúvidas e perguntas do que quando você entrou, você fez algo errado.
  - Os fracassos me ensinaram mais do que qualquer sucesso que já tive. 
+ - Não existe nenhuma receita de bolo de como viver. Saiba filtrar as informações e tirar suas próprias conclusões de acordo com a sua realidade e o seu contexto.
  - Não adianta ter doutorado e não dar bom dia para o porteiro.
  - Nenhum ser humano é especial. É só estudar um pouco de Astronomia para entender isso.
  - Não é a faculdade que faz o aluno, é o aluno que faz a faculdade.
@@ -477,6 +478,7 @@
  - "Qual é a pior coisa que poderia acontecer se você fizesse o que você quer fazer?" - Tim Ferris
  - "Sempre que uma porta se fecha, outra se abre."
  - "Os homens perdem a saúde para juntar dinheiro, depois perdem o dinheiro para recuperar a saúde. E por pensarem ansiosamente no futuro esquecem do presente de forma que acabam por não viver nem no presente nem no futuro. Vivem como se nunca fossem morrer... e morrem como se nunca tivessem vivido."
+ - "O homem, que resolve parar até que as coisas melhorem, verificará que aquele que não parou está tão adiante que jamais será alcançado."
  - "Se você colocar o Einstein para jogar basquete com Michael Jordan, o Jordan vai achar que o Einstein é incompetente. Se você colocar o Michael Jordan para fazer física teórica com o Einstein, o Einstein vai achar que o Jordan é incompetente. Nenhum ser humano consegue analisar todas as variáveis de uma situação subjetiva."
  - "Há três caminhos para o fracasso: não ensinar o que se sabe, não praticar o que se ensina, e não perguntar o que se ignora." - São Beda
  - "Quem pergunta, é idiota por cinco minutos. Quem não pergunta, é idiota para sempre." - Wang-Wei
@@ -1169,6 +1171,23 @@
           - 10) OPÇÃO das pessoas realizarem determinada ação em predeterminado tempo em troca de um preço. 
           - 11) SEGURO, caso queira proteger os ativos de seus clientes, você poderá assumir o risco de eventuais eventos negativos que possam ocorrer ao segurados em troca de um pagamento, só pagando o sinistro caso o evento negativo ocorra. 
           - 12) CAPITAL, você poderá investir em outros negócios através do seu CAPITAL, em que você adquirirá parcelas de um negócio. 
+    - <strong>A Escola Da Vida :smile: :heart: </strong>
+       - Um erudito atravessava de barco um rio e, conversando com o barqueiro, perguntou:
+       - Diga-me uma coisa: você sabe botânica?
+       - O barqueiro olhou para o erudito e respondeu:
+       - Não muito, senhor. Não sei que história é essa...
+       - Você não sabe botânica, a ciência que estuda as plantas? Que pena! Você perdeu parte de sua vida !
+       - O barqueiro continua remando. Pergunta novamente o erudito:
+       - Diga-me uma coisa: você sabe astronomia ?
+       - O coitado do caiçara barqueiro, analfabeto, balançou a cabeça e disse :
+       - Não senhor, não sei o que é astronomia.
+       - Astronomia é a ciência que estuda os astros, o espaço, as estrelas. Que pena ! Você perdeu parte da sua vida.
+       - E assim foi perguntando a respeito de cada ciência: astrologia, física, química, e de nada o barqueiro sabia. E o erudito sempre terminava com seu refrão : "Que pena! Você perdeu parte da sua vida...".
+       - De repente, o barco bateu contra uma pedra, rompeu-se e começou a afundar...
+       - E o barqueiro perguntou ao erudito: 
+       - O senhor sabe nadar ?
+       - Não, não sei.
+       - Que pena, o senhor perdeu toda a sua vida !!
     - <strong>Deus Segundo Spinoza :smile:</strong>
        - “Pára de ficar rezando e batendo o peito! O que eu quero que faças é que saias pelo mundo e desfrutes de tua vida. Eu quero que gozes, cantes, te divirtas e que desfrutes de tudo o que Eu fiz para ti.
        - Pára de ir a esses templos lúgubres, obscuros e frios que tu mesmo construíste e que acreditas ser a minha casa. Minha casa está nas montanhas, nos bosques, nos rios, nos lagos, nas praias. Aí é onde Eu vivo e aí expresso meu amor por ti.
@@ -1243,6 +1262,9 @@
        - Mas só a fé te mantém em pé.
        - Às vezes você não está satisfeito com sua vida, enquanto muitas pessoas neste mundo sonham em poder ter a sua vida.
        - Uma criança em uma fazenda vê um avião que voa e sonha em voar. Mas o piloto desse avião voa sobre a fazenda e sonha em voltar para casa.
+    -<strong>A Cruz :smile:</strong>
+       - Um grupo de pessoas caminhava, cada uma carregando uma grande cruz nas costas, rumo a um lugar onde esperavam encontrar alegria e felicidade. Depois de algum tempo de caminhada, todos começaram a sentir o peso da cruz. No meio desse grupo, havia uma pessoa que se julgava mais esperta que todas as outras. Ela percebeu que não havia ninguém liderando o grupo e que as pessoas a seu lado não estavam observando seus atos. Então, resolveu cortar um pedaço de sua cruz, para que a carga ficasse mais leve. Passado algum tempo, a cruz começou a pesar novamente. Como ela havia cortado um pedaço sem ninguém perceber e nada lhe havia acontecido, resolveu cortar mais outro pedaço. Assim, cada vez que sentia o peso da cruz, cortava mais um pedaço, até tê-la transformado numa pequena cruz.
+       - Dias depois, todos chegaram à beira de um enorme precipício. Pular de um lado para o outro seria impossível. Então alguém observou que o comprimento da cruz deles era exatamente do mesmo tamanho de um lado ao outro do precipício. Cada um fez sua ponte, e assim todos chegaram ao lugar dos seus sonhos. Mas aquela pessoa que havia resolvido diminuir o peso — e consequentemente o tamanho da cruz — ficou sem saber o que fazer com a sua pequena cruz.
     - <strong>O Tesouro de Bresa nas Montanhas de Harbatol:smile:</strong>
        - Houve outrora, na Babilônia, um pobre e modesto alfaiate chamado Enedim, homem inteligente e trabalhador, que não perdia a esperança de vir a ser riquíssimo.
        - Como e onde, no entanto, encontrar um tesouro fabuloso e tornar assim, rico e poderoso?
