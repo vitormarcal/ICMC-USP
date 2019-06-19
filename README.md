@@ -74,7 +74,7 @@
  - Desde que um ser humano não prejudique de forma alguma a liberdade e a vida de outro ser humano, o conceito de certo ou errado não existem, tudo é muito relativo. Justiça, ética, virtude e moral não existem, são apenas termos criados pelo próprio ser humano. A natureza e outros animais não se importam com isso. Durante a vida, todo ser humano é influenciado por bilhões de crenças e dogmas criados por outros seres humanos, e como todos sabem, ninguém é dono da verdade absoluta. Tudo pode ser contestado. Tudo pode ser questionado.
  - Problemas e conflitos é tão essencial para a espécie homo sapiens, assim como o conceito de 'fim' é para o universo. Sem eles, ambos não existiriam.
  - Livre-Arbítrio é uma ilusão, 99% das coisas que acontecem na vida não somos nós que escolhemos ou controlamos.
- - O mundo e a sociedade não dão a mínima para o quão inteligente, sábio, humilde, bondoso ou virtuoso você seja, eles só se importam com o valor que você agrega a eles. No final da vida, o buraco é o mesmo para todo mundo.
+ - O mundo e a sociedade não dão a mínima para o quão inteligente, sábio, humilde, bondoso esforçado ou talentoso você seja, eles só se importam com o valor que você agrega a eles. Não acredite em receitas de bolo para o sucesso.
  - Nem todo mundo nasceu para fazer faculdade.
  - Melhor do que passar em qualquer matéria da faculdade, é saber cuidar da própria saúde e saber dar valor para as coisas que realmente importam.
  - Existem bilhões de formas diferentes de viver, refletir e enxergar a vida.
@@ -120,6 +120,7 @@
 
  - Sites
     - [Jornal Da USP](https://jornal.usp.br/)
+    - [Bpiropo](http://www.bpiropo.com.br/es_fpc1.htm)
  - Dev Jobs
     - [hipsters.job](https://hipsters.jobs/)
     - [Revelo](https://www.revelo.com.br/)
@@ -170,30 +171,6 @@
 - Data Structs Visualization
    - [VisualGo](https://visualgo.net/en)
    - [University of San Francisco - CS](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
-- Work Hard, Make Things, Have Fun & Make History :smile: :baby: :heart: 
-   - [RaspberryPi](https://www.raspberrypi.org/homepage-9df4b/)
-      - [Noobs - Beginners should start with NOOBS – New Out Of the Box Software](https://www.raspberrypi.org/downloads/noobs/)
-      - [Lakka](https://www.lakka.tv/)
-      - [RetroPie](https://retropie.org.uk/)
-   - [Embarcados](https://www.embarcados.com.br/)
-   - [Arduino](https://www.arduino.cc/)
-      - [Manual Maker | Manual do Mundo - YouTube PlayList](https://www.youtube.com/watch?v=gcBN4NLqz_U&list=PLYjrJH3e_wDNLUTN32WittrpBxeleEqNp)
-      - [ArduinoCreate Online](https://create.arduino.cc/)
-      - [Brasilino](https://otacilion.github.io/Brasilino/)
-         - Uma biblioteca que permite programar em linguagem Arduino utilizando comandos facilitados em PT-BR.
-   - [MIT Scratch](https://scratch.mit.edu/projects/editor/)
-   - [Pico8](https://www.lexaloffle.com/pico-8.php)
-      - [NerdyTeachers](https://nerdyteachers.com/)
-      - [NerdTeachers YouTube](https://www.youtube.com/channel/UCbMjF_cWciuBUZjILNL1fyA)
-   - [CodeCombat](https://codecombat.com/) 
-   - [Code.org](https://code.org/)
-   - [CodeMonkey](https://www.playcodemonkey.com/)
-   - Cartoons
-      - [MonkeyUser](https://www.monkeyuser.com/)
-      - [VidaDeProgramador](https://vidadeprogramador.com.br/)
-      - [VidaDeHipster](https://www.vidadehipster.com.br/)
-   - <strong>Onde Comprar?</strong>
-      - [FilipeFlop](https://www.filipeflop.com) 
 - Big O Notation :skull: 
    - [bigocheatsheet.com](http://bigocheatsheet.com/)
    - [A coffee-break introduction to time complexity of algorithms](https://dev.to/vickylai/a-coffee-break-introduction-to-time-complexity-of-algorithms-160m?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email)
@@ -253,6 +230,34 @@
    - <strong>Resume</strong>
       - <img src="big-o-names.jpeg" alt="Big(O) Names">
       - <img src="big-o-graphic.jpeg" alt="Big(O) Graphic">
+
+## DO IT YOUSELF - Cultura Maker :baby: :heart: :muscle:
+
+ - Work Hard, Make Things, Have Fun & Make History
+   - [RaspberryPi](https://www.raspberrypi.org/homepage-9df4b/)
+      - [Noobs - Beginners should start with NOOBS – New Out Of the Box Software](https://www.raspberrypi.org/downloads/noobs/)
+      - [Lakka](https://www.lakka.tv/)
+      - [RetroPie](https://retropie.org.uk/)
+   - [Embarcados](https://www.embarcados.com.br/)
+      - [Arduino](https://www.arduino.cc/)
+         - [Manual Maker | Manual do Mundo - YouTube PlayList](https://www.youtube.com/watch?v=gcBN4NLqz_U&list=PLYjrJH3e_wDNLUTN32WittrpBxeleEqNp)
+         - [ArduinoCreate Online](https://create.arduino.cc/)
+         - [Brasilino](https://otacilion.github.io/Brasilino/)
+            - Uma biblioteca que permite programar em linguagem Arduino utilizando comandos facilitados em PT-BR.
+   - [MIT Scratch](https://scratch.mit.edu/projects/editor/)
+   - [Pico8](https://www.lexaloffle.com/pico-8.php)
+      - [NerdyTeachers](https://nerdyteachers.com/)
+      - [NerdTeachers YouTube](https://www.youtube.com/channel/UCbMjF_cWciuBUZjILNL1fyA)
+   - Code Online Having Fun
+      - [CodeCombat](https://codecombat.com/) 
+      - [Code.org](https://code.org/)
+      - [CodeMonkey](https://www.playcodemonkey.com/)
+   - Cartoons
+      - [MonkeyUser](https://www.monkeyuser.com/)
+      - [VidaDeProgramador](https://vidadeprogramador.com.br/)
+      - [VidaDeHipster](https://www.vidadehipster.com.br/)
+   - <strong>Onde Comprar?</strong>
+      - [FilipeFlop](https://www.filipeflop.com) :muscle:
 
 ## [Unix](https://pt.wikipedia.org/wiki/Unix)
 
