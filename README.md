@@ -14,6 +14,10 @@
 - [Cambly](https://www.cambly.com/)
 - [iTalki](https://www.italki.com/)
 - [Google Translate](https://translate.google.com.br)
+   - [x] Friends
+   - [x] Seinfield
+   - [x] How I Met Your Mother
+   - [x] The Big Bang Theory
 
 ## Roadmap Software Engineering
 
@@ -74,9 +78,10 @@
  - Desde que um ser humano não prejudique de forma alguma a liberdade e a vida de outro ser humano, o conceito de certo ou errado não existem, tudo é muito relativo. Justiça, ética, virtude e moral não existem, são apenas termos criados pelo próprio ser humano. A natureza e outros animais não se importam com isso. Durante a vida, todo ser humano é influenciado por bilhões de crenças e dogmas criados por outros seres humanos, e como todos sabem, ninguém é dono da verdade absoluta. Tudo pode ser contestado. Tudo pode ser questionado.
  - Problemas e conflitos é tão essencial para a espécie homo sapiens, assim como o conceito de 'fim' é para o universo. Sem eles, ambos não existiriam.
  - Livre-Arbítrio é uma ilusão, 99% das coisas que acontecem na vida não somos nós que escolhemos ou controlamos.
- - O mundo e a sociedade não dão a mínima para o quão inteligente, sábio, humilde, bondoso esforçado ou talentoso você seja, eles só se importam com o valor que você agrega a eles. Não acredite em receitas de bolo para o sucesso.
+ - O mundo e a sociedade não dão a mínima para o quão bom, inteligente, sábio, humilde, bondoso, esforçado ou talentoso você seja, eles só se importam com o valor que você agrega a eles. Não acredite em receitas de bolo para o sucesso.
  - Nem todo mundo nasceu para fazer faculdade.
  - Melhor do que passar em qualquer matéria da faculdade, é saber cuidar da própria saúde e saber dar valor para as coisas que realmente importam.
+ - Se o serviço é de graça, vocẽ é o produto.
  - Existem bilhões de formas diferentes de viver, refletir e enxergar a vida.
  - A coisa mais fácil da universidade, é entrar nela.
  - Conhecimento é sobre questionar, e não responder respostas prontas.
@@ -84,7 +89,7 @@
  - Se você saiu da universidade com menos dúvidas e perguntas do que quando você entrou, você fez algo errado.
  - Os fracassos me ensinaram mais do que qualquer sucesso que já tive. 
  - Nunca idolatre ou venere outro ser humano. Nunca. Ninguém é perfeito, e ninguém deve ser endeusado. Não passamos de matéria orgânica com átomos organizados.
- - Não existe nenhuma receita de bolo de como viver. Saiba filtrar as informações e tirar suas próprias conclusões de acordo com as ua realidade e o seu contexto.
+ - Não existe nenhuma receita de bolo de como viver. Saiba filtrar as informações e tirar suas próprias conclusões de acordo com a  sua realidade e o seu contexto.
  - Não adianta ter doutorado e não dar bom dia para o porteiro.
  - Nenhum ser humano é especial. É só estudar um pouco de Astronomia para entender isso.
  - Não é a faculdade que faz o aluno, é o aluno que faz a faculdade.
@@ -99,22 +104,23 @@
      - [x] Akira
      - [x] FullMetal Alchemist Brotherhood
      - [x] Steins:Gate
+     - [x] One Punch Man
+     - [x] The Promised Neverland
      - [x] Death Parade
-     - [ ] Attack On Titans
-     - [ ] Mob Psycho 100
+     - [x] Attack On Titans
+     - [x] Mob Psycho 100
   - Mangas
      - [x] Berserk
      - [x] Monster
      - [x] Vagabond
      - [x] Good Night Punpun
   - Others
-     - [x] Band of Brothers HBO
-     - [x] Chernobyl HBO
+     - [x] Band of Brothers & Chernobyl HBO... and GOT of course.
      - [x] Into The Wild
-     - [x] Ricky and Morty
+     - [x] Ricky and Morty & Bojack Horseman & Aggretsuko
      - [x] Black Mirror & Matrix
      - [x] Dead Poets Society
-     - [x] Cosmos - Carl Sagan & Neil D. Tyson
+     - [x] Cosmos - Carl Sagan & Neil D. Tyson 
 
 ## Useful Tools
 
@@ -231,6 +237,7 @@
       - <img src="big-o-names.jpeg" alt="Big(O) Names">
       - <img src="big-o-graphic.jpeg" alt="Big(O) Graphic">
 
+
 ## DO IT YOUSELF - Cultura Maker :baby: :heart: :muscle:
 
  - Work Hard, Make Things, Have Fun & Make History
@@ -258,6 +265,7 @@
       - [VidaDeHipster](https://www.vidadehipster.com.br/)
    - <strong>Onde Comprar?</strong>
       - [FilipeFlop](https://www.filipeflop.com) :muscle:
+
 
 ## [Unix](https://pt.wikipedia.org/wiki/Unix)
 
@@ -296,10 +304,10 @@
        - [WineHQ](https://www.winehq.org/)
        - [Vim Para Noobs](https://woliveiras.com.br/vimparanoobs/)
     - Games
-       - [Lutris.net :video_game:](https://lutris.net/)
-       - [$ sudo apt install zsnes :video_game:](http://www.zsnes.com/)
-       - [$ sudo apt install playonlinux :video_game:](https://www.playonlinux.com/en/)
-    - Operation System
+       - [Lutris :video_game:](https://lutris.net/)
+       - [ZNES](http://www.zsnes.com/)
+       - [PlayOnLinux](https://www.playonlinux.com/en/)
+    - Currently Operation System
        - [<strong>Lubuntu 18.04 LTS (Bionic Beaver) :heart: </strong>](https://lubuntu.net/)
  - FreeBSD
     - Sites
@@ -453,6 +461,7 @@
  - "A dor é passageira. A gloria é para sempre."
  - "Todo ser humano tem o direito de ser feliz. Mas cada ser humano é responsável pela própria felicidade."
  - "Pessoas sábias falam sobre ideias. Pessoas comuns falam sobre coisas. Pessoas medíocres falam sobre pessoas."
+ - "Passáros criados em gaiolas acreditam que voar é uma doença."
  - "Se você não puder ajudar, pelo menos não atrapalhe."
  - "Crianças e jovens não escutam muito o que você diz, mais eles enxergam muito aquilo que você faz. Ensinar pelo exemplo, não pela palavra."
  - "Você pode ter ter 500 colegas e 1000 conhecidos, mas nunca mais do que 2 ou 3 dúzias de amigos."
@@ -502,6 +511,7 @@
 
 ## Nice To Know :muscle:
 
+ - [TIMELAPSE OF THE FUTURE: A Journey to the End of Time (4K)](https://www.youtube.com/watch?v=uD4izuDMUQA)
  - [Getting Real - the smarter, faster, easy way to build a sucesfull web application - BaseCamp](https://basecamp.com/books/getting-real)
  - [Happiness - Steve Cutts](https://www.youtube.com/watch?v=e9dZQelULDk)
  - [Escravos da Tecnologia - Steve Cutts](https://www.youtube.com/watch?v=Qx8JIoNOz0Y)
@@ -564,9 +574,9 @@
 - [BackEnd Br](https://github.com/backend-br)
 - [Comunidades Web](https://github.com/brasil-php/comunidades)
 - [Dev Translate](https://github.com/devtranslate)
-- [CodamosClub](https://www.codamos.club/)
 - [HashNode](https://hashnode.com/)
 - [Dev Newsletters](https://devnewsletters.github.io/)
+- [CodamosClub :girl: :muscle:](https://www.codamos.club/)
 - [Mulheres na Computação :girl: :muscle:](https://mulheresnacomputacao.com/)
 
 ## Podcasts
@@ -835,6 +845,8 @@
     - [didatics](https://www.youtube.com/channel/UC6Qp0jm83uxJKJEbkafl35g)
     - [MuriloGun](https://www.youtube.com/user/murilogun/videos)
     - [Território Conhecimento](https://www.youtube.com/channel/UCLtgh-Q-yHkYjeiY7NSPieA/featured)
+    - [Café Filosófico CPFL](https://www.youtube.com/channel/UCEgITwyUyDiMVBpmDibjP3g)
+    - [Se Liga Nessa História](https://www.youtube.com/channel/UCKUL3EyuAEaJUYH_kib15dg)
     - [Quem Somos Nós?](https://www.youtube.com/channel/UCIj7UmUVFTFC9yXNiZoRmEg/featured)
     - [Ler Antes de Morrer](https://www.youtube.com/channel/UCTubbc8ei3JfOBbicSJYPfQ)
     - [Metaforando](https://www.youtube.com/channel/UCh7TUTXojlE8vRtb-EnuDzw)
