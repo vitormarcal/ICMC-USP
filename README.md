@@ -119,7 +119,7 @@
      - [x] Into The Wild
      - [x] Ricky and Morty & Bojack Horseman & Aggretsuko
      - [x] Black Mirror & Matrix
-     - [x] Dead Poets Society
+     - [x] Dead Poets Society & Fight Club
      - [x] Cosmos - Carl Sagan & Neil D. Tyson 
 
 ## Useful Tools
@@ -380,6 +380,7 @@
        - [Let's Encrypt](https://letsencrypt.org/)
     - Softwares
        - [WireShark](https://www.wireshark.org/)
+       - [AngryIP Scanner](https://angryip.org/)
        - [metasploit](https://www.metasploit.com/)
 	   - DataBases
 	      - [Exploit-DB](https://www.exploit-db.com/)
@@ -532,6 +533,8 @@
  - [What makes a good programmer?](http://www.techfounder.net/2009/07/22/what-makes-a-good-programmer/?subscribe=error#509)
  - [Self-Education: Teach Yourself Anything with the Sandbox Method](https://www.nateliason.com/blog/self-education)
  - [As 36 Estratégias Secretas Chinesas](https://ideiasesquecidas.com/2018/03/23/as-36-estrategias-secretas-chinesas/)
+ - [@coachdefracassos](https://www.instagram.com/coachdefracassos/?hl=pt-br)
+ - [@startupdareal](https://twitter.com/startupdareal)
  - [Efeito Dunning-Kruger](https://pt.wikipedia.org/wiki/Efeito_Dunning-Kruger)
     - O efeito Dunning-Kruger é o fenômeno pelo qual indivíduos que possuem pouco conhecimento sobre um assunto acreditam saber mais que outros mais bem preparados, fazendo com que tomem decisões erradas e cheguem a resultados indevidos; é a sua incompetência que os restringe da habilidade de reconhecer os próprios erros[1]. Estas pessoas sofrem de superioridade ilusória.
     - Dunning e Kruger propuseram que, em relação a uma determinada habilidade, as pessoas incompetentes irão:
@@ -723,7 +726,7 @@
     - [ProgramadorBR](https://www.youtube.com/channel/UCrdgeUeCll2QKmqmihIgKBQ)
     - [Laboratório da Júlia](https://www.youtube.com/channel/UChfu9xWITOvsXYLKm7hieSQ)
     - [Bonieky Lacerda](https://www.youtube.com/channel/UCw9mYSlqKRXI6l4vH-tAYpQ)
-    - [Rodrigo Souza](https://www.youtube.com/channel/UCdHcO3zYXVco91CIAk1u4PA)
+    - [Real Engineering](https://www.youtube.com/channel/UCR1IuLEqb6UEA_zQ81kwXfg)
     - [SoftBlue](https://www.youtube.com/user/softbluecursos)
     - [Computherpile](https://www.youtube.com/user/Computerphile)
     - [A história da Tecnologia - TecMundo](https://www.youtube.com/playlist?list=PL7cCKVGMzqmbyaouQulXxUJLdwW4qBMpp)
@@ -836,6 +839,7 @@
     - [IlustradaMente](https://www.youtube.com/channel/UCNmO5NWNLQkOr76WmHEq-DQ)
     - [Quebrando a Caixa](https://www.youtube.com/channel/UC-aLWCrfZTK0_P4KRe9dQZw)
     - [PhilosTV](https://philos.tv/)
+    - [Wisecrack](https://www.youtube.com/channel/UC6-ymYjG0SU0jUWnWh9ZzEQ)
     - [The School Of Life](https://www.youtube.com/channel/UC7IcJI8PUf5Z3zKxnZvTBog)
     - [Gilberto de Souza](https://www.youtube.com/channel/UCMMbl7Tt6Zy5Ho3W2bw0BfQ)
     - [Democracia na Teia](https://www.youtube.com/channel/UCvAuRF1LpthT-MNS1qKOzTQ)
@@ -843,6 +847,7 @@
     - [Canal do Moscoso](https://www.youtube.com/channel/UChVeSyoB200ALDpnTr1TOrg/videos)
     - [Antídoto](https://www.youtube.com/channel/UCMlX_MlK7s53AjQdI7uSiyQ)
     - [didatics](https://www.youtube.com/channel/UC6Qp0jm83uxJKJEbkafl35g)
+    - [mimimidias](https://www.youtube.com/channel/UCg0CfiR_iKjBOYgeHps17BA)
     - [MuriloGun](https://www.youtube.com/user/murilogun/videos)
     - [Território Conhecimento](https://www.youtube.com/channel/UCLtgh-Q-yHkYjeiY7NSPieA/featured)
     - [Café Filosófico CPFL](https://www.youtube.com/channel/UCEgITwyUyDiMVBpmDibjP3g)
