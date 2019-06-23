@@ -46,16 +46,16 @@
  - Antes de ter, você precisa ser.
  - "Não importa o ninho, se o ovo é de águia." - Abraham Lincoln
  - "Todos somos ignorantes. A diferença é que nem todo mundo ignora a mesma coisa." - Albert Einstein.
+ - Gênios, loucos e crianças sempre possuem algo em comum.
  - Sempre vai existir alguém melhor ou mais inteligente que você no mundo. Sempre. Compare-se com o você do passado, e não com os outros. Se comparar com os outros é uma das piores coisas que um ser humano pode fazer na vida.
  - A melhor forma de competição, é competir com você mesmo.
  - A maior doença que existe na humanidade é a ignorância.
  - Meritocracia é um termo extremamente relativo, e quase sempre, não existe.
- - Nós seres humanos sempre nos achamos melhores do que os outros em muitos aspectos, até que antes da morte, nós percebemos o quão somos insignificantes.
  - Burocracia e Empregadores se importam com suas notas. A vida e os clientes não. 
  - Em um mundo com informação e conhecimento abundante de fácil acesso, a questão não é mais "COMO fazer" mas "O QUE fazer".
  - Clássicos não são clássicos atoa. Clássicos são eternos. Valorize os clássicos.
  - Aprender a questionar, aprender a aprender e saber lidar com pessoas provavelmente são as melhores habilidades que um ser humano pode desenvolver.
- - O mundo da voltas. Quem está por cima hoje, pode estar por baixo amanhã.
+ - O mundo da voltas. Quem está por cima hoje, pode estar por baixo amanhã. Um dia você ajuda, outro dia você precisa ser ajudado.
  - Há pessoas que sobreviveram muito mas viveram pouco, e há pessoas que sobreviveram pouco mas viveram muito. A maioria das pessoas não vivem, apenas existem. Algumas por opção, e a maioria por falta de opção. 
  - Se você colocar a variável ser humano no meio da equação, o resultado sempre será imprevisível.
  - Julgar as pessoas apenas pelas aparências, nem sempre é o melhor caminho.
@@ -70,6 +70,7 @@
  - Dinheiro não é um fim, mas um meio, além de ajudar a potencializar aquilo que nós já somos.
  - Existem bilhões de possibilidades, mas cada ser humano é programado para perceber só alguma delas.
  - É muito fácil julgar o palco das pessoas, quando você não conhece os bastidores delas.
+ - Um rei só é um rei, porque todo seu povo concente com isso. Sem platéia não há espetáculo
  - Se você acha que filosofia é inútil, você ainda não entendeu o que é filosofia.
  - Todo mundo carrega uma cruz na vida.
  - É muito fácil julgar e desprezar uma pessoa pobre que não teve a mesma sorte, privilégios e oportunidades que você teve, quando você não precisa ficar preocupado aonde você vai morar ou com o que vai comer amanhã.
@@ -116,10 +117,10 @@
      - [x] Good Night Punpun
   - Others
      - [x] Band of Brothers & Chernobyl HBO... and GOT of course.
-     - [x] Into The Wild
      - [x] Ricky and Morty & Bojack Horseman & Aggretsuko
      - [x] Black Mirror & Matrix
-     - [x] Dead Poets Society & Fight Club
+     - [x] The Great Dictator & Modern Times - Charles Genius Chaplin
+     - [x] Into The Wild & Dead Poets Society & Fight Club
      - [x] Cosmos - Carl Sagan & Neil D. Tyson 
 
 ## Useful Tools
@@ -251,11 +252,11 @@
          - [ArduinoCreate Online](https://create.arduino.cc/)
          - [Brasilino](https://otacilion.github.io/Brasilino/)
             - Uma biblioteca que permite programar em linguagem Arduino utilizando comandos facilitados em PT-BR.
-   - [MIT Scratch](https://scratch.mit.edu/projects/editor/)
-   - [Pico8](https://www.lexaloffle.com/pico-8.php)
+   - [MIT Scratch](https://scratch.mit.edu/projects/editor/) :video_game:
+   - [Pico8](https://www.lexaloffle.com/pico-8.php) :video_game:
       - [NerdyTeachers](https://nerdyteachers.com/)
       - [NerdTeachers YouTube](https://www.youtube.com/channel/UCbMjF_cWciuBUZjILNL1fyA)
-   - Code Online Having Fun
+   - Code Online Having Fun :video_game:
       - [CodeCombat](https://codecombat.com/) 
       - [Code.org](https://code.org/)
       - [CodeMonkey](https://www.playcodemonkey.com/)
@@ -303,8 +304,8 @@
        - [Etcher - Flash OS images to SD cards & USB drives](https://etcher.io/)
        - [WineHQ](https://www.winehq.org/)
        - [Vim Para Noobs](https://woliveiras.com.br/vimparanoobs/)
-    - Games
-       - [Lutris :video_game:](https://lutris.net/)
+    - Games :video_game:
+       - [Lutris](https://lutris.net/)
        - [ZNES](http://www.zsnes.com/)
        - [PlayOnLinux](https://www.playonlinux.com/en/)
     - Currently Operation System
@@ -481,6 +482,7 @@
  - "Nenhum ser humano consegue mudar outro ser humano. Cada ser humano é responsável pela própria mudança."
  - "O maior sentido da vida é a morte. Tudo se resume a ela. Não existe o conceito de tempo, se não existe fim. O universo como nós conhecemos sem um conceito de 'fim', seria um paradoxo."
  - "O problema do mundo de hoje é que os sábios estão cheio de dúvidas, e os idiotas estão cheio de certezas."
+ - "É melhor lento mais junto, do que rápido e sozinho."
  - "Seres humanos são movidos primeiro pelas emoções depois pela razão. O medo é a emoção primordial. Pessoas que não sentem medo algum, já morreram."
  - "O conhecimento sempre existiu. Basta buscá-lo."
  - "O cerébro humano é a coisa mais complexa que existe no universo. Nunca acredite que você realmente conhece outro ser humano. Se nem o próprio ser humano conhece totalmente a si mesmo, imagine conhecer totalmente o outro."
@@ -506,7 +508,6 @@
  - "Se você acha que investir em educação é caro, espera até conhecer o preço da ignorância." - Derek Bok
  - "Investir em conhecimento sempre rende os melhores juros." - Benjamin Franklin
  - "Se você quiser julgar o caráter de um homem, dê poder a ele." - Abraham Lincoln
- - "Um rei só é um rei, porque todo seu povo concente com isso."
  - "O povo não deve temer seu governo. O governo deve temer seu povo." - V de Vingança. 
  - "Memento mori - Lembre-se que você e todas as pessoas que você ama e se importa vão morrer algum dia."
 
@@ -845,6 +846,8 @@
     - [Democracia na Teia](https://www.youtube.com/channel/UCvAuRF1LpthT-MNS1qKOzTQ)
     - [The History Channel Brasil](https://www.youtube.com/watch?v=6bvc8TgeGUA)
     - [Canal do Moscoso](https://www.youtube.com/channel/UChVeSyoB200ALDpnTr1TOrg/videos)
+    - [Elegante](https://www.youtube.com/channel/UCwqDUiw5ut1d6glseGzH13A)
+    - [reVisão](https://www.youtube.com/channel/UCiNq4OzZBFmlmERJrZdOHig/featured)
     - [Roda Viva](https://www.youtube.com/channel/UCNVsZnDXOM4PodYIEgM2e4w)
     - [Antídoto](https://www.youtube.com/channel/UCMlX_MlK7s53AjQdI7uSiyQ)
     - [didatics](https://www.youtube.com/channel/UC6Qp0jm83uxJKJEbkafl35g)
