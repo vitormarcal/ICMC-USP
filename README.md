@@ -970,6 +970,8 @@
        - "Nunca discutir com idiotas." - respondeu o mestre.
        - "Eu discordo disso." - replicou o aprendiz.
        - "Você está certo." - finalizou o mestre.
+    - <strong>Mario Sergio Cortella</strong>
+       - "O intolerante é, acima de tudo, covarde. Em segundo lugar, ele é tonto. Porque ele é covarde? Porque ele tem tanto medo de ser como é, que a única maneira dele provar que a maneira como ele é a única certa é desprestigiando quem não é como ele. E, por isso, é uma forma de covardia, porque ele supõe que a única maneira dele crescer é se ele abaixar outra pessoa. Isso é coisa de gente pequena, não é coisa de gente grande. Em segundo lugar, ele é tolo. Porque achar que o único modo de ser é como eu sou é não só arrogante, como é uma negação da própria realidade."
     - <strong>O Jeito Harvard de Ser Feliz: 7 Princípios</strong>
        - I – O benefício da felicidade
           - “Quando eu for bem sucedido, eu vou ser feliz.” - ERRADO
