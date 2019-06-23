@@ -827,7 +827,7 @@
        - 10. Fuja da opinião da maioria. Provavelmente está errada.
        - 11. Se não deu certo da primeira vez, esqueça.
        - 12. Planejamentos a longo prazo geram a perigosa crença de que o futuro está sob controle. É importante jamais levar muito a sério os seus planos a longo prazo, nem os de quem quer que seja.
- - Self Development & Philosophy & Psychology & History & Others
+ - Self Development & Philosophy & Psychology & History & Others 🤔
     - [NeuroVox](https://www.youtube.com/user/NeuroVoxConsultoria)
     - [Canal Nostalgia](https://www.youtube.com/user/fecastanhari)
     - [Casa do Saber](https://www.youtube.com/channel/UCtvvTFp0XANyllOdmzZr9VQ)
@@ -845,6 +845,7 @@
     - [Democracia na Teia](https://www.youtube.com/channel/UCvAuRF1LpthT-MNS1qKOzTQ)
     - [The History Channel Brasil](https://www.youtube.com/watch?v=6bvc8TgeGUA)
     - [Canal do Moscoso](https://www.youtube.com/channel/UChVeSyoB200ALDpnTr1TOrg/videos)
+    - [Roda Viva](https://www.youtube.com/channel/UCNVsZnDXOM4PodYIEgM2e4w)
     - [Antídoto](https://www.youtube.com/channel/UCMlX_MlK7s53AjQdI7uSiyQ)
     - [didatics](https://www.youtube.com/channel/UC6Qp0jm83uxJKJEbkafl35g)
     - [mimimidias](https://www.youtube.com/channel/UCg0CfiR_iKjBOYgeHps17BA)
@@ -970,8 +971,12 @@
        - "Nunca discutir com idiotas." - respondeu o mestre.
        - "Eu discordo disso." - replicou o aprendiz.
        - "Você está certo." - finalizou o mestre.
-    - <strong>Mario Sergio Cortella</strong>
+    - <strong>Mario Sergio Cortella 🤔</strong>
        - "O intolerante é, acima de tudo, covarde. Em segundo lugar, ele é tonto. Porque ele é covarde? Porque ele tem tanto medo de ser como é, que a única maneira dele provar que a maneira como ele é a única certa é desprestigiando quem não é como ele. E, por isso, é uma forma de covardia, porque ele supõe que a única maneira dele crescer é se ele abaixar outra pessoa. Isso é coisa de gente pequena, não é coisa de gente grande. Em segundo lugar, ele é tolo. Porque achar que o único modo de ser é como eu sou é não só arrogante, como é uma negação da própria realidade."
+    - <strong>Clóvis de Barros Filho 🤔</strong>
+       - "O lixo da felicidade está na pretensão ilusória, mas a outra metade dela é linda: é a alegria que você não quer que acabe."
+    - <strong>Luis Felipe Pondé 🤔</strong>
+       - "O homem é um tipo de animal que carrega o cadáver nas costas a vida inteira, porque sabe mais do que deve, e menos do que precisa."
     - <strong>O Jeito Harvard de Ser Feliz: 7 Princípios</strong>
        - I – O benefício da felicidade
           - “Quando eu for bem sucedido, eu vou ser feliz.” - ERRADO
