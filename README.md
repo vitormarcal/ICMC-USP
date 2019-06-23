@@ -854,6 +854,7 @@
     - [Café Filosófico CPFL](https://www.youtube.com/channel/UCEgITwyUyDiMVBpmDibjP3g)
     - [Se Liga Nessa História](https://www.youtube.com/channel/UCKUL3EyuAEaJUYH_kib15dg)
     - [Quem Somos Nós?](https://www.youtube.com/channel/UCIj7UmUVFTFC9yXNiZoRmEg/featured)
+    - [Provocações](https://www.youtube.com/channel/UCKdVW7Np-9l3CM5daYcGEAw)
     - [Ler Antes de Morrer](https://www.youtube.com/channel/UCTubbc8ei3JfOBbicSJYPfQ)
     - [Metaforando](https://www.youtube.com/channel/UCh7TUTXojlE8vRtb-EnuDzw)
     - [Canal do Por Quê?](https://www.youtube.com/channel/UCqWMwhpW-rggQZtfNXIqkrw)
