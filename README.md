@@ -239,7 +239,7 @@
       - <img src="big-o-graphic.jpeg" alt="Big(O) Graphic">
 
 
-## DO IT YOUSELF - Cultura Maker :baby: :heart: :muscle:
+## DO IT YOURSELF - Cultura Maker :baby: :heart: :muscle:
 
  - Work Hard, Make Things, Have Fun & Make History
    - [RaspberryPi](https://www.raspberrypi.org/homepage-9df4b/)
