@@ -18,6 +18,7 @@
    - [x] Seinfield
    - [x] How I Met Your Mother
    - [x] The Big Bang Theory
+   - [x] LOST
 
 ## Roadmap Software Engineering
 
@@ -83,6 +84,8 @@
  - Nem todo mundo nasceu para fazer faculdade.
  - Melhor do que passar em qualquer matéria da faculdade, é saber cuidar da própria saúde e saber dar valor para as coisas que realmente importam.
  - Se o serviço é de graça, vocẽ é o produto.
+ - Nunca compre uma vara de pescar, de quem nunca pescou um peixe.
+ - Primeiro seja realista, depois otimista.
  - Existem bilhões de formas diferentes de viver, refletir e enxergar a vida.
  - A coisa mais fácil da universidade, é entrar nela.
  - Conhecimento é sobre questionar, e não responder respostas prontas.
@@ -135,6 +138,7 @@
     - [GeekHunter](https://www.geekhunter.com.br/)
  - [StackOverFlow](https://stackoverflow.com/)
     - [Insights StackOverFlow](https://insights.stackoverflow.com/)
+    - [Jobs](https://stackoverflow.com/jobs)
     - [Trends StackOverFlow](https://insights.stackoverflow.com/trends?tags=r%2Cstatistics)
  - [LastPass](https://www.lastpass.com/pt)
     - Software to save, create and remember all your passwords 
@@ -142,17 +146,19 @@
     - How the websites were in the past
  - [12minutos](https://12min.com/br)
     - Books resume
+ - [Ngrok](https://ngrok.com/)
+    - Secure introspectable tunnels to localhost webhook development tool and debugging tool
  - [Cheatsheet do git-flow](https://danielkummer.github.io/git-flow-cheatsheet/index.pt_BR.html)
     - Fast reference to git-flow
  - [SubmarineCableMap](https://www.submarinecablemap.com/)
     - Internet submarine cables around the world
- - Fast Ruby on Rails MVP
+ - [Fast Ruby on Rails Web MVP](https://guides.rubyonrails.org/getting_started.html)
     - $ sudo apt update
     - $ sudo apt install ruby-full
     - $ ruby --version
     - $ gem install rails
     - $ rails --version
-    - [$ rails new blog](https://guides.rubyonrails.org/getting_started.html)
+    - $ rails new blog
     - $ cd blog
     - $ bin/rails server
 
@@ -510,6 +516,7 @@
  - "Se você quiser julgar o caráter de um homem, dê poder a ele." - Abraham Lincoln
  - "O povo não deve temer seu governo. O governo deve temer seu povo." - V de Vingança. 
  - "Memento mori - Lembre-se que você e todas as pessoas que você ama e se importa vão morrer algum dia."
+ - "LIBERDADE = RESPONSABILIDADE"
 
 ## Nice To Know :muscle:
 
@@ -534,8 +541,6 @@
  - [What makes a good programmer?](http://www.techfounder.net/2009/07/22/what-makes-a-good-programmer/?subscribe=error#509)
  - [Self-Education: Teach Yourself Anything with the Sandbox Method](https://www.nateliason.com/blog/self-education)
  - [As 36 Estratégias Secretas Chinesas](https://ideiasesquecidas.com/2018/03/23/as-36-estrategias-secretas-chinesas/)
- - [@coachdefracassos](https://www.instagram.com/coachdefracassos/?hl=pt-br)
- - [@startupdareal](https://twitter.com/startupdareal)
  - [Efeito Dunning-Kruger](https://pt.wikipedia.org/wiki/Efeito_Dunning-Kruger)
     - O efeito Dunning-Kruger é o fenômeno pelo qual indivíduos que possuem pouco conhecimento sobre um assunto acreditam saber mais que outros mais bem preparados, fazendo com que tomem decisões erradas e cheguem a resultados indevidos; é a sua incompetência que os restringe da habilidade de reconhecer os próprios erros[1]. Estas pessoas sofrem de superioridade ilusória.
     - Dunning e Kruger propuseram que, em relação a uma determinada habilidade, as pessoas incompetentes irão:
@@ -660,6 +665,8 @@
 
 ## Bussiness
 
+ - [@coachdefracassos](https://www.instagram.com/coachdefracassos/?hl=pt-br)
+ - [@startupdareal](https://twitter.com/startupdareal)
  - <strong>"As pessoas não compram o que você faz, elas compram o por que você faz."</strong> – Simon Sinek
  - <img src="circulo-dourado.png" alt="Circulo Dourado">
 
