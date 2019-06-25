@@ -38,12 +38,12 @@
  - Segundo: quanto mais eu estudo e aprendo, menos eu sei.
  - Existem gênios sem educação formal e idiotas com doutorado.
  - Existem graduados sem emprego, e pessoas com ensino fundamental milionários.
- - A vida sempre foi, é, e será extremamente injusta. Aprenda a lidar com isso.
+ - A vida sempre foi, é, e será extremamente injusta. Todo mundo carrega uma cruz na vida. Aprenda a lidar com isso.
  - Geralmente, pessoas muito inteligentes estão dispostas a ouvir opiniões contrárias a dela, refletir e mudar sua opinião. Se você quer saber se uma pessoa é inteligente ou não, provavelmente isso já é um bom começo.
  - Há alunos gênios que ganharão prêmios Nobel. Há excelentes alunos que serão grandes mestres na universidade. Há ótimos alunos que serão grandes profissionais. Há bons alunos que querem ter um bom emprego e qualidade de vida. E há rebeldes que querem ser donos do próprio negócio. Cada aluno estuda com um objetivo diferente. 
  - Quanto mais eu estudo assuntos do meu interesse, mais tesão eu tenho pela vida.
  - Lembre-se sempre: tudo pode piorar.
- - Estudar assuntos por hobby (como filosofia, psicologia e história) sem pressão de vestibular ou decoreba para fazer prova, além de ser mais eficiente, gera mais interesse pelo assunto.
+ - Estudar assuntos por hobby (como filosofia, psicologia, economia, história, neurociência, etc) sem pressão de vestibular ou decoreba para fazer prova, além de ser mais eficiente, gera mais interesse pelo assunto.
  - Antes de ter, você precisa ser.
  - "Não importa o ninho, se o ovo é de águia." - Abraham Lincoln
  - "Todos somos ignorantes. A diferença é que nem todo mundo ignora a mesma coisa." - Albert Einstein.
@@ -71,9 +71,8 @@
  - Dinheiro não é um fim, mas um meio, além de ajudar a potencializar aquilo que nós já somos.
  - Existem bilhões de possibilidades, mas cada ser humano é programado para perceber só alguma delas.
  - É muito fácil julgar o palco das pessoas, quando você não conhece os bastidores delas.
- - Um rei só é um rei, porque todo seu povo concente com isso. Sem platéia não há espetáculo
+ - Um rei só é um rei, porque todo seu povo concente com isso. Sem platéia não há espetáculo.
  - Se você acha que filosofia é inútil, você ainda não entendeu o que é filosofia.
- - Todo mundo carrega uma cruz na vida.
  - É muito fácil julgar e desprezar uma pessoa pobre que não teve a mesma sorte, privilégios e oportunidades que você teve, quando você não precisa ficar preocupado aonde você vai morar ou com o que vai comer amanhã.
  - Se você não quebrar algumas regras durante a vida, você se arrependerá no final dela.
  - Seres humanos sempre tendem a interpretar o mundo de acordo com as próprias experiências. Pessoas que conseguem se colocar no lugar dos outros são tão raras como político honesto.
@@ -395,7 +394,7 @@
 	   - Useful CLI Commands
 	      - [$ nmap site_url](https://nmap.org/)
 	      - [$ traceroute site_url](https://www.lifewire.com/traceroute-linux-command-4092586)
-        - [$ nmap localhost](#)
+        - [$ nmap localhost](https://nmap.org/)
 	      - [$ curl site_url](https://curl.haxx.se/)
 	      - [$ whafw00f site_url](https://github.com/EnableSecurity/wafw00f)
 	      - [$ ping site_url](https://www.wikiwand.com/en/Ping)
