@@ -43,7 +43,7 @@
  - Há alunos gênios que ganharão prêmios Nobel. Há excelentes alunos que serão grandes mestres na universidade. Há ótimos alunos que serão grandes profissionais. Há bons alunos que querem ter um bom emprego e qualidade de vida. E há rebeldes que querem ser donos do próprio negócio. Cada aluno estuda com um objetivo diferente. 
  - Quanto mais eu estudo assuntos do meu interesse, mais tesão eu tenho pela vida.
  - Lembre-se sempre: tudo pode piorar.
- - Estudar assuntos por hobby (como filosofia, psicologia, economia, história, neurociência, etc) sem pressão de vestibular ou decoreba para fazer prova, além de ser mais eficiente, gera mais interesse pelo assunto.
+ - Estudar assuntos por hobby (como filosofia, psicologia, psicanálise, economia, história, neurociência, etc) sem pressão de vestibular ou decoreba para fazer prova, além de ser mais eficiente, gera mais interesse pelo assunto.
  - Antes de ter, você precisa ser.
  - "Não importa o ninho, se o ovo é de águia." - Abraham Lincoln
  - "Todos somos ignorantes. A diferença é que nem todo mundo ignora a mesma coisa." - Albert Einstein.
@@ -1361,5 +1361,13 @@
 
 <p align="center">
   "<strong>I... a universe of atoms, an atom in the universe."</strong><br><br> - Richard Feynman
+    <br>
+  </p>
+
+
+<br><br>
+
+<p align="center">
+  <strong>SAPERE AUDE</strong><br><br>
     <br>
   </p>
