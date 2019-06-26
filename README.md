@@ -14,12 +14,12 @@
 - [Cambly](https://www.cambly.com/)
 - [iTalki](https://www.italki.com/)
 - [Google Translate](https://translate.google.com.br)
-   - [x] Friends
    - [x] Seinfield
+   - [x] Friends
+   - [x] LOST
    - [x] How I Met Your Mother
    - [x] The Big Bang Theory
-   - [x] LOST
-
+   
 ## Roadmap Software Engineering
 
 - [<strong>Teach Yourself Programming in Ten Years - Peter Norvig</strong>](http://norvig.com/21-days.html)
