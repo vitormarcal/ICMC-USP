@@ -127,6 +127,7 @@
 
 ## Useful Tools
 
+ - [EmojiPedia.org](https://emojipedia.org/search/?q=talks)
  - Sites
     - [Jornal Da USP](https://jornal.usp.br/)
     - [Bpiropo](http://www.bpiropo.com.br/es_fpc1.htm)
@@ -415,7 +416,7 @@
  
  - Sites
     - [OpenSource.org](https://opensource.org/)
-    - [OpenSource.Guide](https://opensource.guide/)
+    - [OpenSource.guide](https://opensource.guide/)
     - [Creative Commons](https://creativecommons.org/)
     - [Scrum Poker Online](https://scrumpoker.online/)
 
@@ -489,6 +490,7 @@
  - "O problema do mundo de hoje é que os sábios estão cheio de dúvidas, e os idiotas estão cheio de certezas."
  - "É melhor lento mais junto, do que rápido e sozinho."
  - "Seres humanos são movidos primeiro pelas emoções depois pela razão. O medo é a emoção primordial. Pessoas que não sentem medo algum, já morreram."
+ - "Quando alguém pergunta a um autor o que este quis dizer, é porque um dos dois é burro." - Mario Quintana
  - "O conhecimento sempre existiu. Basta buscá-lo."
  - "O cerébro humano é a coisa mais complexa que existe no universo. Nunca acredite que você realmente conhece outro ser humano. Se nem o próprio ser humano conhece totalmente a si mesmo, imagine conhecer totalmente o outro."
  - "Você precisar enxergar todo o macro, para entender muito bem o micro."
@@ -666,8 +668,10 @@
 
  - [@coachdefracassos](https://www.instagram.com/coachdefracassos/?hl=pt-br)
  - [@startupdareal](https://twitter.com/startupdareal)
+ - “Não faz sentido contratar pessoas inteligentes e dizer a elas o que elas devem fazer; nós contratamos pessoas inteligentes para que elas possam nos dizer o que fazer”. - Steve Jobs
  - <strong>"As pessoas não compram o que você faz, elas compram o por que você faz."</strong> – Simon Sinek
  - <img src="circulo-dourado.png" alt="Circulo Dourado">
+ - 
 
 ## Software Engineering Principles
 
@@ -707,7 +711,7 @@
 
 ## YouTube #StopWatchingTV
 
- - Technology
+ - Technology 🤖
     - [Curso em Video](https://www.youtube.com/user/cursosemvideo) :heart: :muscle:
     - [Fabio Akita](https://www.youtube.com/channel/UCib793mnUOhWymCh2VJKplQ)
     - [EstudoNauta](https://www.youtube.com/channel/UCJcWQ9MgPlHIFMx8uDWEYNg)
@@ -740,7 +744,7 @@
     - [Mayuko](https://www.youtube.com/user/hellomayuko/videos)
     - [Computer Science - CrashCourse](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
     - [Tecnologias do Futuro - The Enemy](https://www.youtube.com/watch?v=TLeTxzWbak8&list=PLTFO-hPawXIEYU16QavOFJvCFuruFq1Ps)
- - Talks
+ - Talks 💭
     - [Alura Cursos Online](https://www.youtube.com/user/aluracursosonline/videos)
     - [Tedx Talks](https://www.youtube.com/channel/UCsT0YIqwnpJCM-mx7-gSA4Q)
     - [iMasters](https://www.youtube.com/user/imasters)
@@ -750,7 +754,7 @@
     - [Locaweb](https://www.youtube.com/channel/UCqHIy-SOkAgNU3b-PRUL8qA)
     - [Pagar.me Talks](https://www.youtube.com/channel/UCNhSCufrcOMeFvzEM7tt9Lw)
     - [Endeavor Brasil](https://www.youtube.com/user/endeavorbrasil/videos)
- - Science
+ - Science 🔬
     - [Nerdologia](https://www.youtube.com/channel/UClu474HMt895mVxZdlIHXEA)
     - [SpaceToday](https://www.youtube.com/channel/UC_Fk7hHbl7vv_7K8tYqJd5A)
     - [PeixeBabel](https://www.youtube.com/channel/UCqB90BBr6eNRaJl-kl30Xxw)
@@ -758,6 +762,7 @@
     - [Canal do Pirula](https://www.youtube.com/user/Pirulla25)
     - [Kurzgesagt – In a Nutshell](https://www.youtube.com/user/Kurzgesagt)
     - [Vsauce](https://www.youtube.com/user/Vsauce)
+    - [Physics Girl](https://www.youtube.com/channel/UC7DdEm33SyaTDtWYGO2CwdA)
     - [Science Vlogs Brasil](https://www.youtube.com/channel/UCqiD87j08pe5NYPZ-ncZw2w)
     - [PBS Space Time ](https://www.youtube.com/channel/UC7_gcs09iThXybpVgjHZ_7g/about)
     - [Ponto em Comum](https://www.youtube.com/channel/UCGo3vjM2Ll3XujL-zYT5SMg)
@@ -774,7 +779,7 @@
     - [MathGurl](https://www.youtube.com/channel/UC5RV_s1Jh-jQI4HfexEIb2Q)
     - [A Matemaníaca por Julia Jaccoud](https://www.youtube.com/channel/UCz4Zuqtj9fokXH68gZJmCdA)
     - [OrigensNT](https://www.youtube.com/watch?v=HiNR74zi8qQ&list=PLUBR4s0w2cG1kyI2MDBJV0J3B5HuJoB7g)
- - $ Money $
+ - Money 💵
     - O que a escola deveria estar ensinando, mas não ensina. Lamentável.
     - [Me Poupe](https://www.youtube.com/channel/UC8mDF5mWNGE-Kpfcvnn0bUg)
     - [Gustavo Cerbasi](https://www.youtube.com/channel/UC_mSfchV-fgpPy-vuwML8_A)
@@ -807,6 +812,9 @@
        - Ativo == Tudo aquilo que gera dinheiro
        - Passivo == Tudo aquilo que tira dinheiro 
     - <strong>Warren Buffet Principles</strong>
+       - Warren Buffet diz que procuramos, em geral, três coisas em uma pessoa: a inteligência, a energia e integridade. E se ela não têm essa última coisa, a integridade, não precisamos nos preocupar com as outras duas.
+       - Com ou sem integridade, é mais fácil se livrar de uma pessoa que não é inteligente, do que uma pessoa inteligente.
+       - Simplificando as coisas (e removendo a integridade dessa equação) teremos 4 combinações possíveis: estúpidos e trabalhadores, estúpidos e preguiçosos, inteligentes e trabalhadoras e inteligentes e preguiçosas.
        - Regra Número 1: Nunca perca dinheiro
        - Regra Número 2: Nunca esqueça a regra número 1
        - O risco vem de não saber o que você está fazendo.

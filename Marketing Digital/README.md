@@ -415,8 +415,3 @@ Adicione parâmetros a URLs para identificar as campanhas que direcionam tráfeg
     - [OpinionBox](https://www.opinionbox.com)
  
 
-<br><br>
-<p align="center">
- <strong>"Quem pensa pouco, erra muito."</strong> <br><br>- Leonardo Da Vinci
-    <br>
-  </p>
