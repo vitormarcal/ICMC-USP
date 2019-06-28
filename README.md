@@ -57,6 +57,7 @@
  - Clássicos não são clássicos atoa. Clássicos são eternos. Valorize os clássicos.
  - Aprender a questionar, aprender a aprender e saber lidar com pessoas provavelmente são as melhores habilidades que um ser humano pode desenvolver.
  - O mundo da voltas. Quem está por cima hoje, pode estar por baixo amanhã. Um dia você ajuda, outro dia você precisa ser ajudado.
+ - Quanto mais eu estudo tecnologia, mais tesão eu tenho por tecnologia.
  - Há pessoas que sobreviveram muito mas viveram pouco, e há pessoas que sobreviveram pouco mas viveram muito. A maioria das pessoas não vivem, apenas existem. Algumas por opção, e a maioria por falta de opção. 
  - Se você colocar a variável ser humano no meio da equação, o resultado sempre será imprevisível.
  - Julgar as pessoas apenas pelas aparências, nem sempre é o melhor caminho.
@@ -274,6 +275,8 @@
       - [VidaDeHipster](https://www.vidadehipster.com.br/)
    - <strong>Onde Comprar?</strong>
       - [FilipeFlop](https://www.filipeflop.com) :muscle:
+      - [Robocore](https://www.robocore.net)
+      - [VidaDeSilicio](https://www.vidadesilicio.com.br/)
 
 
 ## [Unix](https://pt.wikipedia.org/wiki/Unix)
@@ -726,11 +729,13 @@
     - [Brincando com Ideias](https://www.youtube.com/channel/UCcGk83PAQ5aGR7IVlD_cBaw)
     - [O Universo da Programação](https://www.youtube.com/channel/UCWrqsnPLl6aRX0ECUmPaZEw)
     - [UNIVESPTV](https://www.youtube.com/user/univesptv/playlists)
+    - [ExplainingComputers](https://www.youtube.com/user/explainingcomputers)
     - [Engenharia Reversa](https://www.youtube.com/channel/UCagV1LuB6C52fFtZwVywZYg)
     - [TheHardwareShow](https://www.youtube.com/channel/UCiXDLhXSFZdnu1OWxwGvPTw)
     - [DevNaEstrada](https://www.youtube.com/channel/UCtIygB7LtILSFWR0kxtZC-A/videos)
     - [RocketSeat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg/videos)
     - [Bóson Treinamentos](https://www.youtube.com/user/bosontreinamentos)
+    - [Leandro Fellipe](https://www.youtube.com/user/LeandroFelipe145/featured)
     - [ProgramadorBR](https://www.youtube.com/channel/UCrdgeUeCll2QKmqmihIgKBQ)
     - [Laboratório da Júlia](https://www.youtube.com/channel/UChfu9xWITOvsXYLKm7hieSQ)
     - [Bonieky Lacerda](https://www.youtube.com/channel/UCw9mYSlqKRXI6l4vH-tAYpQ)
