@@ -250,6 +250,7 @@
  - Work Hard, Make Things, Have Fun & Make History
    - [RaspberryPi](https://www.raspberrypi.org/homepage-9df4b/)
       - [Noobs - Beginners should start with NOOBS – New Out Of the Box Software](https://www.raspberrypi.org/downloads/noobs/)
+      - [MagPi Ebooks](https://www.raspberrypi.org/magpi-issues/)
       - [Lakka](https://www.lakka.tv/)
       - [RetroPie](https://retropie.org.uk/)
    - [Embarcados](https://www.embarcados.com.br/)
@@ -332,13 +333,6 @@
     - [Cmder](http://cmder.net/)
     - [Rufus.ie for Windows](https://rufus.ie)
     - [Xorris Wifi Inspector](https://www.riverbed.com/products/xirrus/inspector.html)
-
-## Hardware
-
- - Sites
-    - [ClubeDoHardware](https://www.clubedohardware.com.br/)
- - Books
-    - [Hardware Curso Completo 4 Edição - Gabriel Torres](https://www.clubedohardware.com.br/livros/esgotados/hardware-curso-completo-4%C2%AA-edi%C3%A7%C3%A3o-2001-r10/)
 
 ## Security 
 
@@ -673,7 +667,6 @@
  - “Não faz sentido contratar pessoas inteligentes e dizer a elas o que elas devem fazer; nós contratamos pessoas inteligentes para que elas possam nos dizer o que fazer”. - Steve Jobs
  - <strong>"As pessoas não compram o que você faz, elas compram o por que você faz."</strong> – Simon Sinek
  - <img src="circulo-dourado.png" alt="Circulo Dourado">
- - 
 
 ## Software Engineering Principles
 
@@ -1177,9 +1170,9 @@
              - Colocar datas realistas
         - Exemplo de meta SMART: Eu vou ler 24 livros de desenvolvimento pessoal nos próximos 12 meses.
         - Um dos maiores segredos para o sucesso é a disciplina, a constância e a paciência.
-    - <strong>Poema: Mude de Edson Marques</strong>
-       - Mas comece devagar, porque a direção 
-       - é mais importante que a velocidade. 
+    - <strong>Poema Mude de Edson Marques</strong>
+       - Mude, mas comece devagar, 
+       - porque a direção é mais importante que a velocidade. 
        - Mude de caminho, ande por outras ruas, 
        - observando os lugares por onde você passa. 
        - Veja o mundo de outras perspectivas. 
