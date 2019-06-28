@@ -61,7 +61,7 @@
  - Se você colocar a variável ser humano no meio da equação, o resultado sempre será imprevisível.
  - Julgar as pessoas apenas pelas aparências, nem sempre é o melhor caminho.
  - Ter um bilhão de perguntas na cabeça e ter consciência que você viverá sua vida toda e não conseguirá responder a maioria delas é bastante sufocante, alguns aprendem a lidar com isso, outros não. 
- - Ter o espírito de uma criança, mas não ser infantil. A vida é muito curta para levar tudo muito a sério.
+ - Tenha o espírito de uma criança, mas não seja infantil. A vida é muito curta para levar tudo muito a sério.
  - Todos nascem sozinhos e morrem sozinhos. Todos nascem pelados e morrem pelados. Solidão é diferente de solitude.
  - Um dia sem aprender algo novo, é um dia perdido.
  - A vida não é um mar de rosas, não seja ingênuo.
@@ -258,6 +258,7 @@
          - [ArduinoCreate Online](https://create.arduino.cc/)
          - [Brasilino](https://otacilion.github.io/Brasilino/)
             - Uma biblioteca que permite programar em linguagem Arduino utilizando comandos facilitados em PT-BR.
+   - [Portugol](http://lite.acad.univali.br/portugol/)
    - [MIT Scratch](https://scratch.mit.edu/projects/editor/) :video_game:
    - [Pico8](https://www.lexaloffle.com/pico-8.php) :video_game:
       - [NerdyTeachers](https://nerdyteachers.com/)
@@ -503,6 +504,7 @@
  - "Qual é a pior coisa que poderia acontecer se você fizesse o que você quer fazer?" - Tim Ferris
  - "Sempre que uma porta se fecha, outra se abre."
  - "Os homens perdem a saúde para juntar dinheiro, depois perdem o dinheiro para recuperar a saúde. E por pensarem ansiosamente no futuro esquecem do presente de forma que acabam por não viver nem no presente nem no futuro. Vivem como se nunca fossem morrer... e morrem como se nunca tivessem vivido."
+ - "Mude mais comece devagar, porque a direção é mais importante que a velocidade."
  - "O homem, que resolve parar até que as coisas melhorem, verificará que aquele que não parou está tão adiante que jamais será alcançado."
  - "Se você colocar o Einstein para jogar basquete com Michael Jordan, o Jordan vai achar que o Einstein é incompetente. Se você colocar o Michael Jordan para fazer física teórica com o Einstein, o Einstein vai achar que o Jordan é incompetente. Nenhum ser humano consegue analisar todas as variáveis de uma situação subjetiva."
  - "Há três caminhos para o fracasso: não ensinar o que se sabe, não praticar o que se ensina, e não perguntar o que se ignora." - São Beda
@@ -727,6 +729,8 @@
     - [Baboo](https://www.youtube.com/user/baboo/videos)
     - [CodellabCode](https://www.youtube.com/channel/UCVheRLgrk7bOAByaQ0IVolg)
     - [CanalTech](https://www.youtube.com/user/canaltechbr)
+    - [Bruno Germano](https://www.youtube.com/channel/UCBWbWViVqDHckknir8PIIdg/videos)
+    - [Brincando com Ideias](https://www.youtube.com/channel/UCcGk83PAQ5aGR7IVlD_cBaw)
     - [O Universo da Programação](https://www.youtube.com/channel/UCWrqsnPLl6aRX0ECUmPaZEw)
     - [UNIVESPTV](https://www.youtube.com/user/univesptv/playlists)
     - [Engenharia Reversa](https://www.youtube.com/channel/UCagV1LuB6C52fFtZwVywZYg)
@@ -1121,6 +1125,9 @@
        - 19. Respeite o Buda e os deuses sem contar com a ajuda deles.
        - 20. Você pode abandonar seu próprio corpo, mas deve preservar sua honra.
        - 21. Nunca se desvie do caminho.
+    - <strong>Diferença entre Conhecimento e Informação</strong>
+       - Informação: acumulativa
+       - Conhecimento: seletiva
     - <strong>Como Fazer Amigos e Influenciar Pessoas - Dale Carnegie</strong>
        - IDEIA  1: Lembre-se que o nome de uma pessoa é para ela o som mais doce e importante que existe em qualquer idioma
        - IDEIA  2: Fale de coisas que interessam à outra pessoa
@@ -1170,6 +1177,45 @@
              - Colocar datas realistas
         - Exemplo de meta SMART: Eu vou ler 24 livros de desenvolvimento pessoal nos próximos 12 meses.
         - Um dos maiores segredos para o sucesso é a disciplina, a constância e a paciência.
+    - <strong>Poema: Mude de Edson Marques</strong>
+       - Mas comece devagar, porque a direção 
+       - é mais importante que a velocidade. 
+       - Mude de caminho, ande por outras ruas, 
+       - observando os lugares por onde você passa. 
+       - Veja o mundo de outras perspectivas. 
+       - Descubra novos horizontes.
+       - Não faça do hábito um estilo de vida.
+       - Ame a novidade. 
+       - Tente o novo todo dia. 
+       - O novo lado, o novo método, o novo sabor, 
+       - o novo jeito, o novo prazer, o novo amor. 
+       - Busque novos amigos, tente novos amores. 
+       - Faça novas relações. 
+       - Experimente a gostosura da surpresa. 
+       - Troque esse monte de medo por um pouco de vida. 
+       - Ame muito, cada vez mais, e de modos diferentes. 
+       - Troque de bolsa, de carteira, de malas, de atitude.
+       - Mude. 
+       - Dê uma chance ao inesperado. 
+       - Abrace a gostosura da Surpresa.
+       - Sonhe só o sonho certo e realize-o todo dia.
+       - Lembre-se de que a Vida é uma só, 
+       - e decida-se por arrumar um outro emprego, 
+       - uma nova ocupação, um trabalho mais prazeroso, 
+       - mais digno, mais humano. 
+       - Abra seu coração de dentro para fora.
+       - Se você não encontrar razões para ser livre, invente-as.
+       - Exagere na criatividade. 
+       - E aproveite para fazer uma viagem longa, 
+       - se possível sem destino. 
+       - Experimente coisas diferentes, troque novamente. 
+       - Mude, de novo. 
+       - Experimente outra vez. 
+       - Você conhecerá coisas melhores e coisas piores, 
+       - mas não é isso o que importa. 
+       - O mais importante é a mudança, 
+       - o movimento, a energia, o entusiasmo.
+       - Só o que está morto não muda!
     - <strong>A Revolta de Atlas - :muscle: Ayn Rand :muscle:</strong>
        - “Quer saber se o dia da sociedade ser condenada se aproxima? Observe o dinheiro, ele é o barómetro da virtude de uma sociedade. Quando há comércio não por consentimento, mas por compulsão, quando para produzir é necessário pedir permissão a homens que nada produzem - quando o dinheiro flui para aqueles que não vendem produtos, mas tem influência - quando os homens enriquecem mais pelo suborno e pelos favores do que pelo trabalho, e as leis não protegem quem produz de quem rouba, mas sim quem rouba de quem produz - quando a corrupção é recompensada e a honestidade vira sacrifício - pode ter certeza de que a sociedade está condenada.”
        - "Ao longo dos séculos, existiram homens que deram os primeiros passos em novos caminhos, armados apenas com sua própria visão."
