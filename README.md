@@ -96,6 +96,7 @@
  - Não existe nenhuma receita de bolo de como viver. Saiba filtrar as informações e tirar suas próprias conclusões de acordo com a  sua realidade e o seu contexto.
  - Não adianta ter doutorado e não dar bom dia para o porteiro.
  - Nenhum ser humano é especial. É só estudar um pouco de Astronomia para entender isso.
+ - "Não deixe a faculdade atrapalhar seus estudos".
  - Não é a faculdade que faz o aluno, é o aluno que faz a faculdade.
 
 ## Recommendations
@@ -257,7 +258,8 @@
    - [Embarcados](https://www.embarcados.com.br/)
       - [Arduino](https://www.arduino.cc/)
          - [Manual Maker | Manual do Mundo - YouTube PlayList](https://www.youtube.com/watch?v=gcBN4NLqz_U&list=PLYjrJH3e_wDNLUTN32WittrpBxeleEqNp)
-         - [ArduinoCreate Online](https://create.arduino.cc/)
+         - [create.arduino.cc - IDE Online](https://create.arduino.cc/)
+         - [Tinkercard - Arduino Online](https://www.tinkercad.com/)
          - [Brasilino](https://otacilion.github.io/Brasilino/)
             - Uma biblioteca que permite programar em linguagem Arduino utilizando comandos facilitados em PT-BR.
    - [Portugol](http://lite.acad.univali.br/portugol/)
@@ -812,7 +814,8 @@
        - Ser um investidor == onde você investe o dinheiro, por exemplo, na Bolsa de Valores ou em um fundo de investimento;
        - Ser dono de um negócio == onde você tem uma micro, média, grande empresa, ecommerce, etc.
        - Ativo == Tudo aquilo que gera dinheiro
-       - Passivo == Tudo aquilo que tira dinheiro 
+       - Passivo == Tudo aquilo que tira dinheiro
+       - Sempre se pague primeiro, depois os outros.
     - <strong>Warren Buffet Principles</strong>
        - Warren Buffet diz que procuramos, em geral, três coisas em uma pessoa: a inteligência, a energia e integridade. E se ela não têm essa última coisa, a integridade, não precisamos nos preocupar com as outras duas.
        - Com ou sem integridade, é mais fácil se livrar de uma pessoa que não é inteligente, do que uma pessoa inteligente.
