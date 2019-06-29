@@ -142,6 +142,9 @@
     - [Insights StackOverFlow](https://insights.stackoverflow.com/)
     - [Jobs](https://stackoverflow.com/jobs)
     - [Trends StackOverFlow](https://insights.stackoverflow.com/trends?tags=r%2Cstatistics)
+ - DevTools
+    - [GitKraken](https://www.gitkraken.com/)
+    - [Hyper.is](https://hyper.is/)
  - [LastPass](https://www.lastpass.com/pt)
     - Software to save, create and remember all your passwords 
  - [Archive.org/web](https://archive.org/web/)
@@ -262,11 +265,16 @@
          - [Tinkercard - Arduino Online](https://www.tinkercad.com/)
          - [Brasilino](https://otacilion.github.io/Brasilino/)
             - Uma biblioteca que permite programar em linguagem Arduino utilizando comandos facilitados em PT-BR.
+      - [Hackster](https://www.hackster.io/)
    - [Portugol](http://lite.acad.univali.br/portugol/)
    - [MIT Scratch](https://scratch.mit.edu/projects/editor/) :video_game:
    - [Pico8](https://www.lexaloffle.com/pico-8.php) :video_game:
       - [NerdyTeachers](https://nerdyteachers.com/)
       - [NerdTeachers YouTube](https://www.youtube.com/channel/UCbMjF_cWciuBUZjILNL1fyA)
+   - Internet Of Things
+      - [Home-Assistant](https://www.home-assistant.io/)
+      - [MQTT](https://mqtt.org/)
+      - [Blynk.io](https://blynk.io/)
    - Code Online Having Fun :video_game:
       - [CodeCombat](https://codecombat.com/) 
       - [Code.org](https://code.org/)
@@ -775,6 +783,7 @@
     - [Minutos Psíquicos](https://www.youtube.com/channel/UCFiEI1kDHlO9UQtxx0wj-XA)
     - [CrashCourse Kids](https://www.youtube.com/user/crashcoursekids/videos)
     - [BigThink](https://www.youtube.com/user/bigthink)
+    - [Guru Da Ciência](https://www.youtube.com/channel/UCHgK6t6Ma6m15UNO2z7YZyw)
     - [AsapSCIENCE](https://www.youtube.com/channel/UCC552Sd-3nyi_tk2BudLUzA)
     - [Ciência Todo Dia](https://www.youtube.com/user/CienciaTodoDia)
     - [Primata Falante](https://www.youtube.com/user/mrprimatafalante)
