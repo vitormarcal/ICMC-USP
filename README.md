@@ -34,10 +34,10 @@
 
 ## What I Learned at University
 
- - Primeiro: que não sei nada.
- - Segundo: quanto mais eu estudo e aprendo, menos eu sei.
+ - <strong>Primeiro: que não sei nada.</strong>
+ - <strong>Segundo: quanto mais eu estudo e aprendo, menos eu sei, e quanto menos eu sei, mais eu tenho vontade de saber.</strong>
  - Existem gênios sem educação formal e idiotas com doutorado.
- - Existem graduados sem emprego, e pessoas com ensino fundamental milionários.
+ - Existem graduados sem emprego, e pessoas sem educação formal sábios e milionários.
  - A vida sempre foi, é, e será extremamente injusta. Todo mundo carrega uma cruz na vida. Aprenda a lidar com isso.
  - Geralmente, pessoas muito inteligentes estão dispostas a ouvir opiniões contrárias a dela, refletir e mudar sua opinião. Se você quer saber se uma pessoa é inteligente ou não, provavelmente isso já é um bom começo.
  - Há alunos gênios que ganharão prêmios Nobel. Há excelentes alunos que serão grandes mestres na universidade. Há ótimos alunos que serão grandes profissionais. Há bons alunos que querem ter um bom emprego e qualidade de vida. E há rebeldes que querem ser donos do próprio negócio. Cada aluno estuda com um objetivo diferente. 
@@ -287,6 +287,7 @@
       - [FilipeFlop](https://www.filipeflop.com) :muscle:
       - [Robocore](https://www.robocore.net)
       - [VidaDeSilicio](https://www.vidadesilicio.com.br/)
+      - [Arducore](https://www.arducore.com.br/)
 
 
 ## [Unix](https://pt.wikipedia.org/wiki/Unix)
@@ -486,7 +487,9 @@
  - "Mar calmo nunca fez bom marinheiro."
  - "Quem nunca sentiu o amargo da dor e do fracasso, não vai aproveitar ou dar valor o suficiente para o sucesso."
  - "Se você julgar um peixe pela sua capacidade de subir uma árvore, você vai passar a vida toda pensando que ele é estúpido."
+ - "Nunca vá dormir tão ignorante como quando acordou."
  - "Primeiro você escolhe, depois você colhe."
+ - "Ninguém é tão grande que não possa aprender, nem tão pequeno que não possa ensinar." - Esopo
  - "Sempre desconfie de pessoas que dizem que nunca se arrependeram de nada na vida."
  - "E aqueles que foram vistos dançando foram julgados insanos por aqueles que não podiam ouvir a música."
  - "Na vida, ou você influência, ou você é influenciado."
@@ -921,6 +924,34 @@
        - IDEIA #8: Desenvolva sua inteligência prática.
        - IDEIA #9: Seja disciplinado!
        - IDEIA #10: O peso dos nossos legados culturais
+    - <strong>Mikhail Litvak</strong>
+       - Quando um homem não pode dizer nada bom sobre si mesmo, e quer dizer algo, ele começará a falar mal dos outros.
+       - Agarre a ciência ao invés da garganta de uma pessoa que ama se você quiser agarrar algo.
+       - Depressão foi dada ao homem para que ele pudesse pensar sobre si próprio.
+       - Ninguém rejeita alguém. Ele somente segue em frente. Aquele que foi deixado pra trás é que se considera rejeitado.
+       - Se você acredita que é uma boa pessoa, por que você precisa que alguém pense isso sobre você?
+       - Faça o que quiser e não peça permissões para tal. Você não irá recebê-las.
+       - Os sinais de maturidade espiritual são a habilidade de amar e a habilidade de lidar com a solidão. Nós estamos fazendo as melhores coisas enquanto sozinhos.
+       - Uma pessoa imatura frequentemente sabe, mas não faz. Uma pessoa madura não somente sabe, mas faz. Assim sendo, um pessoa imatura critica e uma madura faz.
+       - Eu não sei o caminho para o sucesso. Mas eu sei o caminho para o fracasso - é o desejo de ser amado por todos.
+       - Não há lógica masculina ou feminina. Só há a habilidade ou inabilidade de pensar corretamente.
+       - Você somente quer saber quem é o seu maior inimigo? Olhe para o espelho. Derrote ele e os outros fugirão.
+       - Conquiste o sucesso - os insultos passarão.
+       - É legal conversar com os amigos. É útil conversar com os inimigos.
+       - Só há uma razão para abandonar seu trabalho ou acabar com um relacionamento - a inabilidade de atingir o crescimento pessoal nas dadas circunstâncias.
+       - Você deve compartilhar apenas alegria com amigos e inimigos. Seus amigos ficarão felizes e seus inimigos, chateados.
+       - Não corra atrás da felicidade e você irá encontrar um lugar feliz. Eu posso contá-lo o lugar em que a felicidade está - em você. A estrada para a felicidade é o máximo desenvolvimento de todas as suas habilidades.
+       - Felicidade é um produto de uma vida bem organizada.
+       - Se você quer provar algo a alguém, você existe apenas para aquela pessoa. Se você existe para si, então não precisa provar nada a ninguém.
+       - Imaginação - a voz de todas as suas habilidades. Dessa forma, eu não sonho em cantar opera. Eu não tenho a voz pra isso. E se eu sonhar com isso, eu estaria desencadeando minhas habilidades. Então, eu estaria fazendo qualquer coisa para me tornar parte do canto de ópera. Você apenas deve pensar em tornar seu sonho realidade. Não corra - é assim que os sonhos se tornam realidade mais rapidamente. É bom quando um homem diz - eu estou somente tentando fazer os meus sonhos tornaram-se realidade.
+       - É melhor se comunicar com um bom livro do que com uma pessoa vazia.
+       - Se as suas ações forem bem planejadas, a felicidade acontecerá naturalmente.
+       - Se você quiser sonhar, fantasie sobre coisas realistas e objetivos que podem ser atingidos. Dessa maneira, você não perderá a sua direção.
+       - Ao invés de ficar perto de uma pessoa que não lhe acrescenta nada, apenas para ter alguém do lado, compre um livro. Ele será uma melhor companhia e o manterá mais entretido.
+       - Uma pessoa que não consegue ser feliz consigo mesma sempre vai tentar ferir aqueles ao seu redor. E exatamente por isso nunca tem sobre o que conversar.
+       - Se você está solitário, principalmente após o fim de um relacionamento, significa que está amadurecendo e crescendo espiritualmente. Além disso, estar solitário pode aumentar nossa produtividade.
+       - O caminho correto nem sempre é o mais curto
+       - Se você não fizer nada por você mesmo, como você pode querer ajuda?
     - <strong>4 Passos da Competência</strong>
        - 1 - Inconscientemente incompetente: "você não sabe o quanto você não sabe"
        - 2 - Conscientemente incompetente: "você sabe o quanto você não sabe"
