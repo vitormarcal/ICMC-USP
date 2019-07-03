@@ -38,6 +38,8 @@
  - <strong>Segundo: quanto mais eu estudo e aprendo, menos eu sei, e quanto menos eu sei, mais eu tenho vontade de saber.</strong>
  - Existem gênios sem educação formal e idiotas com doutorado.
  - Existem graduados sem emprego, e pessoas sem educação formal sábios e milionários.
+ - Existem pessoas muito inteligentes mais nada sábios, e pessoas pouco inteligentes mais muito sábios. Uma pessoa inteligente resolve um problema, um sábio o previne.
+ - "Para ganhar conhecimento, adicione coisas todos os dias. Para ganhar sabedoria, elimine coisas todos os dias." - Lao-Tsé
  - A vida sempre foi, é, e será extremamente injusta. Todo mundo carrega uma cruz na vida. Aprenda a lidar com isso.
  - Geralmente, pessoas muito inteligentes estão dispostas a ouvir opiniões contrárias a dela, refletir e mudar sua opinião. Se você quer saber se uma pessoa é inteligente ou não, provavelmente isso já é um bom começo.
  - Há alunos gênios que ganharão prêmios Nobel. Há excelentes alunos que serão grandes mestres na universidade. Há ótimos alunos que serão grandes profissionais. Há bons alunos que querem ter um bom emprego e qualidade de vida. E há rebeldes que querem ser donos do próprio negócio. Cada aluno estuda com um objetivo diferente. 
@@ -97,7 +99,7 @@
  - Não adianta ter doutorado e não dar bom dia para o porteiro.
  - Nenhum ser humano é especial. É só estudar um pouco de Astronomia para entender isso.
  - "Não deixe a faculdade atrapalhar seus estudos".
- - Não é a faculdade que faz o aluno, é o aluno que faz a faculdade.
+ - "Não é a faculdade que faz o aluno, é o aluno que faz a faculdade."
 
 ## Recommendations
   
@@ -298,6 +300,7 @@
        - [Guia Foca](http://www.guiafoca.org/?page_id=51)
        - [SS64 - Commands CLI References](https://ss64.com/)
        - [Kernel.org](https://www.kernel.org/)
+       - [Linuxize](https://linuxize.com/)
     - Benchmark
        - [Phoronix Test Suite](https://www.phoronix-test-suite.com/?k=downloads)
     - Funny Commands
@@ -354,6 +357,7 @@
     - [OWASP](https://www.owasp.org/index.php/Main_Page)
     - [EUGDPR.org](https://eugdpr.org/)
     - [LGPD - Lei Geral de Proteção de Dados Pessoais](http://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2018/Lei/L13709.htm)
+    - [Haveibeenpwned](https://haveibeenpwned.com/)
     - [Livro - Fundamentos de Engenharia Reversa - Mente Binária](https://mentebinaria.gitbook.io/engenharia-reversa/antes-de-comecar)
     - [Forum CaveiraTech](https://caveiratech.com/forum/)
     - [Oauth2](https://oauth.net/2/)
@@ -362,6 +366,7 @@
     - [Gabriel Pato](https://www.youtube.com/channel/UC70YG2WHVxlOJRng4v-CIFQ)
     - [CaveiraTech](https://www.youtube.com/user/caveiratech2/playlists)
     - [Curso de Engenharia Reversa Online - Papo Binário](https://www.youtube.com/watch?v=IkUfXfnnKH4&list=PLIfZMtpPYFP6zLKlnyAeWY1I85VpyshAA)
+    - [Mr Robot](https://www.imdb.com/title/tt4158110/)
  - Courses 
     - [Fundamentos de Ethical Hacking - Udemy](https://www.udemy.com/fundamentos-de-ethical-hacking/learn/v4/)
     - [Solyd.com.br](https://solyd.com.br)
@@ -492,6 +497,8 @@
  - "Ninguém é tão grande que não possa aprender, nem tão pequeno que não possa ensinar." - Esopo
  - "Sempre desconfie de pessoas que dizem que nunca se arrependeram de nada na vida."
  - "E aqueles que foram vistos dançando foram julgados insanos por aqueles que não podiam ouvir a música."
+ - "Quem é sábio procura aprender, mais os tolos estão satisfeitos com a própria ignorância." - Salomão
+ - "Corrija um sábio e ele será mais sábio, corrija um tolo e você terá um inimigo."
  - "Na vida, ou você influência, ou você é influenciado."
  - "Você é a média das 5 pessoas que mais convive. Diga me com quem andas, que direi quem tu és."
  - "Ser grato pela vida, por tudo que tem e pelo que já conquistou."
@@ -504,6 +511,7 @@
  - "Quando alguém pergunta a um autor o que este quis dizer, é porque um dos dois é burro." - Mario Quintana
  - "O conhecimento sempre existiu. Basta buscá-lo."
  - "O cerébro humano é a coisa mais complexa que existe no universo. Nunca acredite que você realmente conhece outro ser humano. Se nem o próprio ser humano conhece totalmente a si mesmo, imagine conhecer totalmente o outro."
+ - "Nós somos o que fazemos repetidas vezes. A excelência portanto, não é um ato, mas um hábito." - Aristóteles
  - "Você precisar enxergar todo o macro, para entender muito bem o micro."
  - "É na dificuldade que se encontra a oportunidade."
  - "A qualidade das perguntas que você faz, determina a qualidade das respostas que você recebe."
@@ -525,11 +533,13 @@
  - "Você é livre para fazer o que quiser. Mas sempre será escravo das consequências."
  - "Não existe almoço grátis. Tudo tem um preço."
  - "Se você acha que investir em educação é caro, espera até conhecer o preço da ignorância." - Derek Bok
+ - "Coma o café da manhã como um rei, almoce como um príncipe e jante como um mendigo."
  - "Investir em conhecimento sempre rende os melhores juros." - Benjamin Franklin
  - "Se você quiser julgar o caráter de um homem, dê poder a ele." - Abraham Lincoln
  - "O povo não deve temer seu governo. O governo deve temer seu povo." - V de Vingança. 
  - "Memento mori - Lembre-se que você e todas as pessoas que você ama e se importa vão morrer algum dia."
  - "LIBERDADE = RESPONSABILIDADE"
+ - "MENOS = MAIS"
 
 ## Nice To Know :muscle:
 
@@ -1036,6 +1046,7 @@
        - "Você está certo." - finalizou o mestre.
     - <strong>Mario Sergio Cortella 🤔</strong>
        - "O intolerante é, acima de tudo, covarde. Em segundo lugar, ele é tonto. Porque ele é covarde? Porque ele tem tanto medo de ser como é, que a única maneira dele provar que a maneira como ele é a única certa é desprestigiando quem não é como ele. E, por isso, é uma forma de covardia, porque ele supõe que a única maneira dele crescer é se ele abaixar outra pessoa. Isso é coisa de gente pequena, não é coisa de gente grande. Em segundo lugar, ele é tolo. Porque achar que o único modo de ser é como eu sou é não só arrogante, como é uma negação da própria realidade."
+       - "Nós sempre estamos grávidos de nós mesmos."
     - <strong>Clóvis de Barros Filho 🤔</strong>
        - "O lixo da felicidade está na pretensão ilusória, mas a outra metade dela é linda: é a alegria que você não quer que acabe."
     - <strong>Luis Felipe Pondé 🤔</strong>
@@ -1096,6 +1107,12 @@
           - "Artes-marciais são principalmente fonte de auto-conhecimento. Um soco ou um chute não é para arrancar os males do cara a sua frente, mas para arrancá-los seu próprio ego, medo e obstáculos."
        - 10 - COMECE AGIR
           - "Saber não é o suficiente, você tem que aplicar; querer não é o bastante, você tem que fazer."
+    - <strong>Sêneca</strong>
+       - Deve-se dar à alma algum descanso. Repousando, ela se torna mais atilada para a ação.
+       - Mesmo que apenas eu saiba o que estou fazendo, agirei como se todos estivessem me vendo.
+       - Convém nos afastar da pompa e medir a utilidade das coisas, e não a sua beleza exterior.
+       - Talentos forçados respondem mal; Se a natureza é relutante, o trabalho é infrutífero.
+       - Seguimos a nós mesmos e não conseguimos jamais nos desembaraçar de nossa própria companhia! Assim, devemos saber que o mal contra o qual trabalhamos não vem dos lugares, mas de nós mesmos.
     - <strong>Como Aprender Kung Fu 功夫</strong>
        - 1 - Kung Fu 功夫 não pode ser “ensinado”, apenas aprendido. Como aprender a andar de bicicleta.
        - 2 - Você aprende Kung Fu 功夫sem perceber que está aprendendo.
