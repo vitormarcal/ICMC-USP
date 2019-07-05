@@ -3,6 +3,13 @@
 #### Source/Credits: https://blogdoatila.wordpress.com/2013/05/15/lista-bem-completa-de-comandos-linux/
 
 ```
+free -h
+ifconfig
+inxi -F
+sensors
+```
+
+```
 Lista bem completa de comandos Linux
 15 DE MAIO DE 2013 ATILA AUGUSTO2 COMENTÁRIOS
 —————————————————————————–
