@@ -120,6 +120,7 @@
      - [x] Berserk
      - [x] Monster
      - [x] Vagabond
+     - [x] Lone Wolf and Cub
      - [x] Good Night Punpun
   - Others
      - [x] Band of Brothers & Chernobyl HBO... and GOT of course.
@@ -327,6 +328,7 @@
        - [AnyDesk](https://anydesk.com)
        - [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
        - [Etcher - Flash OS images to SD cards & USB drives](https://etcher.io/)
+       - [YUMI – Multiboot USB Creator](https://www.pendrivelinux.com/yumi-multiboot-usb-creator/)
        - [WineHQ](https://www.winehq.org/)
        - [Vim Para Noobs](https://woliveiras.com.br/vimparanoobs/)
     - Games :video_game:
@@ -524,6 +526,7 @@
  - "Os homens perdem a saúde para juntar dinheiro, depois perdem o dinheiro para recuperar a saúde. E por pensarem ansiosamente no futuro esquecem do presente de forma que acabam por não viver nem no presente nem no futuro. Vivem como se nunca fossem morrer... e morrem como se nunca tivessem vivido."
  - "Mude mais comece devagar, porque a direção é mais importante que a velocidade."
  - "O homem, que resolve parar até que as coisas melhorem, verificará que aquele que não parou está tão adiante que jamais será alcançado."
+ - "Por três métodos nós podemos aprender sabedoria: Primeiro, por reflexão, que é a mais nobre; Segunda, por imitação, que é a mais fácil; A terceira, pela experiência, que é a mais amarga." - Confúcio
  - "Se você colocar o Einstein para jogar basquete com Michael Jordan, o Jordan vai achar que o Einstein é incompetente. Se você colocar o Michael Jordan para fazer física teórica com o Einstein, o Einstein vai achar que o Jordan é incompetente. Nenhum ser humano consegue analisar todas as variáveis de uma situação subjetiva."
  - "Há três caminhos para o fracasso: não ensinar o que se sabe, não praticar o que se ensina, e não perguntar o que se ignora." - São Beda
  - "Quem pergunta, é idiota por cinco minutos. Quem não pergunta, é idiota para sempre." - Wang-Wei
@@ -1018,6 +1021,10 @@
        - As que não fazem nada. (90%)
        - As que olham as coisas acontecerem. (5%)
        - As que fazem alguma coisa. (5%)
+    - <strong>3 Passos</strong>
+       - Conhecimento: Só fale quando perguntado!
+       - Inteligência: Escute o dobro do que fale quando perguntado!
+       - Sabedoria: Fique quieto!
     - <strong>4 Filosofias de Vida</strong>
        - Ganha-Perde: eu ganho, você perde
        - Perde-Ganha: vitimismo
@@ -1322,7 +1329,18 @@
           - 10) OPÇÃO das pessoas realizarem determinada ação em predeterminado tempo em troca de um preço. 
           - 11) SEGURO, caso queira proteger os ativos de seus clientes, você poderá assumir o risco de eventuais eventos negativos que possam ocorrer ao segurados em troca de um pagamento, só pagando o sinistro caso o evento negativo ocorra. 
           - 12) CAPITAL, você poderá investir em outros negócios através do seu CAPITAL, em que você adquirirá parcelas de um negócio. 
-    - <strong>A Escola Da Vida :smile: :heart: </strong>
+    - <strong>Como Adquirir a Verdadeira Sabedoria :smile:</strong>
+       - Era uma vez um jovem que visitou um grande sábio para lhe perguntar como se deveria viver para adquirir a sabedoria. O ancião, ao invés de responder, propôs um desafio:
+       - Encha uma colher de azeite e percorra todos os cantos deste lugar, mas não deixe derramar uma gota sequer.
+       - Após ter concordado, o jovem saiu com a colher na mão, andando a passos pequenos, olhando fixamente para ela e segurando-a com muita firmeza. Ao voltar, orgulhoso por ter conseguido cumprir a tarefa, mostrou a colher ao ancião, que perguntou:
+       - Você viu as belíssimas árvores que havia no caminho? Sentiu o aroma das maravilhosas flores do jardim? Escutou o canto dos pássaros?
+       - Sem entender muito o porquê disso tudo, o jovem respondeu que não e o ancião disse:
+       - Assim você nunca encontrará sabedoria na vida; vivendo apenas para cumprir suas obrigações sem usufruir das maravilhas do mundo. Assim nunca será sábio.
+       - Em seguida, pediu para o jovem repetir a tarefa, mas desta vez observando tudo pelo caminho. E lá foi o rapaz com a colher na mão, olhando e se encantando com tudo. Esqueceu da colher e passou a observar as árvores, cheirar as flores e ouvir os pássaros. 
+       - Ao voltar, o ancião perguntou se ele viu tudo e o jovem extasiado disse que sim. O velho sábio pediu para ver a colher e o jovem percebeu que tinha derramado todo o conteúdo pelo caminho.
+       - Disse-lhe o ancião:
+       - Assim você nunca encontrará sabedoria na vida; vivendo para as alegrias do mundo sem cumprir suas obrigações. Assim nunca será sábio. Para alcançar a sabedoria terá que cumprir suas obrigações sem perder a alegria de viver. Somente assim conhecerá a verdadeira sabedoria.
+    - <strong>A Escola Da Vida :smile: </strong>
        - Um erudito atravessava de barco um rio e, conversando com o barqueiro, perguntou:
        - Diga-me uma coisa: você sabe botânica?
        - O barqueiro olhou para o erudito e respondeu:
