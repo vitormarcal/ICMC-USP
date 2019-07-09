@@ -93,6 +93,7 @@
  - Conhecimento é sobre questionar, e não responder respostas prontas.
  - Excelentes professores quase sempre são aqueles que incentivam seus alunos a serem melhores do que eles.
  - Se você saiu da universidade com menos dúvidas e perguntas do que quando você entrou, você fez algo errado.
+ - Nunca tenha cabeça fechada. Pessoas simples e humildes muitas vezes nos ensinam muito mais do que gurus, mestres e doutores.
  - Os fracassos me ensinaram mais do que qualquer sucesso que já tive. 
  - Nunca idolatre ou venere outro ser humano. Nunca. Ninguém é perfeito, e ninguém deve ser endeusado. Não passamos de matéria orgânica com átomos organizados.
  - Não existe nenhuma receita de bolo de como viver. Saiba filtrar as informações e tirar suas próprias conclusões de acordo com a  sua realidade e o seu contexto.
