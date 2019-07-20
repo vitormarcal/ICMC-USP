@@ -32,7 +32,7 @@
 - [coursera.org/algorithms](https://pt.coursera.org/courses?query=algorithms)
 - [Electrical Engineering and Computer Science - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
 
-## What I Learned at University
+## What I Learned During University
 
  - <strong>Primeiro: que não sei nada.</strong>
  - <strong>Segundo: quanto mais eu estudo e aprendo, menos eu sei, e quanto menos eu sei, mais eu tenho vontade de saber.</strong>
@@ -83,9 +83,12 @@
  - Problemas e conflitos é tão essencial para a espécie homo sapiens, assim como o conceito de 'fim' é para o universo. Sem eles, ambos não existiriam.
  - Livre-Arbítrio é uma ilusão, 99% das coisas que acontecem na vida não somos nós que escolhemos ou controlamos.
  - O mundo e a sociedade não dão a mínima para o quão bom, inteligente, sábio, humilde, bondoso, esforçado ou talentoso você seja, eles só se importam com o valor que você agrega a eles. Não acredite em receitas de bolo para o sucesso.
+ - Tudo na vida é uma aposta. Investir em ações é uma aposta de retornos financeiros melhores. Investir em um diploma é uma aposta de um futuro melhor. Investir em relacionamentos é uma aposta de retorno de valor e que a outra pessoa não irá te trair, etc.
+ - Quanto menos expectativas você tiver da vida, do mundo e das pessoas, menos decepção você terá.
  - Nem todo mundo nasceu para fazer faculdade.
  - Melhor do que passar em qualquer matéria da faculdade, é saber cuidar da própria saúde e saber dar valor para as coisas que realmente importam.
  - Se o serviço é de graça, vocẽ é o produto.
+ - Uma pessoa comum consegue interpretar a realidade com 100 pontos de vista diferentes. Uma pessoa inteligente consegue interpretar a realidade com 1000 pontos de vista diferentes. E uma pessoa muito inteligente consegue interpretar a realidade com 10.000 pontos de vista diferentes.
  - Nunca compre uma vara de pescar, de quem nunca pescou um peixe.
  - Primeiro seja realista, depois otimista.
  - Existem bilhões de formas diferentes de viver, refletir e enxergar a vida.
@@ -1042,6 +1045,16 @@
        - Ansiedade + Medo = Preocupação.
        - Preocupação gera as Doenças.
        - Doenças gera as Mortes.
+    - <strong>5 Princípios do Jornalismo</strong>
+       - 1 - Princípio da Precisão.
+       - 2 - Princípio da Independência.
+       - 3 - Princípio da Imparcialidade.
+       - 4 - Princípio Humanitário.
+       - 5 - Princípio da Responsabilidade.
+    - <strong>Como Tomar Melhores Decisões - Regra 10/10/10</strong>
+       - 1 - Como me sentirei sobre minha decisão em 10 minutos?
+       - 2 - Como me sentirei sobre minha decisão em 10 meses?
+       - 3 - Como me sentirei sobre minha decisão em 10 anos? 
     - <strong>4 Tipos de Pessoas que Sempre Fracassam</strong>
        - Os indecisos.
        - Os poucos instruídos.
