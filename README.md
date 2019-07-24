@@ -44,7 +44,7 @@
  - Geralmente, pessoas muito inteligentes estão dispostas a ouvir opiniões contrárias a dela, refletir e mudar sua opinião. Se você quer saber se uma pessoa é inteligente ou não, provavelmente isso já é um bom começo.
  - Há alunos gênios que ganharão prêmios Nobel. Há excelentes alunos que serão grandes mestres na universidade. Há ótimos alunos que serão grandes profissionais. Há bons alunos que querem ter um bom emprego e qualidade de vida. E há rebeldes que querem ser donos do próprio negócio. Cada aluno estuda com um objetivo diferente. 
  - Quanto mais eu estudo assuntos do meu interesse, mais tesão eu tenho pela vida.
- - Lembre-se sempre: tudo pode piorar.
+ - Lembre-se sempre: tudo pode piorar. Não existe opção melhor, apenas opção menos pior.
  - Estudar assuntos por hobby (como filosofia, psicologia, psicanálise, economia, história, neurociência, etc) sem pressão de vestibular ou decoreba para fazer prova, além de ser mais eficiente, gera mais interesse pelo assunto.
  - Antes de ter, você precisa ser.
  - "Não importa o ninho, se o ovo é de águia." - Abraham Lincoln
@@ -77,6 +77,7 @@
  - Um rei só é um rei, porque todo seu povo concente com isso. Sem platéia não há espetáculo.
  - Se você acha que filosofia é inútil, você ainda não entendeu o que é filosofia.
  - É muito fácil julgar e desprezar uma pessoa pobre que não teve a mesma sorte, privilégios e oportunidades que você teve, quando você não precisa ficar preocupado aonde você vai morar ou com o que vai comer amanhã.
+ - A vida não segue nenhuma lógica. Você pode fazer todo o "script certinho da sociedade", como ser trabalhador, honesto, humilde, bondoso, inteligente, sempre gostar de ajudar os outros, e mesmo assim a vida pode te ferrar. Tem pessoas que cuidam muito da saúde e morrem por motivos naturais com 30 anos, e outros fumam a vida toda e morrem com 100 anos. Qual a lógica disso?
  - Se você não quebrar algumas regras durante a vida, você se arrependerá no final dela.
  - Seres humanos sempre tendem a interpretar o mundo de acordo com as próprias experiências. Pessoas que conseguem se colocar no lugar dos outros são tão raras como político honesto.
  - Desde que um ser humano não prejudique de forma alguma a liberdade e a vida de outro ser humano, o conceito de certo ou errado não existem, tudo é muito relativo. Justiça, ética, virtude e moral não existem, são apenas termos criados pelo próprio ser humano. A natureza e outros animais não se importam com isso. Durante a vida, todo ser humano é influenciado por bilhões de crenças e dogmas criados por outros seres humanos, e como todos sabem, ninguém é dono da verdade absoluta. Tudo pode ser contestado. Tudo pode ser questionado.
@@ -97,6 +98,7 @@
  - Excelentes professores quase sempre são aqueles que incentivam seus alunos a serem melhores do que eles.
  - Se você saiu da universidade com menos dúvidas e perguntas do que quando você entrou, você fez algo errado.
  - Nunca tenha cabeça fechada. Pessoas simples e humildes muitas vezes nos ensinam muito mais do que gurus, mestres e doutores.
+ - A única coisa que nos define, são nossas memórias e experiências. Você só é você por causa de suas memórias e experiências, sem elas, você não é você.
  - É necessário fracassar em algumas coisas na vida. Uma vida sem fracassos te tornará um fracasso.
  - Nunca idolatre ou venere outro ser humano. Nunca. Ninguém é perfeito, e ninguém deve ser endeusado. Não passamos de matéria orgânica com átomos organizados.
  - Não existe nenhuma receita de bolo de como viver. Saiba filtrar as informações e tirar suas próprias conclusões de acordo com a  sua realidade e o seu contexto.
@@ -1451,7 +1453,7 @@
        - Mas só a fé te mantém em pé.
        - Às vezes você não está satisfeito com sua vida, enquanto muitas pessoas neste mundo sonham em poder ter a sua vida.
        - Uma criança em uma fazenda vê um avião que voa e sonha em voar. Mas o piloto desse avião voa sobre a fazenda e sonha em voltar para casa.
-    -<strong>A Cruz :smile:</strong>
+    - <strong>A Cruz :smile:</strong>
        - Um grupo de pessoas caminhava, cada uma carregando uma grande cruz nas costas, rumo a um lugar onde esperavam encontrar alegria e felicidade. Depois de algum tempo de caminhada, todos começaram a sentir o peso da cruz. No meio desse grupo, havia uma pessoa que se julgava mais esperta que todas as outras. Ela percebeu que não havia ninguém liderando o grupo e que as pessoas a seu lado não estavam observando seus atos. Então, resolveu cortar um pedaço de sua cruz, para que a carga ficasse mais leve. Passado algum tempo, a cruz começou a pesar novamente. Como ela havia cortado um pedaço sem ninguém perceber e nada lhe havia acontecido, resolveu cortar mais outro pedaço. Assim, cada vez que sentia o peso da cruz, cortava mais um pedaço, até tê-la transformado numa pequena cruz.
        - Dias depois, todos chegaram à beira de um enorme precipício. Pular de um lado para o outro seria impossível. Então alguém observou que o comprimento da cruz deles era exatamente do mesmo tamanho de um lado ao outro do precipício. Cada um fez sua ponte, e assim todos chegaram ao lugar dos seus sonhos. Mas aquela pessoa que havia resolvido diminuir o peso — e consequentemente o tamanho da cruz — ficou sem saber o que fazer com a sua pequena cruz.
     - <strong>O Tesouro de Bresa nas Montanhas de Harbatol:smile:</strong>
