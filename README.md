@@ -84,7 +84,7 @@
  - Problemas e conflitos é tão essencial para a espécie homo sapiens, assim como o conceito de 'fim' é para o universo. Sem eles, ambos não existiriam.
  - Livre-Arbítrio é uma ilusão, 99% das coisas que acontecem na vida não somos nós que escolhemos ou controlamos.
  - O mundo e a sociedade não dão a mínima para o quão bom, inteligente, sábio, humilde, bondoso, esforçado ou talentoso você seja, eles só se importam com o valor que você agrega a eles. Não acredite em receitas de bolo para o sucesso.
- - Tudo na vida é uma aposta. Investir em ações é uma aposta de retornos financeiros melhores. Investir em um diploma é uma aposta de um futuro melhor. Investir em relacionamentos é uma aposta de retorno de valor e que a outra pessoa não irá te trair, etc.
+ - Tudo na vida é uma aposta. Investir em ações é uma aposta de retornos financeiros melhores. Investir em um diploma é uma aposta de um futuro melhor. Investir em relacionamentos é uma aposta de retorno de valor e que a outra pessoa não irá te trair, etc. A vida é totalmente imprevísivel. Carpe Diem.
  - Quanto menos expectativas você tiver da vida, do mundo e das pessoas, menos decepção você terá.
  - Nem todo mundo nasceu para fazer faculdade.
  - Melhor do que passar em qualquer matéria da faculdade, é saber cuidar da própria saúde e saber dar valor para as coisas que realmente importam.
