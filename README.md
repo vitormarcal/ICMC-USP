@@ -108,7 +108,7 @@
  - Nenhum ser humano é especial. É só estudar um pouco de Astronomia para entender isso.
  - "Não deixe a faculdade atrapalhar seus estudos".
  - "Não é a faculdade que faz o aluno, é o aluno que faz a faculdade."
- - <strong>Nunca, jamais, em hipótese alguma, acredite 100% no que outros seres humanos dizem. Aprenda a pensar por si mesmo, buscar informação em diferentes fontes, e tirar suas próprias conclusões de acordo com o seu contexto e a sua realidade. Se você acredita em 100% no que eu escrevi aqui, você é um alienado.</strong>
+ - <strong>Nunca, jamais, em hipótese alguma, acredite 100% no que outros seres humanos dizem. Aprenda a pensar por si mesmo, buscar informações em diferentes fontes, e tirar suas próprias conclusões de acordo com o seu contexto e a sua realidade. Se você acredita em 100% no que eu escrevi aqui, você é um alienado.</strong>
 
 ## Recommendations
   
