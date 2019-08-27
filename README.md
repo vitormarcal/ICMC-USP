@@ -104,6 +104,42 @@
  - "Não é a faculdade que faz o aluno, é o aluno que faz a faculdade."
  - <strong>Nunca, jamais, em hipótese alguma, acredite 100% no que outros seres humanos dizem. Aprenda a pensar por si mesmo, buscar informações em diferentes fontes, e tirar suas próprias conclusões de acordo com o seu contexto e a sua realidade. Se você acredita em 100% no que eu escrevi aqui, você é um alienado.</strong>
 
+## Useful Tools
+
+ - [EmojiPedia.org](https://emojipedia.org/search/?q=talks)
+ - Sites
+    - [Jornal Da USP](https://jornal.usp.br/)
+    - [Bpiropo](http://www.bpiropo.com.br/es_fpc1.htm)
+    - [Dev.to](https://dev.to/)
+ - Dev Jobs
+    - [hipsters.job](https://hipsters.jobs/)
+    - [Revelo](https://www.revelo.com.br/)
+    - [Vulpi](https://vulpi.com.br/)
+    - [Programathor](https://programathor.com.br/)
+    - [GeekHunter](https://www.geekhunter.com.br/)
+ - [StackOverFlow](https://stackoverflow.com/)
+    - [Insights StackOverFlow](https://insights.stackoverflow.com/)
+    - [Jobs](https://stackoverflow.com/jobs)
+    - [Trends StackOverFlow](https://insights.stackoverflow.com/trends?tags=r%2Cstatistics)
+ - StickersDev
+    - [Officeless Stickers](https://officeless-store.minestore.com.br/produtos/cartela-de-stickers-officeless)
+    - [StickersDevs](https://www.stickersdevs.com.br/)
+ - DevTools
+    - [GitKraken](https://www.gitkraken.com/)
+    - [Hyper.is](https://hyper.is/)
+ - [LastPass](https://www.lastpass.com/pt)
+    - Software to save, create and remember all your passwords 
+ - [Archive.org/web](https://archive.org/web/)
+    - How the websites were in the past
+ - [12minutos](https://12min.com/br)
+    - Books resume
+ - [Ngrok](https://ngrok.com/)
+    - localhost server
+ - [Cheatsheet do git-flow](https://danielkummer.github.io/git-flow-cheatsheet/index.pt_BR.html)
+    - Fast reference to git-flow
+ - [SubmarineCableMap](https://www.submarinecablemap.com/)
+    - Internet submarine cables around the world
+
 ## Algorithms and Data Structs
 
  - Genius Level Book :skull: :skull: :skull: :skull: :skull: 
@@ -394,6 +430,7 @@
        - [OneBitCode](https://onebitcode.com/category/podcast/)
        - [QuebraDev](http://quebradev.com.br/)
        - [Zofe](https://zofe.com.br/)
+       - [BoaNoite Internet](https://www.boanoiteinternet.com.br)
        - [Castalio](https://castalio.info/)
        - [ElementCast](https://elemencast.github.io/#/episodios/6)
        - [Egermano](https://anchor.fm/egermano)

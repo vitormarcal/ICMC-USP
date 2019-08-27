@@ -1,6 +1,16 @@
  - Aut Viam Inveniam Aut Faciam
  - Sapere Aude
 
+- [Fast Ruby on Rails Web MVP](https://guides.rubyonrails.org/getting_started.html)
+    - $ sudo apt update
+    - $ sudo apt install ruby-full
+    - $ ruby --version
+    - $ gem install rails
+    - $ rails --version
+    - $ rails new blog
+    - $ cd blog
+    - $ bin/rails server
+
 ## Recommendations
 
   - [x] Seinfield
@@ -42,45 +52,8 @@
            - Já foi dito que astronomia é uma experiência de humildade e criadora de caráter. Não há, talvez, melhor demonstração da tola presunção humana do que esta imagem distante do nosso minúsculo mundo. Para mim, destaca a nossa responsabilidade de sermos mais amáveis uns com os outros, e para preservarmos e protegermos o "pálido ponto azul", o único lar que conhecemos até hoje.
 
 
-## Useful Tools
 
- - [EmojiPedia.org](https://emojipedia.org/search/?q=talks)
- - Sites
-    - [Jornal Da USP](https://jornal.usp.br/)
-    - [Bpiropo](http://www.bpiropo.com.br/es_fpc1.htm)
- - Dev Jobs
-    - [hipsters.job](https://hipsters.jobs/)
-    - [Revelo](https://www.revelo.com.br/)
-    - [Vulpi](https://vulpi.com.br/)
-    - [GeekHunter](https://www.geekhunter.com.br/)
- - [StackOverFlow](https://stackoverflow.com/)
-    - [Insights StackOverFlow](https://insights.stackoverflow.com/)
-    - [Jobs](https://stackoverflow.com/jobs)
-    - [Trends StackOverFlow](https://insights.stackoverflow.com/trends?tags=r%2Cstatistics)
- - DevTools
-    - [GitKraken](https://www.gitkraken.com/)
-    - [Hyper.is](https://hyper.is/)
- - [LastPass](https://www.lastpass.com/pt)
-    - Software to save, create and remember all your passwords 
- - [Archive.org/web](https://archive.org/web/)
-    - How the websites were in the past
- - [12minutos](https://12min.com/br)
-    - Books resume
- - [Ngrok](https://ngrok.com/)
-    - Secure introspectable tunnels to localhost webhook development tool and debugging tool
- - [Cheatsheet do git-flow](https://danielkummer.github.io/git-flow-cheatsheet/index.pt_BR.html)
-    - Fast reference to git-flow
- - [SubmarineCableMap](https://www.submarinecablemap.com/)
-    - Internet submarine cables around the world
- - [Fast Ruby on Rails Web MVP](https://guides.rubyonrails.org/getting_started.html)
-    - $ sudo apt update
-    - $ sudo apt install ruby-full
-    - $ ruby --version
-    - $ gem install rails
-    - $ rails --version
-    - $ rails new blog
-    - $ cd blog
-    - $ bin/rails server
+ 
 
 
 ## Always Nice To Remember :smile:
