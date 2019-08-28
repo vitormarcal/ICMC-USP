@@ -31,7 +31,7 @@
  - <strong>Primeiro: que não sei nada.</strong>
  - <strong>Segundo: quanto mais eu estudo e aprendo, menos eu sei, e quanto menos eu sei, mais eu tenho vontade de saber.</strong>
  - Existem gênios sem educação formal e idiotas com doutorado.
- - Existem graduados sem emprego, e pessoas sem educação formal sábios e milionários.
+ - Existem graduados idiotas e desempregados, e pessoas sem educação formal sábios e milionários.
  - Existem pessoas muito inteligentes mais nada sábios, e pessoas pouco inteligentes mais muito sábios. Uma pessoa inteligente resolve um problema, um sábio o previne.
  - "Para ganhar conhecimento, adicione coisas todos os dias. Para ganhar sabedoria, elimine coisas todos os dias." - Lao-Tsé
  - A vida sempre foi, é, e será extremamente injusta. Todo mundo carrega uma cruz na vida. Aprenda a lidar com isso.
@@ -762,5 +762,12 @@
 <p align="center">
   "<strong>I... a universe of atoms, an atom in the universe."</strong><br><br> - Richard Feynman
     <br>
+  </p>
+
+
+<br><br>
+
+<p align="center">
+  <strong>NON SCHOLAE SED VITAE DISCIMUS</strong><br><br>
   </p>
 
