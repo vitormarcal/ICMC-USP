@@ -272,23 +272,23 @@
        - [Aurelio.net](https://aurelio.net/)
     - Benchmark
        - [Phoronix Test Suite](https://www.phoronix-test-suite.com/?k=downloads)
-    - Funny Commands
+    - Comandos engraçados para o terminal :smile:
        - $ fortune 
-          - If you are demotivated, maybe this command can be useful :smile:
+          - If you are demotivated, maybe this command can be useful
        - $ sl  
-          - Sheldon Cooper sure likes this command :smile:
+          - Sheldon Cooper sure likes this command
        - $ cmatrix
-          - man, I'm a hacker, wait, Neo it's you? :smile:
+          - man, I'm a hacker, wait, Neo it's you?
        - $ cowsay "I'm Awesome!"
-          - Wait, what is a cow doing here? :smile:
+          - Wait, what is a cow doing here?
        - $ xcowsay "I'm More Awesome!"
-          - Holy shit, this cow is more awesome. :smile:
+          - Holy shit, this cow is more awesome.
        - $ espeak "phrase here"
-          - I'm making contact with aliens man! :smile:
+          - I'm making contact with aliens man!
     - Apps for Learn Linux CLI Commands
        - [Linux Command Library](https://play.google.com/store/apps/details?id=com.inspiredandroid.linuxcommandbibliotheca&hl=en&rdid=com.inspiredandroid.linuxcommandbibliotheca)
     - YoTube
-       - [Diolinux](https://www.youtube.com/user/Diolinux) :muscle:
+       - [Diolinux](https://www.youtube.com/user/Diolinux)
        - [Toca do Tux](https://www.youtube.com/channel/UCkATW9o8m4pnXAAmac2o63Q)
        - [Curso de Linux Básico / Certificação LPIC1 - Bóson Treinamentos](https://www.youtube.com/watch?v=u16ZDPcf8Rc&list=PLucm8g_ezqNp92MmkF9p_cj4yhT-fCTl7)
     - Ferramentas
@@ -303,8 +303,8 @@
        - [Lutris](https://lutris.net/)
        - [ZNES](http://www.zsnes.com/)
        - [PlayOnLinux](https://www.playonlinux.com/en/)
-    - Currently Operation System
-       - [<strong>Lubuntu 18.04 LTS (Bionic Beaver) :heart: </strong>](https://lubuntu.net/)
+    - Sistema operacional que utilizo e recomendo
+       - [Lubuntu 18.04 LTS (Bionic Beaver)](https://lubuntu.net/)
   - FreeBSD
      - [Documentation PT-BR](https://www.freebsd.org/doc/pt_BR.ISO8859-1/)
     - [FreeBSD: O Poder dos Servidores em Suas Mãos - 2 Edição](https://www.amazon.com.br/FreeBSD-Poder-Servidores-Suas-M%C3%A3os-ebook/dp/B00FFZOE8Y)
@@ -390,13 +390,13 @@
 	         - [TheHiddenWiki](https://thehiddenwiki.org/)
           
 ## Programação Funcional
-    - [Aprender Haskell será um grande bem para você](http://haskell.tailorfontela.com.br/)
+  - [Aprender Haskell será um grande bem para você](http://haskell.tailorfontela.com.br/)
 
 ## Open Source
-    - [OpenSource.org](https://opensource.org/)
-    - [OpenSource.guide](https://opensource.guide/)
-    - [Creative Commons](https://creativecommons.org/)
-    - [Scrum Poker Online](https://scrumpoker.online/)
+  - [OpenSource.org](https://opensource.org/)
+  - [OpenSource.guide](https://opensource.guide/)
+  - [Creative Commons](https://creativecommons.org/)
+  - [Scrum Poker Online](https://scrumpoker.online/)
     
 
 ## Online Courses
@@ -1235,7 +1235,7 @@
      - Graças a seu trabalho e ao seu conhecimento, o reino progrediu rapidamente, trazendo riquezas e alegria para todo seu povo.
      - No entanto, ainda não conhecia o segredo de Bresa, apesar de ter lido e relido todas as páginas do livro.
      - Certa vez, teve a oportunidade de questionar um venerando sacerdote a respeito daquele mistério, que sorrindo esclareceu:
-    - "O tesouro de Bresa já está em seu poder, pois graças ao livro você adquiriu grande saber, que lhe proporcionou os invejáveis bens que possui. <strong>Afinal, Bresa significa SABER e Harbatol quer dizer TRABALHO.</strong>" 
+    - "O tesouro de Bresa já está em seu poder, pois graças ao livro você adquiriu grande saber, que lhe proporcionou os invejáveis bens que possui. Afinal, Bresa significa SABER e Harbatol quer dizer TRABALHO." 
 
 <br><br>
 
