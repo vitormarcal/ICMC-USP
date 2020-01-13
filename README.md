@@ -1,3 +1,6 @@
+###### Ultima atualização: Janeiro 2020
+  - Criei essa referência tanto para estudos pessoais, como para ajudar quem está iniciando na área e quer um norte para onde seguir etc. Compartilho aqui, tudo o que eu gostaria que tivessem compartilhado comigo quando eu comecei.
+
 <p align="center">
   "<strong>Everyone should learn how to program a computer, because it teaches you how to think."</strong><br><br> - Steve Jobs
     <br>
@@ -26,7 +29,7 @@
 - [coursera.org/algorithms](https://pt.coursera.org/courses?query=algorithms)
 - [Electrical Engineering and Computer Science - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
 
-## What I Learned During University
+## O Que Aprendi Durante a Universidade
 
  - <strong>Primeiro: que não sei nada.</strong>
  - <strong>Segundo: quanto mais eu estudo e aprendo, menos eu sei, e quanto menos eu sei, mais eu tenho vontade de saber.</strong>
@@ -72,10 +75,9 @@
  - Um rei só é um rei, porque todo seu povo concente com isso. Sem platéia não há espetáculo.
  - Se você acha que filosofia é inútil, você ainda não entendeu o que é filosofia.
  - É muito fácil julgar e desprezar uma pessoa pobre que não teve a mesma sorte, privilégios e oportunidades que você teve, quando você não precisa ficar preocupado aonde você vai morar ou com o que vai comer amanhã.
- - A vida não segue nenhuma lógica. Você pode fazer todo o "script certinho da sociedade", como ser trabalhador, honesto, humilde, bondoso, inteligente, sempre gostar de ajudar os outros, e mesmo assim a vida pode te ferrar. Tem pessoas que cuidam muito da saúde e morrem por motivos naturais com 30 anos, e outros fumam a vida toda e morrem com 100 anos. Qual a lógica disso?
+ - A vida não segue nenhuma lógica. Você pode fazer todo o "script certinho da sociedade", e mesmo assim a vida pode te ferrar. Tem pessoas que cuidam muito da saúde e morrem por motivos naturais com 30 anos, e outros fumam a vida toda e morrem com 100 anos. Qual a lógica disso?
  - Se você não quebrar algumas regras durante a vida, você se arrependerá no final dela.
  - Seres humanos sempre tendem a interpretar o mundo de acordo com as próprias experiências. Pessoas que conseguem se colocar no lugar dos outros são tão raras como político honesto.
- - Desde que um ser humano não prejudique de forma alguma a liberdade e a vida de outro ser humano, o conceito de certo ou errado não existem, tudo é muito relativo. Justiça, ética, virtude e moral não existem, são apenas termos criados pelo próprio ser humano. A natureza e outros animais não se importam com isso. Durante a vida, todo ser humano é influenciado por bilhões de crenças e dogmas criados por outros seres humanos, e como todos sabem, ninguém é dono da verdade absoluta. Tudo pode ser contestado. Tudo pode ser questionado.
  - Problemas e conflitos é tão essencial para a espécie homo sapiens, assim como o conceito de 'fim' é para o universo. Sem eles, ambos não existiriam.
  - Livre-Arbítrio é uma ilusão, 99% das coisas que acontecem na vida não somos nós que escolhemos ou controlamos.
  - O mundo e a sociedade não dão a mínima para o quão bom, inteligente, sábio, humilde, bondoso, esforçado ou talentoso você seja, eles só se importam com o valor que você agrega a eles. Não acredite em receitas de bolo para o sucesso.
@@ -102,10 +104,17 @@
  - Nenhum ser humano é especial. É só estudar um pouco de Astronomia para entender isso.
  - "Não deixe a faculdade atrapalhar seus estudos".
  - "Não é a faculdade que faz o aluno, é o aluno que faz a faculdade."
- - <strong>Nunca, jamais, em hipótese alguma, acredite 100% no que outros seres humanos dizem. Aprenda a pensar por si mesmo, buscar informações em diferentes fontes, e tirar suas próprias conclusões de acordo com o seu contexto e a sua realidade. Se você acredita em 100% no que eu escrevi aqui SEM QUESTIONAR, você é um alienado.</strong>
+ - <strong>Nunca, jamais, em hipótese alguma, acredite 100% no que outros seres humanos dizem. Aprenda a pensar por si mesmo, buscar informações em diferentes fontes, e tirar suas próprias conclusões de acordo com o seu contexto e a sua realidade. Se você acredita em 100% no que eu escrevi aqui SEM QUESTIONAR e/ou REFLETIR, você é um ALIENADO.</strong>
+ - Por último, mas não menos importante: Tenha personalidade própria! O mundo está cheio de pessoas querendo ser quem não são. Ligue o foda-se para aquilo que te faz mal, faça o bem e seja feliz!
 
-## Useful Tools
+## Ferramentas Úteis
 
+ - [LastPass](https://www.lastpass.com/pt)
+ - [Archive.org/web](https://archive.org/web/)
+ - [12minutos](https://12min.com/br)
+ - [Ngrok](https://ngrok.com/)
+ - [Cheatsheet do git-flow](https://danielkummer.github.io/git-flow-cheatsheet/index.pt_BR.html)
+ - [SubmarineCableMap](https://www.submarinecablemap.com/)
  - [EmojiPedia.org](https://emojipedia.org/search/?q=talks)
  - Sites
     - [Jornal Da USP](https://jornal.usp.br/)
@@ -127,20 +136,9 @@
  - DevTools
     - [GitKraken](https://www.gitkraken.com/)
     - [Hyper.is](https://hyper.is/)
- - [LastPass](https://www.lastpass.com/pt)
-    - Software to save, create and remember all your passwords 
- - [Archive.org/web](https://archive.org/web/)
-    - How the websites were in the past
- - [12minutos](https://12min.com/br)
-    - Books resume
- - [Ngrok](https://ngrok.com/)
-    - localhost server
- - [Cheatsheet do git-flow](https://danielkummer.github.io/git-flow-cheatsheet/index.pt_BR.html)
-    - Fast reference to git-flow
- - [SubmarineCableMap](https://www.submarinecablemap.com/)
-    - Internet submarine cables around the world
+ 
 
-## Algorithms and Data Structs
+## Algoritmos e Estrutura de Dados
 
  - Bíblia Análise de Algoritmos :skull: 
     - [The Art of Computer Programming - Donald Yoda Knuth](https://www.amazon.com.br/Computer-Programming-Volumes-1-4a-Boxed/dp/0321751043?tag=goog0ef-20&smid=A1ZZFT5FULY4LN&ascsubtag=go_1157433115_58530734048_257324212232_pla-433354953279_c_)
@@ -149,7 +147,7 @@
  - Sites
     - [GeeksForGeeks](https://www.geeksforgeeks.org/)
     - [AssemblyProgressivo.net](https://www.assemblyprogressivo.net/)
-- Code Training
+- Treinamento de Código
     - [Project Euler](https://projecteuler.net/)
     - [HackerRank](https://www.hackerrank.com/)
     - [Edabit](https://edabit.com)
@@ -157,9 +155,9 @@
 - KhanAcademy 
    - [Computer Science](https://www.khanacademy.org/computing/computer-science)
    - [Notação assintótica](https://pt.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/asymptotic-notation)
-- Recursion :skull:
+- Recursão :skull:
    - [O que é recursão? Teste de Mesa com Fatorial - Softblue](https://www.youtube.com/watch?v=V60g61dhKmg)
-- Data Structs Visualization :skull:
+- Visualização de Estruturas de Dados :skull:
    - [VisualGo](https://visualgo.net/en)
    - [University of San Francisco - CS](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 - Big O Notation :skull: 
