@@ -105,7 +105,7 @@
  - "Não deixe a faculdade atrapalhar seus estudos".
  - "Não é a faculdade que faz o aluno, é o aluno que faz a faculdade."
  - <strong>Nunca, jamais, em hipótese alguma, acredite 100% no que outros seres humanos dizem. Aprenda a pensar por si mesmo, buscar informações em diferentes fontes, e tirar suas próprias conclusões de acordo com o seu contexto e a sua realidade. Se você acredita em 100% no que eu escrevi aqui SEM QUESTIONAR e/ou REFLETIR, você é um ALIENADO.</strong>
- - Por último, mas não menos importante: Tenha personalidade própria! O mundo está cheio de pessoas querendo ser quem não são. Ligue o foda-se para aquilo que te faz mal, faça o bem e seja feliz!
+ - Por último, mas não menos importante: Tenha personalidade própria! O mundo já está cheio de pessoas querendo ser quem não são.
 
 ## Ferramentas Úteis
 
@@ -143,7 +143,7 @@
  - Bíblia Análise de Algoritmos :skull: 
     - [The Art of Computer Programming - Donald Yoda Knuth](https://www.amazon.com.br/Computer-Programming-Volumes-1-4a-Boxed/dp/0321751043?tag=goog0ef-20&smid=A1ZZFT5FULY4LN&ascsubtag=go_1157433115_58530734048_257324212232_pla-433354953279_c_)
  - YouTube
-    - [Linguagem C Programação Descomplicada](https://www.youtube.com/user/progdescomplicada/videos) :skull:
+    - [Linguagem C Programação Descomplicada](https://www.youtube.com/user/progdescomplicada/videos)
  - Sites
     - [GeeksForGeeks](https://www.geeksforgeeks.org/)
     - [AssemblyProgressivo.net](https://www.assemblyprogressivo.net/)
@@ -165,19 +165,19 @@
    - [A coffee-break introduction to time complexity of algorithms](https://dev.to/vickylai/a-coffee-break-introduction-to-time-complexity-of-algorithms-160m?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email)
    - O(1) Constant Time
       - Melhor caso possível
-      - Se um algoritmo possui tempo constante, ele sempre vai executar 
-      - Example: array.pop()
+      - Se um algoritmo possui tempo constante, significa que sempre vai levar o mesmo tempo para produzir o resultado.
+      - Exemplo: array.pop() -> tirar último item de um array, independente do tamanho, levará sempre o mesmo tempo!
    - Logarithms O(log n)
-      - Preferible in most of times
-      - Logarithms are the inverse of exponentiation.
-      - Example: Classic Binary search algorithm -> divide-to-conquer
+      - Preferível na maioria das vezes
+      - Logaritimos são o inverso da exponenciação.
+      - Exemplo: Algoritmo de busca binária -> dividir para conquistar
       - <img src="ologn.png" alt="ologn">
    - Linear time O(n)
-      - Preferible in most of times
-      - If an algorithm has a linear time, it means that the running time of an algorithm grows as the input size grows.
-      - Example: array.forEach() sum all values
+      - Preferível na maioria das vezes
+      - Se um algoritmo possui tempo linear, significa que o tempo de execução aumenta linearmente de acordo com o tamanho do input.
+      - Exemplo: array.forEach() soma de todos os valores
    - Linear Logarithms O(n log n)
-      - Acceptable
+      - Aceitável
       ```
       x = n
       while ( x > 0 ) {
@@ -188,11 +188,12 @@
         x -= 1
       }
       ```
-      - Examples: classic Quicksort, Mergesort and Heapsort  -> divide-to-conquer
+      - Examples: Quicksort, Mergesort and Heapsort  -> dividir para conquistar
    - Quadratic time O(n²) :skull:
-      - Nice To Avoid
-      - The running time of an algorithm is directly proportional to the square of the size of the input.
-      - Example: Sum of matrizes
+      - Bom evitar
+      - O tempo de execução desse algoritmo é diretamente proporcional ao o quadrado do input.
+      - Ou seja: 2->4  3->9  4->16  5->25 etc
+      - Exemplo: Soma de matrizes
       ```
       for (var outer = 0; outer < elements.Count; outer++){
         for (var inner = 0; inner < elements.Count; inner++){
@@ -201,9 +202,9 @@
       }
       ```
    - Exponential Time O(2^n) :skull: :skull:
-      - One of the worst case possible, always try to avoid
-      - Denotes an algorithm whose growth doubles with each additon to the input data set. The growth curve of an O(2N) function is exponential - starting off very shallow, then rising meteorically
-      - Example: recursive calculation of Fibonacci numbers
+      - Um dos piores casos, sempre é bom evitar
+      - Indica um algoritmo cujo crescimento dobra a cada adição ao conjunto de dados de entrada. A curva de crescimento de uma função O (2N) é exponencial - começando muito rasa e depois subindo meteoricamente
+      - Exemplo: recursive calculation of Fibonacci numbers
       ```
       int Fibonacci(int number){
           if (number <= 1) return number;
@@ -215,8 +216,8 @@
      - Extremamente não perfomático
      - Vai executar em tempo fatorial para cada operação
      - Exemplo: Problema do vendedor viajante
-        - "Given a list of cities and the distances between each pair of cities, what is the shortest possible route that visits each city and returns to the origin city?"
-   - <strong>Resume</strong>
+        - "Dada uma lista de cidades e as distâncias entre cada par de cidades, qual é o caminho mais curto possível que visita cada cidade e retorna à cidade de origem?"
+   - <strong>Resumo</strong>
       - <img src="big-o-names.jpeg" alt="Big(O) Names">
       - <img src="big-o-graphic.jpeg" alt="Big(O) Graphic">
 
