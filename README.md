@@ -1,6 +1,7 @@
 ###### Ultima atualização: Janeiro 2020
 ###### Criei esse repositório tanto para estudos pessoais, como para ajudar quem está iniciando na área e quer um norte para onde seguir etc. Compartilho aqui, tudo o que eu gostaria que tivessem compartilhado comigo.
 
+<br>
 <p align="center">
   "<strong>Everyone should learn how to program a computer, because it teaches you how to think."</strong><br><br> - Steve Jobs
     <br>
@@ -19,7 +20,7 @@
    
 ## Roadmap Software Engineering
 
-- [<strong>Teach Yourself Programming in Ten Years - Peter Norvig</strong>](http://norvig.com/21-days.html)
+- [Teach Yourself Programming in Ten Years - Peter Norvig](http://norvig.com/21-days.html)
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 - [Teach Yourself CS](https://teachyourselfcs.com/)
 - [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
@@ -31,8 +32,8 @@
 
 ## O Que Aprendi Durante a Universidade
 
- - <strong>Primeiro: que não sei nada.</strong>
- - <strong>Segundo: quanto mais eu estudo e aprendo, menos eu sei, e quanto menos eu sei, mais eu tenho vontade de saber.</strong>
+ - Primeiro: que não sei nada.
+ - Segundo: quanto mais eu estudo e aprendo, menos eu sei, e quanto menos eu sei, mais eu tenho vontade de saber.
  - Existem gênios sem educação formal e idiotas com doutorado.
  - Existem graduados idiotas e desempregados, e pessoas sem educação formal sábios e milionários.
  - Existem pessoas muito inteligentes mais nada sábios, e pessoas pouco inteligentes mais muito sábios. Uma pessoa inteligente resolve um problema, um sábio o previne.
@@ -54,10 +55,9 @@
  - Meritocracia é um termo extremamente relativo, e quase sempre, não existe.
  - Burocracia e Empregadores se importam com suas notas. A vida e os clientes não. 
  - Em um mundo com informação e conhecimento abundante de fácil acesso, a questão não é mais "COMO fazer" mas "O QUE fazer".
- - Clássicos não são clássicos atoa. Clássicos são eternos. Valorize os clássicos.
+ - Clássicos não são clássicos atoa. Clássicos são eternos, valorizem os clássicos.
  - Aprender a questionar, aprender a aprender e saber lidar com pessoas provavelmente são as melhores habilidades que um ser humano pode desenvolver.
  - O mundo da voltas. Quem está por cima hoje, pode estar por baixo amanhã. Um dia você ajuda, outro dia você precisa ser ajudado.
- - Quanto mais eu estudo tecnologia, mais tesão eu tenho por tecnologia.
  - Há pessoas que sobreviveram muito mas viveram pouco, e há pessoas que sobreviveram pouco mas viveram muito. A maioria das pessoas não vivem, apenas existem. Algumas por opção, e a maioria por falta de opção. 
  - Se você colocar a variável ser humano no meio da equação, o resultado sempre será imprevisível.
  - Julgar as pessoas apenas pelas aparências, nem sempre é o melhor caminho.
@@ -77,13 +77,13 @@
  - É muito fácil julgar e desprezar uma pessoa pobre que não teve a mesma sorte, privilégios e oportunidades que você teve, quando você não precisa ficar preocupado aonde você vai morar ou com o que vai comer amanhã.
  - A vida não segue nenhuma lógica. Você pode fazer todo o "script certinho da sociedade", e mesmo assim a vida pode te ferrar. Tem pessoas que cuidam muito da saúde e morrem por motivos naturais com 30 anos, e outros fumam a vida toda e morrem com 100 anos. Qual a lógica disso?
  - Se você não quebrar algumas regras durante a vida, você se arrependerá no final dela.
- - Seres humanos sempre tendem a interpretar o mundo de acordo com as próprias experiências. Pessoas que conseguem se colocar no lugar dos outros são tão raras como político honesto.
+ - Seres humanos sempre tendem a interpretar o mundo de acordo com as próprias experiências, crenças, pensamentos, etc. Cada ser humano é um universo a parte. 
  - Problemas e conflitos é tão essencial para a espécie homo sapiens, assim como o conceito de 'fim' é para o universo. Sem eles, ambos não existiriam.
  - Livre-Arbítrio é uma ilusão, 99% das coisas que acontecem na vida não somos nós que escolhemos ou controlamos.
  - O mundo e a sociedade não dão a mínima para o quão bom, inteligente, sábio, humilde, bondoso, esforçado ou talentoso você seja, eles só se importam com o valor que você agrega a eles. Não acredite em receitas de bolo para o sucesso.
- - Tudo na vida é uma aposta. Investir em ações é uma aposta de retornos financeiros melhores. Investir em um diploma é uma aposta de um futuro melhor. Investir em relacionamentos é uma aposta de retorno de valor e que a outra pessoa não irá te trair, etc. A vida é totalmente imprevísivel. Carpe Diem.
+ - Tudo na vida é uma aposta. Investir em ações é uma aposta de retornos financeiros melhores. Investir em um diploma é uma aposta de um futuro melhor. Investir em relacionamentos é uma aposta de retorno de valor e que a outra pessoa não irá te trair, etc. A vida é totalmente imprevísivel. 
  - Quanto menos expectativas você tiver da vida, do mundo e das pessoas, menos decepção você terá.
- - Nem todo mundo nasceu para fazer faculdade.
+ - Nem todo mundo nasceu para fazer faculdade, ser presidente dos Estados Unidos, pisar na Lua, ser bilionário. Aprenda a ser grato e feliz por tudo que tem e já conquistou.
  - Melhor do que passar em qualquer matéria da faculdade, é saber cuidar da própria saúde e saber dar valor para as coisas que realmente importam.
  - Se o serviço é de graça, vocẽ é o produto.
  - Uma pessoa comum consegue interpretar a realidade com 100 pontos de vista diferentes. Uma pessoa inteligente consegue interpretar a realidade com 1000 pontos de vista diferentes. E uma pessoa muito inteligente consegue interpretar a realidade com 10.000 pontos de vista diferentes.
