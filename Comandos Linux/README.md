@@ -1,6 +1,4 @@
-## Linux Commands
-
-#### Source/Credits: https://blogdoatila.wordpress.com/2013/05/15/lista-bem-completa-de-comandos-linux/
+###### Source/Credits: https://blogdoatila.wordpress.com/2013/05/15/lista-bem-completa-de-comandos-linux/
 
 ```
 Lista bem completa de comandos Linux
